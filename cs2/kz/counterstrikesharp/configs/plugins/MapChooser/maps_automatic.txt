@@ -930,4 +930,12 @@
 		"updatedname"		"kz_jakke"
 		"OnlyNominate"		"0"
 	}
+	"kz_devon"
+	{
+		"workshop_id"		"3434238689"
+		"enabled"		"1"
+		"filename"		"kz_devon"
+		"updatedname"		"kz_devon"
+		"OnlyNominate"		"0"
+	}
 }
