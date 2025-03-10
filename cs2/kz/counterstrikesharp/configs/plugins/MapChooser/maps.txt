@@ -791,13 +791,6 @@
 		"filename"		"kz_slide_arid"
 		"updatedname"		"kz_slide_arid"
 	}
-	"kz_minecraft_village"
-	{
-		"workshop_id"		"3412458047"
-		"enabled"		"0"
-		"filename"		"kz_minecraft_village"
-		"updatedname"		"kz_minecraft_village"
-	}
 	"kz_geometrydash_rofl"
 	{
 		"workshop_id"		"3400789439"
