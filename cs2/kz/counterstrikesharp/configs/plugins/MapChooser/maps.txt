@@ -930,4 +930,28 @@
 		"updatedname"		"kz_jakke"
 		"OnlyNominate"		"0"
 	}
+	"kz_devon"
+	{
+		"workshop_id"		"3434238689"
+		"enabled"		"1"
+		"filename"		"kz_devon"
+		"updatedname"		"kz_devon"
+		"OnlyNominate"		"0"
+	}
+	"kz_kukkojapallokidutus"
+	{
+		"workshop_id"		"3441683786"
+		"enabled"		"1"
+		"filename"		"kz_kukkojapallokidutus"
+		"updatedname"		"kz_kukkojapallokidutus"
+		"OnlyNominate"		"0"
+	}
+	"kz_p1"
+	{
+		"workshop_id"		"3441144088"
+		"enabled"		"1"
+		"filename"		"kz_p1"
+		"updatedname"		"kz_p1"
+		"OnlyNominate"		"0"
+	}
 }
