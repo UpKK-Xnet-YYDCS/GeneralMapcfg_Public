@@ -3,7 +3,7 @@
 	"KZ_HUB"
 	{
 		"workshop_id"		"3070220367"
-		"enabled"		"1"
+		"enabled"		"0"
 		"filename"		"KZ_HUB"
 		"updatedname"		"KZ_HUB"
 	}
