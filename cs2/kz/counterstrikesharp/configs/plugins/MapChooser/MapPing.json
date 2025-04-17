@@ -1,0 +1,530 @@
+[
+  {
+    "MapName": "kz_ehcivec_final",
+    "WorkshopId": "3082213334"
+  },
+  {
+    "MapName": "kz_superstructure",
+    "WorkshopId": "3266838066"
+  },
+  {
+    "MapName": "kz_alfama",
+    "WorkshopId": "3237967740"
+  },
+  {
+    "MapName": "kz_misaka",
+    "WorkshopId": "3249152112"
+  },
+  {
+    "MapName": "kz_gus",
+    "WorkshopId": "3082144971"
+  },
+  {
+    "MapName": "kz_sxb2_surfaintkz",
+    "WorkshopId": "3107580148"
+  },
+  {
+    "MapName": "kz_train",
+    "WorkshopId": "3290473039"
+  },
+  {
+    "MapName": "kz_serfdom",
+    "WorkshopId": "3162361624"
+  },
+  {
+    "MapName": "kz_rome",
+    "WorkshopId": "3294243116"
+  },
+  {
+    "MapName": "kz_isuper",
+    "WorkshopId": "3100988369"
+  },
+  {
+    "MapName": "kz_skytower",
+    "WorkshopId": "3276311176"
+  },
+  {
+    "MapName": "kz_cg_lighthops",
+    "WorkshopId": "3211915934"
+  },
+  {
+    "MapName": "kz_variety",
+    "WorkshopId": "3250132197"
+  },
+  {
+    "MapName": "kz_checkmate",
+    "WorkshopId": "3070194623"
+  },
+  {
+    "MapName": "kz_sxb2_cxz",
+    "WorkshopId": "3083714192"
+  },
+  {
+    "MapName": "kz_ladderdespair",
+    "WorkshopId": "3234811937"
+  },
+  {
+    "MapName": "kz_leto_v2",
+    "WorkshopId": "3070830826"
+  },
+  {
+    "MapName": "kz_slide_dydanhomon",
+    "WorkshopId": "3329135256"
+  },
+  {
+    "MapName": "kz_ambition",
+    "WorkshopId": "3231632688"
+  },
+  {
+    "MapName": "kz_niche",
+    "WorkshopId": "3160291769"
+  },
+  {
+    "MapName": "kz_dog",
+    "WorkshopId": "3071622478"
+  },
+  {
+    "MapName": "kz_dam",
+    "WorkshopId": "3280262338"
+  },
+  {
+    "MapName": "kz_sketchie",
+    "WorkshopId": "3277779156"
+  },
+  {
+    "MapName": "kz_communityjump3",
+    "WorkshopId": "3202427394"
+  },
+  {
+    "MapName": "kz_combobreaker",
+    "WorkshopId": "3329139574"
+  },
+  {
+    "MapName": "kz_bd_its_mygo",
+    "WorkshopId": "3285279291"
+  },
+  {
+    "MapName": "kz_sxb_onlyslide",
+    "WorkshopId": "3235790896"
+  },
+  {
+    "MapName": "bkz_iota",
+    "WorkshopId": "3240650433"
+  },
+  {
+    "MapName": "kz_ltt",
+    "WorkshopId": "3072699538"
+  },
+  {
+    "MapName": "kz_sonder",
+    "WorkshopId": "3276936665"
+  },
+  {
+    "MapName": "kz_hb_mute",
+    "WorkshopId": "3159507211"
+  },
+  {
+    "MapName": "kz_deuxme",
+    "WorkshopId": "3291309096"
+  },
+  {
+    "MapName": "kz_obsidian",
+    "WorkshopId": "3332796414"
+  },
+  {
+    "MapName": "kz_sxb2_biewan",
+    "WorkshopId": "3076000218"
+  },
+  {
+    "MapName": "kz_sxb2_poi",
+    "WorkshopId": "3107676358"
+  },
+  {
+    "MapName": "kz_sxb_sc_surf",
+    "WorkshopId": "3241559107"
+  },
+  {
+    "MapName": "kz_bhop_lego",
+    "WorkshopId": "3231517132"
+  },
+  {
+    "MapName": "kz_onlime",
+    "WorkshopId": "3333177952"
+  },
+  {
+    "MapName": "kz_colors",
+    "WorkshopId": "3160120310"
+  },
+  {
+    "MapName": "kz_consequence",
+    "WorkshopId": "3250581189"
+  },
+  {
+    "MapName": "kz_sxb2_makabaka",
+    "WorkshopId": "3240801191"
+  },
+  {
+    "MapName": "kz_sxb_sc_collapse",
+    "WorkshopId": "3277307618"
+  },
+  {
+    "MapName": "kz_simplyhard",
+    "WorkshopId": "3078311932"
+  },
+  {
+    "MapName": "kz_16pillars",
+    "WorkshopId": "3332836301"
+  },
+  {
+    "MapName": "kz_phamous",
+    "WorkshopId": "3104579274"
+  },
+  {
+    "MapName": "kz_grotto",
+    "WorkshopId": "3121168339"
+  },
+  {
+    "MapName": "kz_sxb2_remake",
+    "WorkshopId": "3071551126"
+  },
+  {
+    "MapName": "kz_paradise",
+    "WorkshopId": "3276365521"
+  },
+  {
+    "MapName": "kz_sxb2_misato",
+    "WorkshopId": "3082850001"
+  },
+  {
+    "MapName": "kz_concord",
+    "WorkshopId": "3287874815"
+  },
+  {
+    "MapName": "kz_rc_twotowers",
+    "WorkshopId": "3083509404"
+  },
+  {
+    "MapName": "kz_rennzoku",
+    "WorkshopId": "3323894676"
+  },
+  {
+    "MapName": "kz_xmas2023",
+    "WorkshopId": "3124558836"
+  },
+  {
+    "MapName": "bkz_impulse",
+    "WorkshopId": "3257374814"
+  },
+  {
+    "MapName": "kz_ladderhell",
+    "WorkshopId": "3236545332"
+  },
+  {
+    "MapName": "kz_lust",
+    "WorkshopId": "3218634538"
+  },
+  {
+    "MapName": "kz_kzro_syotiles",
+    "WorkshopId": "3329112841"
+  },
+  {
+    "MapName": "kz_sxb2_despacito",
+    "WorkshopId": "3075242470"
+  },
+  {
+    "MapName": "kz_haki_v2",
+    "WorkshopId": "3280439252"
+  },
+  {
+    "MapName": "bkz_goldbhop",
+    "WorkshopId": "3214939683"
+  },
+  {
+    "MapName": "kz_kiwi_hym",
+    "WorkshopId": "3083938271"
+  },
+  {
+    "MapName": "kz_hb_7864",
+    "WorkshopId": "3256277396"
+  },
+  {
+    "MapName": "kz_nomibo",
+    "WorkshopId": "3077122656"
+  },
+  {
+    "MapName": "kz_igneous",
+    "WorkshopId": "3102712799"
+  },
+  {
+    "MapName": "kz_grassworld",
+    "WorkshopId": "3099807884"
+  },
+  {
+    "MapName": "kz_antharas",
+    "WorkshopId": "3338102767"
+  },
+  {
+    "MapName": "kz_rc_femboy",
+    "WorkshopId": "3241944666"
+  },
+  {
+    "MapName": "kz_ggsh",
+    "WorkshopId": "3072744536"
+  },
+  {
+    "MapName": "kz_celestial",
+    "WorkshopId": "3343117229"
+  },
+  {
+    "MapName": "kz_apasanka",
+    "WorkshopId": "3346109633"
+  },
+  {
+    "MapName": "kz_epiphany_v2",
+    "WorkshopId": "3350183413"
+  },
+  {
+    "MapName": "kz_demonhours",
+    "WorkshopId": "3346247176"
+  },
+  {
+    "MapName": "kz_rc_stonehenge",
+    "WorkshopId": "3072219045"
+  },
+  {
+    "MapName": "kz_opus",
+    "WorkshopId": "3349672933"
+  },
+  {
+    "MapName": "kz_victoria",
+    "WorkshopId": "3086304337"
+  },
+  {
+    "MapName": "kz_key",
+    "WorkshopId": "3344417199"
+  },
+  {
+    "MapName": "kz_longjumps_space",
+    "WorkshopId": "3354242306"
+  },
+  {
+    "MapName": "kz_lmn",
+    "WorkshopId": "3355230567"
+  },
+  {
+    "MapName": "kz_dethroned",
+    "WorkshopId": "3354073065"
+  },
+  {
+    "MapName": "kz_sanctuary",
+    "WorkshopId": "3350663039"
+  },
+  {
+    "MapName": "kz_alien_city",
+    "WorkshopId": "3361344867"
+  },
+  {
+    "MapName": "kz_2fast",
+    "WorkshopId": "3360229091"
+  },
+  {
+    "MapName": "kz_sxb2_isbhop",
+    "WorkshopId": "3357361972"
+  },
+  {
+    "MapName": "kz_aether_fix",
+    "WorkshopId": "3360787808"
+  },
+  {
+    "MapName": "kz_summercliff2",
+    "WorkshopId": "3353950265"
+  },
+  {
+    "MapName": "kz_dzy_beyond_v2",
+    "WorkshopId": "3357772969"
+  },
+  {
+    "MapName": "kz_royalcapital",
+    "WorkshopId": "3366541429"
+  },
+  {
+    "MapName": "kz_faded",
+    "WorkshopId": "3366047597"
+  },
+  {
+    "MapName": "kz_vly_nantu_d",
+    "WorkshopId": "3368783049"
+  },
+  {
+    "MapName": "kz_leviathan",
+    "WorkshopId": "3374560468"
+  },
+  {
+    "MapName": "kz_sxb2_onlyslide",
+    "WorkshopId": "3370381464"
+  },
+  {
+    "MapName": "kz_penis",
+    "WorkshopId": "3381189372"
+  },
+  {
+    "MapName": "kz_dima",
+    "WorkshopId": "3343029934"
+  },
+  {
+    "MapName": "kz_spire",
+    "WorkshopId": "3352534882"
+  },
+  {
+    "MapName": "kz_moorerutan",
+    "WorkshopId": "3348711619"
+  },
+  {
+    "MapName": "kz_minecraft_village",
+    "WorkshopId": "3412458047"
+  },
+  {
+    "MapName": "kz_bhop_slide",
+    "WorkshopId": "3414620599"
+  },
+  {
+    "MapName": "kz_playinggrounds",
+    "WorkshopId": "3414813086"
+  },
+  {
+    "MapName": "kz_hitech",
+    "WorkshopId": "3411324243"
+  },
+  {
+    "MapName": "kz_geometrydash_rofl",
+    "WorkshopId": "3400789439"
+  },
+  {
+    "MapName": "kz_slide_arid",
+    "WorkshopId": "3413033794"
+  },
+  {
+    "MapName": "kz_11342",
+    "WorkshopId": "3426289828"
+  },
+  {
+    "MapName": "kz_oloramasa",
+    "WorkshopId": "3421622610"
+  },
+  {
+    "MapName": "kz_rarkovosis",
+    "WorkshopId": "3422921268"
+  },
+  {
+    "MapName": "kz_kiwimind",
+    "WorkshopId": "3422410968"
+  },
+  {
+    "MapName": "kz_kiwimirific",
+    "WorkshopId": "3422257088"
+  },
+  {
+    "MapName": "kz_11735",
+    "WorkshopId": "3422462949"
+  },
+  {
+    "MapName": "kz_unmake",
+    "WorkshopId": "3425790105"
+  },
+  {
+    "MapName": "kz_retreat",
+    "WorkshopId": "3421030265"
+  },
+  {
+    "MapName": "kz_bigcastle",
+    "WorkshopId": "3428921927"
+  },
+  {
+    "MapName": "kz_okaychamp",
+    "WorkshopId": "3430093272"
+  },
+  {
+    "MapName": "kz_kiwionerous",
+    "WorkshopId": "3430337743"
+  },
+  {
+    "MapName": "kz_kukkojapallokidutus",
+    "WorkshopId": "3441683786"
+  },
+  {
+    "MapName": "kz_p1",
+    "WorkshopId": "3441144088"
+  },
+  {
+    "MapName": "kz_devon",
+    "WorkshopId": "3434238689"
+  },
+  {
+    "MapName": "kz_adv_cursedjourney",
+    "WorkshopId": "3451061007"
+  },
+  {
+    "MapName": "kz_afterlife",
+    "WorkshopId": "3449771402"
+  },
+  {
+    "MapName": "kz_bhop_lucid",
+    "WorkshopId": "3450065613"
+  },
+  {
+    "MapName": "kz_gigablock_cs2",
+    "WorkshopId": "3451243196"
+  },
+  {
+    "MapName": "kz_monstrosity",
+    "WorkshopId": "3442279720"
+  },
+  {
+    "MapName": "kz_illusion_gfix",
+    "WorkshopId": "3445782360"
+  },
+  {
+    "MapName": "kz_kings_ambition",
+    "WorkshopId": "3447277011"
+  },
+  {
+    "MapName": "kz_blackness",
+    "WorkshopId": "3458637330"
+  },
+  {
+    "MapName": "kz_spacemario_h",
+    "WorkshopId": "3460960848"
+  },
+  {
+    "MapName": "kz_weightless",
+    "WorkshopId": "3453892880"
+  },
+  {
+    "MapName": "kz_dejavu",
+    "WorkshopId": "3448441395"
+  },
+  {
+    "MapName": "kz_retribution_v2_final",
+    "WorkshopId": "3461578696"
+  },
+  {
+    "MapName": "kz_nightcastle",
+    "WorkshopId": "3461115770"
+  },
+  {
+    "MapName": "kz_rlk",
+    "WorkshopId": "3456225822"
+  },
+  {
+    "MapName": "kz_hoist",
+    "WorkshopId": "3455113833"
+  },
+  {
+    "MapName": "kz_luv_less",
+    "WorkshopId": "3461550188"
+  },
+  {
+    "MapName": "kz_communityblock",
+    "WorkshopId": "3455289829"
+  }
+]

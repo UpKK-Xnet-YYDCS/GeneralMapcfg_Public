@@ -1,0 +1,63 @@
+{
+  "PrintToCenterHtml": false,
+  "Ads": [
+    {
+      "Interval": 65,
+      "Messages": [
+        {
+          "Chat": "{ads_1}"
+        },
+        {
+          "Chat": "{ads_2}"
+        },
+        {
+          "Chat": "{ads_3}"
+        }
+      ]
+    }
+  ],
+  "Panel": null,
+  "DefaultLang": "CN",
+  "MessageType": 0,
+  "LanguageMessages": {
+    "map_name": {
+      "US": "Current map: {MAP}",
+      "CN": "{LIME}当前时间: {RED}{TIME} {PURPLE}当前地图: {RED}{MAP}",
+      "TW": "{LIME}當前時間: {RED}{TIME} {PURPLE}當前地圖: {RED}{MAP}",
+      "JP": "{LIME}現在の時間: {RED}{TIME} {PURPLE}現在のマップ: {RED}{MAP}",
+      "KR": "{LIME}현재 시간: {RED}{TIME} {PURPLE}현재 맵: {RED}{MAP}"
+    },
+    "current_time": {
+      "US": "{GRAY}Current time: {RED}{TIME}",
+      "CN": "{LIME}当前时间: {RED}{TIME} 当前地图: {RED}{MAP}",
+      "TW": "{LIME}當前時間: {RED}{TIME} 當前地圖: {RED}{MAP}",
+      "JP": "{LIME}現在の時間: {RED}{TIME} 現在のマップ: {RED}{MAP}",
+      "KR": "{LIME}현재 시간: {RED}{TIME} 현재 맵: {RED}{MAP}"
+    },
+    "ads_1": {
+      "CN": "{RED}[X社区] {LIME}!store {DEFAULT}购买使用皮肤 {LIME}!inv {DEFAULT}打开商店个人库存 (如果您想装备皮肤!inv更合适)",
+      "US": "{RED}[X Community] {LIME}!store {DEFAULT}to buy and use skins {LIME}!inv {DEFAULT}to open your inventory (use !inv to equip skins)",
+      "TW": "{RED}[X社區] {LIME}!store {DEFAULT}購買使用皮膚 {LIME}!inv {DEFAULT}打開商店個人庫存 (如果您想裝備皮膚!inv更合適)",
+      "JP": "{RED}[Xコミュニティ] {LIME}!store {DEFAULT}スキンを購入して使用するには、{LIME}!inv {DEFAULT}インベントリを開きます (スキンを装備するには、!inv を使用します)",
+      "KR": "{RED}[X 커뮤니티] {LIME}!store {DEFAULT}스킨을 구매하고 사용하려면 {LIME}!inv {DEFAULT}인벤토리를 열려면 (스킨을 장착하려면 !inv 를 사용하십시오)"
+    },
+    "ads_2": {
+      "CN": "{RED}[X社区] {LIME}当前时间: {RED}{TIME} {PURPLE}当前地图: {RED}{MAP}",
+      "US": "{RED}[X Community] {LIME}Current time: {RED}{TIME} {PURPLE}Current map: {RED}{MAP}",
+      "TW": "{RED}[X社區] {LIME}當前時間: {RED}{TIME} {PURPLE}當前地圖: {RED}{MAP}",
+      "JP": "{RED}[Xコミュニティ] {LIME}現在の時間: {RED}{TIME} {PURPLE}現在のマップ: {RED}{MAP}",
+      "KR": "{RED}[X 커뮤니티] {LIME}현재 시간: {RED}{TIME} {PURPLE}현재 맵: {RED}{MAP}"
+    },
+    "ads_3": {
+      "CN": "{RED}[X社区] {LIME}不喜欢当前地图？聊天框输入 {LIGHTPURPLE}!RTV 快捷指令进行投票更换!",
+      "US": "{RED}[X Community] {LIME}Don't like the current map? Type {LIGHTPURPLE}!RTV",
+      "TW": "{RED}[X社區] {LIME}不喜歡當前地圖？ 輸入聊天框 {LIGHTPURPLE}!RTV",
+      "JP": "{RED}[Xコミュニティ] {LIME}現在のマップが好きではありませんか？ {LIGHTPURPLE}!RTV",
+      "KR": "{RED}[X 커뮤니티] {LIME}현재 맵이 마음에 들지 않나요? {LIGHTPURPLE}!RTV"
+    }
+  },
+  "MapsName": {
+    "de_mirage": "Mirage",
+    "de_dust": "Dust II"
+  }
+}
