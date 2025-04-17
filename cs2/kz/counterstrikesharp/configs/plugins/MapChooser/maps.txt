@@ -1098,4 +1098,52 @@
 		"updatedname"		"kz_luv_less"
 		"OnlyNominate"		"0"
 	}
+	"skz_bananaysoda_2"
+	{
+		"workshop_id"		"3464453718"
+		"enabled"		"1"
+		"filename"		"skz_bananaysoda_2"
+		"updatedname"		"skz_bananaysoda_2"
+		"OnlyNominate"		"0"
+	}
+	"kz_alouette_fix"
+	{
+		"workshop_id"		"3464249269"
+		"enabled"		"1"
+		"filename"		"kz_alouette_fix"
+		"updatedname"		"kz_alouette_fix"
+		"OnlyNominate"		"0"
+	}
+	"kz_otakuroom_v3"
+	{
+		"workshop_id"		"3463558904"
+		"enabled"		"1"
+		"filename"		"kz_otakuroom_v3"
+		"updatedname"		"kz_otakuroom_v3"
+		"OnlyNominate"		"0"
+	}
+	"kz_moon_fix"
+	{
+		"workshop_id"		"3462474928"
+		"enabled"		"1"
+		"filename"		"kz_moon_fix"
+		"updatedname"		"kz_moon_fix"
+		"OnlyNominate"		"0"
+	}
+	"kz_aether"
+	{
+		"workshop_id"		"3462311938"
+		"enabled"		"1"
+		"filename"		"kz_aether"
+		"updatedname"		"kz_aether"
+		"OnlyNominate"		"0"
+	}
+	"kz_chloroplast"
+	{
+		"workshop_id"		"3461775578"
+		"enabled"		"1"
+		"filename"		"kz_chloroplast"
+		"updatedname"		"kz_chloroplast"
+		"OnlyNominate"		"0"
+	}
 }
