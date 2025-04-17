@@ -59,10 +59,11 @@ jobs:
     - name: 上传压缩文件作为 Artifact
       uses: actions/upload-artifact@v4.0.0
       with:
-        name: map_previews_images_${{ github.run_number }}
+        name: map_previews_images_${{ env.timestamp }}  # 用 timestamp 保证唯一
         path: map_previews_images_${{ env.timestamp }}.zip
         if-no-files-found: warn
         compression-level: 6
+
 
     - name: 上传压缩文件到UPKK远程服务器
       timeout-minutes: 5
