@@ -1146,4 +1146,52 @@
 		"updatedname"		"kz_chloroplast"
 		"OnlyNominate"		"0"
 	}
+	"kz_itz_updown"
+	{
+		"workshop_id"		"3467670838"
+		"enabled"		"1"
+		"filename"		"kz_chloroplast"
+		"updatedname"		"kz_chloroplast"
+		"OnlyNominate"		"0"
+	}
+	"kz_alfie"
+	{
+		"workshop_id"		"3467978154"
+		"enabled"		"1"
+		"filename"		"kz_alfie"
+		"updatedname"		"kz_alfie"
+		"OnlyNominate"		"0"
+	}
+	"kz_pendulum"
+	{
+		"workshop_id"		"3467509619"
+		"enabled"		"1"
+		"filename"		"kz_pendulum"
+		"updatedname"		"kz_pendulum"
+		"OnlyNominate"		"0"
+	}
+	"kz_after_agitation_v2"
+	{
+		"workshop_id"		"3466257543"
+		"enabled"		"1"
+		"filename"		"kz_after_agitation_v2"
+		"updatedname"		"kz_after_agitation_v2"
+		"OnlyNominate"		"0"
+	}
+	"kz_psychosomatic"
+	{
+		"workshop_id"		"3465695562"
+		"enabled"		"1"
+		"filename"		"kz_psychosomatic"
+		"updatedname"		"kz_psychosomatic"
+		"OnlyNominate"		"0"
+	}
+	"skz_bananaysoda_2"
+	{
+		"workshop_id"		"3464453718"
+		"enabled"		"1"
+		"filename"		"skz_bananaysoda_2"
+		"updatedname"		"skz_bananaysoda_2"
+		"OnlyNominate"		"0"
+	}
 }
