@@ -1117,7 +1117,7 @@
 	"kz_otakuroom_v3"
 	{
 		"workshop_id"		"3463558904"
-		"enabled"		"1"
+		"enabled"		"0"
 		"filename"		"kz_otakuroom_v3"
 		"updatedname"		"kz_otakuroom_v3"
 		"OnlyNominate"		"0"
