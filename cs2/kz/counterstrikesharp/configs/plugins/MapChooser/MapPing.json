@@ -526,5 +526,37 @@
   {
     "MapName": "kz_communityblock",
     "WorkshopId": "3455289829"
+  },
+  {
+    "MapName": "skz_bananaysoda_2",
+    "WorkshopId": "3464453718"
+  },
+  {
+    "MapName": "kz_alouette_fix",
+    "WorkshopId": "3464249269"
+  },
+  {
+    "MapName": "kz_moon_fix",
+    "WorkshopId": "3462474928"
+  },
+  {
+    "MapName": "kz_aether",
+    "WorkshopId": "3462311938"
+  },
+  {
+    "MapName": "kz_chloroplast",
+    "WorkshopId": "3461775578"
+  },
+  {
+    "MapName": "kz_otakuroom_v3",
+    "WorkshopId": "3463558904"
+  },
+  {
+    "MapName": "kz_psychosomatic",
+    "WorkshopId": "3465695562"
+  },
+  {
+    "MapName": "kz_alfie",
+    "WorkshopId": "3467978154"
   }
 ]
