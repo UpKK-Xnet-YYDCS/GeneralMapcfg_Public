@@ -1194,4 +1194,28 @@
 		"updatedname"		"skz_bananaysoda_2"
 		"OnlyNominate"		"0"
 	}
+	"kz_wasabi"
+	{
+		"workshop_id"		"3469288337"
+		"enabled"		"1"
+		"filename"		"kz_wasabi"
+		"updatedname"		"kz_wasabi"
+		"OnlyNominate"		"0"
+	}
+	"kz_mz"
+	{
+		"workshop_id"		"3468891853"
+		"enabled"		"1"
+		"filename"		"kz_mz"
+		"updatedname"		"kz_mz"
+		"OnlyNominate"		"0"
+	}
+	"kz_angina_final"
+	{
+		"workshop_id"		"3468709564"
+		"enabled"		"1"
+		"filename"		"kz_angina_final"
+		"updatedname"		"kz_angina_final"
+		"OnlyNominate"		"0"
+	}
 }
