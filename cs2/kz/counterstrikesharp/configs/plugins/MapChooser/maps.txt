@@ -689,7 +689,7 @@
 	"kz_alien_city"
 	{
 		"workshop_id"		"3361344867"
-		"enabled"		"1"
+		"enabled"		"0"
 		"filename"		"kz_alien_city"
 		"updatedname"		"kz_alien_city"
 	}
