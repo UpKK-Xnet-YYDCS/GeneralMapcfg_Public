@@ -1218,4 +1218,60 @@
 		"updatedname"		"kz_angina_final"
 		"OnlyNominate"		"0"
 	}
+	"kz_valley"
+	{
+		"workshop_id"		"3469847057"
+		"enabled"		"1"
+		"filename"		"kz_valley"
+		"updatedname"		"kz_valley"
+		"OnlyNominate"		"0"
+	}
+	"kz_slowrun_global_fix"
+	{
+		"workshop_id"		"3473295121"
+		"enabled"		"1"
+		"filename"		"kz_slowrun_global_fix"
+		"updatedname"		"kz_slowrun_global_fix"
+		"OnlyNominate"		"0"
+	}
+	"kz_slowerrun"
+	{
+		"workshop_id"		"3473587380"
+		"enabled"		"1"
+		"filename"		"kz_slowerrun"
+		"updatedname"		"kz_slowerrun"
+		"OnlyNominate"		"0"
+	}
+	"kz_rectangle"
+	{
+		"workshop_id"		"3478320726"
+		"enabled"		"1"
+		"filename"		"kz_rectangle"
+		"updatedname"		"kz_rectangle"
+		"OnlyNominate"		"0"
+	}
+	"kz_zoomer_fix"
+	{
+		"workshop_id"		"3479838886"
+		"enabled"		"1"
+		"filename"		"kz_zoomer_fix"
+		"updatedname"		"kz_zoomer_fix"
+		"OnlyNominate"		"0"
+	}
+	"kz_mandelbrot"
+	{
+		"workshop_id"		"3480216540"
+		"enabled"		"1"
+		"filename"		"kz_mandelbrot"
+		"updatedname"		"kz_mandelbrot"
+		"OnlyNominate"		"0"
+	}
+	"kz_mazemerized"
+	{
+		"workshop_id"		"3483491673"
+		"enabled"		"1"
+		"filename"		"kz_mazemerized"
+		"updatedname"		"kz_mazemerized"
+		"OnlyNominate"		"0"
+	}
 }
