@@ -558,5 +558,45 @@
   {
     "MapName": "kz_alfie",
     "WorkshopId": "3467978154"
+  },
+  {
+    "MapName": "kz_after_agitation_v2",
+    "WorkshopId": "3466257543"
+  },
+  {
+    "MapName": "kz_angina_final",
+    "WorkshopId": "3468709564"
+  },
+  {
+    "MapName": "kz_wasabi",
+    "WorkshopId": "3469288337"
+  },
+  {
+    "MapName": "kz_mz",
+    "WorkshopId": "3468891853"
+  },
+  {
+    "MapName": "kz_pendulum",
+    "WorkshopId": "3467509619"
+  },
+  {
+    "MapName": "kz_jakke",
+    "WorkshopId": "3428669060"
+  },
+  {
+    "MapName": "kz_slowrun_global_fix",
+    "WorkshopId": "3473295121"
+  },
+  {
+    "MapName": "kz_mandelbrot",
+    "WorkshopId": "3480216540"
+  },
+  {
+    "MapName": "kz_rectangle",
+    "WorkshopId": "3478320726"
+  },
+  {
+    "MapName": "kz_mazemerized",
+    "WorkshopId": "3483491673"
   }
 ]
