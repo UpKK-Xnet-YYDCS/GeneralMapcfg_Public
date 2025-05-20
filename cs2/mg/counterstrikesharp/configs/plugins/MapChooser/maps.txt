@@ -56,13 +56,6 @@
 		"filename"		"mg_n64_goldeneye"
 		"updatedname"		"MG N64 Goldeneye"
 	}
-	"mg_warmcup_headshot"
-	{
-		"workshop_id"		"3076765511"
-		"enabled"		"0"
-		"filename"		"mg_warmcup_headshot"
-		"updatedname"		"mg_warmcup_headshot"
-	}
 	"Awp Submarine"
 	{
 		"workshop_id"		"3086424873"
@@ -202,5 +195,28 @@
 		"enabled"		"1"
 		"filename"		"mg_skytower_b3"
 		"updatedname"		"mg_skytower_b3"
+	}
+	"mg_super_tower_v3b"
+	{
+		"workshop_id"		"3363060792"
+		"enabled"		"1"
+		"filename"		"mg_super_tower_v3b"
+		"updatedname"		"mg_super_tower_v3b"
+	}
+	"mg_50arenas"
+	{
+		"workshop_id"		"3481779716"
+		"enabled"		"1"
+		"filename"		"mg_50arenas"
+		"updatedname"		"mg_50arenas"
+		"OnlyNominate"		"0"
+	}
+	"mg_warmcup_headshot"
+	{
+		"workshop_id"		"3478639116"
+		"enabled"		"1"
+		"filename"		"mg_warmcup_headshot"
+		"updatedname"		"mg_warmcup_headshot"
+		"OnlyNominate"		"0"
 	}
 }
