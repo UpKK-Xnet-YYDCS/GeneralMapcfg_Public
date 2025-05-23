@@ -1450,7 +1450,7 @@
 	"kz_menu_for_climbcore"
 	{
 		"workshop_id" "3426734144"
-		"enabled" "1"
+		"enabled" "0"
 		"filename" "kz_menu_for_climbcore"
 		"updatedname" "kz_menu_for_climbcore"
 		"OnlyNominate" "0"
