@@ -67,8 +67,6 @@ def get_workshop_maps(api_key, appid=730, search_prefix="ze_", whitelist=None, b
             "key": api_key,
             "query_type": 1,  # 排序依据：按发布时间排序
             "appid": appid,
-            "requiredtags": "cs2",  # 使用 cs2 标签来过滤
-            "match_all_tags": True,  # 确保所有标签都匹配
             "numperpage": numperpage,  # 每页最大数量，动态传入
             "return_details": True,
             "search_text": search_prefix,  # 使用参数作为搜索文本
@@ -96,10 +94,10 @@ def get_workshop_maps(api_key, appid=730, search_prefix="ze_", whitelist=None, b
 
 
                 # 检查是否有CS2 标签 以防止CSGO地图
-                #tags = item.get("tags", [])
-                #if not any(tag.get("tag", "").lower() == "cs2" for tag in tags):
-                #    print(f"忽略项目 {item_id}，因为它没有 CS2 标签")
-                #    continue
+                tags = item.get("tags", [])
+                if not any(tag.get("tag", "").lower() == "cs2" for tag in tags):
+                    print(f"忽略项目 {item_id}，因为它没有 CS2 标签")
+                    continue
 
                # 如果项目 ID 在黑名单里，跳过此项目
                 item_id = str(item.get("publishedfileid"))
