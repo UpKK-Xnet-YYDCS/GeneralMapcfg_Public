@@ -1231,4 +1231,76 @@
 		"updatedname" "kz_mazemerized"
 		"OnlyNominate" "0"
 	}
+	"kz_refurinfunflay"
+	{
+		"workshop_id" "3485831149"
+		"enabled" "1"
+		"filename" "kz_refurinfunflay"
+		"updatedname" "kz_refurinfunflay"
+		"OnlyNominate" "0"
+	}
+	"kz_longjumps_v4096"
+	{
+		"workshop_id" "3473721933"
+		"enabled" "1"
+		"filename" "kz_longjumps_v4096"
+		"updatedname" "kz_longjumps_v4096"
+		"OnlyNominate" "0"
+	}
+	"kz_firstmap"
+	{
+		"workshop_id" "3469507602"
+		"enabled" "1"
+		"filename" "kz_firstmap"
+		"updatedname" "kz_firstmap"
+		"OnlyNominate" "0"
+	}
+	"kz_hopeless"
+	{
+		"workshop_id" "3468551503"
+		"enabled" "1"
+		"filename" "kz_hopeless"
+		"updatedname" "kz_hopeless"
+		"OnlyNominate" "0"
+	}
+	"kz_wetlands"
+	{
+		"workshop_id" "3464982214"
+		"enabled" "1"
+		"filename" "kz_wetlands"
+		"updatedname" "kz_wetlands"
+		"OnlyNominate" "0"
+	}
+	"kz_catalyst_bg"
+	{
+		"workshop_id" "3450075567"
+		"enabled" "1"
+		"filename" "kz_catalyst_bg"
+		"updatedname" "kz_catalyst_bg"
+		"OnlyNominate" "0"
+	}
+	"kz_slide_isnt_kz"
+	{
+		"workshop_id" "3428185106"
+		"enabled" "1"
+		"filename" "kz_slide_isnt_kz"
+		"updatedname" "kz_slide_isnt_kz"
+		"OnlyNominate" "0"
+	}
+	"kz_fastcombomap"
+	{
+		"workshop_id" "3427480612"
+		"enabled" "1"
+		"filename" "kz_fastcombomap"
+		"updatedname" "kz_fastcombomap"
+		"OnlyNominate" "0"
+	}
+	"kz_thrombosis"
+	{
+		"workshop_id" "3419129481"
+		"enabled" "1"
+		"filename" "kz_thrombosis"
+		"updatedname" "kz_thrombosis"
+		"OnlyNominate" "0"
+	}
 }
