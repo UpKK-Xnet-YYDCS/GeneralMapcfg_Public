@@ -1359,14 +1359,6 @@
 		"updatedname" "kz_kiwi_trol"
 		"OnlyNominate" "0"
 	}
-	"kz_sounds_for_climbcore"
-	{
-		"workshop_id" "3453006952"
-		"enabled" "0"
-		"filename" "kz_sounds_for_climbcore"
-		"updatedname" "kz_sounds_for_climbcore"
-		"OnlyNominate" "0"
-	}
 	"kz_catalyst_bg"
 	{
 		"workshop_id" "3450075567"
@@ -1445,14 +1437,6 @@
 		"enabled" "1"
 		"filename" "kz_fastcombomap"
 		"updatedname" "kz_fastcombomap"
-		"OnlyNominate" "0"
-	}
-	"kz_menu_for_climbcore"
-	{
-		"workshop_id" "3426734144"
-		"enabled" "0"
-		"filename" "kz_menu_for_climbcore"
-		"updatedname" "kz_menu_for_climbcore"
 		"OnlyNominate" "0"
 	}
 	"kz_slidebober_h"
