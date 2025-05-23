@@ -1362,7 +1362,7 @@
 	"kz_sounds_for_climbcore"
 	{
 		"workshop_id" "3453006952"
-		"enabled" "1"
+		"enabled" "0"
 		"filename" "kz_sounds_for_climbcore"
 		"updatedname" "kz_sounds_for_climbcore"
 		"OnlyNominate" "0"
