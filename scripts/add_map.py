@@ -45,7 +45,7 @@ def add_map_to_file(file_path, map_name, workshop_id):
 
         # 检查地图是否已存在
         if map_name in data["Maplist"]:
-            print(f"地图 {map_name} - 坊ID:{workshop_id} 已存在，跳过添加")
+            print(f"地图 {map_name} - 工坊ID:{workshop_id} 已存在，跳过添加")
             return
         
         # 检查工坊 ID 是否已存在
@@ -69,7 +69,7 @@ def add_map_to_file(file_path, map_name, workshop_id):
         with open(file_path, 'w', encoding='utf-8') as file:
             vdf.dump(data, file, pretty=True)
         
-        print(f"成功添加地图 {map_name} 到 {file_path}")
+        print(f"成功添加地图 {map_name} 工坊ID:{workshop_id} 到 {file_path}")
 
     except Exception as e:
         print(f"错误: {str(e)}")
