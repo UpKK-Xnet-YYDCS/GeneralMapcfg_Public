@@ -59,7 +59,7 @@ def load_item_blacklist(file_path):
 
 def get_workshop_maps(api_key, appid=730, search_prefix="ze_", whitelist=None, blacklist=None, itemblacklist=None, numperpage=200, page_count=1):
     """获取用户上传的所有创意工坊内容（地图和合集），并过滤不在白名单中的作者和黑名单中的作者"""
-    url = f"{BASE_URL}/IPublishedFileService/QueryFiles/v1/" + "?requiredtags[0]=cs2",
+    url = f"{BASE_URL}/IPublishedFileService/QueryFiles/v1/"
     items = []
 
     for page in range(1, page_count + 1):
@@ -67,11 +67,11 @@ def get_workshop_maps(api_key, appid=730, search_prefix="ze_", whitelist=None, b
             "key": api_key,
             "query_type": 1,  # 排序依据：按发布时间排序
             "appid": appid,
+            "requiredtags[]": ["CS2"],  # 查询多个标签  ["CS2", "maps"]
             "numperpage": numperpage,  # 每页最大数量，动态传入
             "return_details": True,
             "search_text": search_prefix,  # 使用参数作为搜索文本
             "return_tags": True,
-            # requiredtags: { "0": "mod" }, // needs to go in url for axios to format it correctly
             "return_kv_tags": True,
             "return_previews": True,
             "return_children": True,
@@ -97,8 +97,8 @@ def get_workshop_maps(api_key, appid=730, search_prefix="ze_", whitelist=None, b
                 # 检查是否有CS2 标签 以防止CSGO地图
                 #tags = item.get("tags", [])
                 #if not any(tag.get("tag", "").lower() == "cs2" for tag in tags):
-                #    print(f"忽略项目 {item_id}，因为它没有 CS2 标签")
-                #    continue
+                    #print(f"忽略项目 {item_id}，因为它没有 CS2 标签")
+                    #continue
 
                # 如果项目 ID 在黑名单里，跳过此项目
                 item_id = str(item.get("publishedfileid"))
