@@ -17,5 +17,6 @@
     "AutoDownload": true,
     "UseSteamWorkShopCollectionId": true,
     "SteamWorkShopCollectionIdAutoUpdateMaps": false,
-    "EnforceTimeLimit": true
+    "EnforceTimeLimit": true,
+    "DisplayHudTimeleftRemaining": 300
 }
