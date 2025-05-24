@@ -79,6 +79,12 @@ def get_workshop_maps(api_key, appid=730, search_prefix="ze_", whitelist=None, b
             "page": page  # 分页参数
         }
 
+        required_tags = ["CS2"]
+        # 动态添加tags到请求参数
+        for i, tag in enumerate(required_tags):
+            params[f"requiredtags[{i}]"] = tag
+
+
         try:
             response = requests.get(url, params=params)
             response.raise_for_status()
