@@ -67,7 +67,6 @@ def get_workshop_maps(api_key, appid=730, search_prefix="ze_", whitelist=None, b
             "key": api_key,
             "query_type": 1,  # 排序依据：按发布时间排序
             "appid": appid,
-            "requiredtags[]": ["CS2"],  # 查询多个标签  ["CS2", "maps"]
             "numperpage": numperpage,  # 每页最大数量，动态传入
             "return_details": True,
             "search_text": search_prefix,  # 使用参数作为搜索文本
