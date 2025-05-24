@@ -1303,4 +1303,12 @@
 		"updatedname" "kz_thrombosis"
 		"OnlyNominate" "0"
 	}
+	"kz_lionheart"
+	{
+		"workshop_id" "3352277813"
+		"enabled" "1"
+		"filename" "kz_lionheart"
+		"updatedname" "kz_lionheart"
+		"OnlyNominate" "0"
+	}
 }
