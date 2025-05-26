@@ -1274,7 +1274,7 @@
 	"kz_catalyst_bg"
 	{
 		"workshop_id" "3450075567"
-		"enabled" "1"
+		"enabled" "0"
 		"filename" "kz_catalyst_bg"
 		"updatedname" "kz_catalyst_bg"
 		"OnlyNominate" "0"
