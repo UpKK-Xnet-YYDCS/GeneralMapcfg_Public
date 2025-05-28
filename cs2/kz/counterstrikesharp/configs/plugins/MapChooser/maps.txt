@@ -1327,4 +1327,12 @@
 		"updatedname" "kz_alice_fix"
 		"OnlyNominate" "0"
 	}
+	"kz_blockhardy2k"
+	{
+		"workshop_id" "3488916737"
+		"enabled" "1"
+		"filename" "kz_blockhardy2k"
+		"updatedname" "kz_blockhardy2k"
+		"OnlyNominate" "0"
+	}
 }
