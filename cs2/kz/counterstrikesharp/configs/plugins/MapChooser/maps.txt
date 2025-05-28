@@ -1311,4 +1311,20 @@
 		"updatedname" "kz_lionheart"
 		"OnlyNominate" "0"
 	}
+	"kz_lofroofs"
+	{
+		"workshop_id" "3488773723"
+		"enabled" "1"
+		"filename" "kz_lofroofs"
+		"updatedname" "kz_lofroofs"
+		"OnlyNominate" "0"
+	}
+	"kz_alice_fix"
+	{
+		"workshop_id" "3487906988"
+		"enabled" "1"
+		"filename" "kz_alice_fix"
+		"updatedname" "kz_alice_fix"
+		"OnlyNominate" "0"
+	}
 }
