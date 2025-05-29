@@ -1335,4 +1335,12 @@
 		"updatedname" "kz_alice_fix"
 		"OnlyNominate" "0"
 	}
+	"kz_woodstock_v2"
+	{
+		"workshop_id" "3489356818"
+		"enabled" "1"
+		"filename" "kz_woodstock_v2"
+		"updatedname" "kz_woodstock_v2"
+		"OnlyNominate" "0"
+	}
 }
