@@ -181,7 +181,7 @@
   },
   {
     "MapName": "kz_grotto",
-    "WorkshopId": "3121168339"
+    "WorkshopId": "3121030590"
   },
   {
     "MapName": "kz_sxb2_remake",
@@ -598,5 +598,53 @@
   {
     "MapName": "kz_mazemerized",
     "WorkshopId": "3483491673"
+  },
+  {
+    "MapName": "kz_slowerrun",
+    "WorkshopId": "3473587380"
+  },
+  {
+    "MapName": "kz_zoomer_fix",
+    "WorkshopId": "3479838886"
+  },
+  {
+    "MapName": "kz_hopeless",
+    "WorkshopId": "3468551503"
+  },
+  {
+    "MapName": "kz_refurinfunflay",
+    "WorkshopId": "3485831149"
+  },
+  {
+    "MapName": "kz_longjumps_v4096",
+    "WorkshopId": "3473721933"
+  },
+  {
+    "MapName": "kz_lionheart",
+    "WorkshopId": "3352277813"
+  },
+  {
+    "MapName": "kz_slide_isnt_kz",
+    "WorkshopId": "3428185106"
+  },
+  {
+    "MapName": "kz_thrombosis",
+    "WorkshopId": "3419129481"
+  },
+  {
+    "MapName": "kz_valley",
+    "WorkshopId": "3469847057"
+  },
+  {
+    "MapName": "kz_wetlands",
+    "WorkshopId": "3464982214"
+  },
+  {
+    "MapName": "kz_fastcombomap",
+    "WorkshopId": "3427480612"
+  },
+  {
+    "MapName": "kz_alice_fix",
+    "WorkshopId": "3487906988"
   }
 ]
