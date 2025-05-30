@@ -1351,4 +1351,12 @@
 		"updatedname" "kz_alice"
 		"OnlyNominate" "0"
 	}
+	"kz_sunstone"
+	{
+		"workshop_id" "3489996136"
+		"enabled" "1"
+		"filename" "kz_sunstone"
+		"updatedname" "kz_sunstone"
+		"OnlyNominate" "0"
+	}
 }
