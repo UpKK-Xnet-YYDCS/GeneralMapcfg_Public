@@ -1346,7 +1346,7 @@
 	"kz_alice"
 	{
 		"workshop_id" "3489753428"
-		"enabled" "1"
+		"enabled" "0"
 		"filename" "kz_alice"
 		"updatedname" "kz_alice"
 		"OnlyNominate" "0"
