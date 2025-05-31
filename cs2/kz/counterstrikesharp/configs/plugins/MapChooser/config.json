@@ -17,5 +17,6 @@
     "AutoDownload": true,
     "UseSteamWorkShopCollectionId": true,
     "SteamWorkShopCollectionIdAutoUpdateMaps": false,
+    "ChangeMapUse_host_workshop_map": true,
     "EnforceTimeLimit": true
 }
