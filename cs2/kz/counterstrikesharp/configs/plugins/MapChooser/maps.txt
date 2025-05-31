@@ -1359,4 +1359,12 @@
 		"updatedname" "kz_sunstone"
 		"OnlyNominate" "0"
 	}
+	"kz_mc_village"
+	{
+		"workshop_id" "3490455192"
+		"enabled" "1"
+		"filename" "kz_mc_village"
+		"updatedname" "kz_mc_village"
+		"OnlyNominate" "0"
+	}
 }
