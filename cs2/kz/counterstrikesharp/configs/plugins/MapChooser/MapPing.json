@@ -646,5 +646,17 @@
   {
     "MapName": "kz_alice_fix",
     "WorkshopId": "3487906988"
+  },
+  {
+    "MapName": "kz_sunstone",
+    "WorkshopId": "3489996136"
+  },
+  {
+    "MapName": "kz_woodstock_v2",
+    "WorkshopId": "3489356818"
+  },
+  {
+    "MapName": "kz_catalyst_bg",
+    "WorkshopId": "3450075567"
   }
 ]
