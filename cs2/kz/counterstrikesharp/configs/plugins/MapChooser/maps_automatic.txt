@@ -1,11 +1,11 @@
 "Maplist"
 {
-	"KZ_HUB"
+	"KZ_HUB V2"
 	{
 		"workshop_id"		"3070220367"
 		"enabled"		"1"
-		"filename"		"KZ_HUB"
-		"updatedname"		"KZ_HUB"
+		"filename"		"KZ_HUB V2"
+		"updatedname"		"KZ_HUB V2"
 	}
 	"kz_grotto"
 	{
@@ -252,12 +252,12 @@
 		"filename"		"kz_misaka"
 		"updatedname"		"kz_misaka"
 	}
-	"kz_inui"
+	"kz_butterfly"
 	{
 		"workshop_id"		"3248925340"
 		"enabled"		"1"
-		"filename"		"kz_inui"
-		"updatedname"		"kz_inui"
+		"filename"		"kz_butterfly"
+		"updatedname"		"kz_butterfly"
 	}
 	"kz_rc_femboy"
 	{
@@ -297,7 +297,7 @@
 	"kz_ghs"
 	{
 		"workshop_id"		"3278824777"
-		"enabled"		"0"
+		"enabled"		"1"
 		"filename"		"kz_ghs"
 		"updatedname"		"kz_ghs"
 	}
@@ -322,20 +322,6 @@
 		"filename"		"kz_sonder"
 		"updatedname"		"kz_sonder"
 	}
-	"kz_WazupSpencer[0.8]"
-	{
-		"workshop_id"		"3276767694"
-		"enabled"		"0"
-		"filename"		"kz_WazupSpencer[0.8]"
-		"updatedname"		"kz_WazupSpencer[0.8]"
-	}
-	"kz_sxb2_whoisadgod"
-	{
-		"workshop_id"		"3275804057"
-		"enabled"		"0"
-		"filename"		"kz_sxb2_whoisadgod"
-		"updatedname"		"kz_sxb2_whoisadgod"
-	}
 	"kz_bd_its_mygo"
 	{
 		"workshop_id"		"3285279291"
@@ -357,19 +343,12 @@
 		"filename"		"kz_dam"
 		"updatedname"		"kz_dam"
 	}
-	"kz_Maybe(Test)"
-	{
-		"workshop_id"		"3279308686"
-		"enabled"		"1"
-		"filename"		"kz_Maybe(Test)"
-		"updatedname"		"kz_Maybe(Test)"
-	}
-	"kz_hb_mute"
+	"kz_notmute"
 	{
 		"workshop_id"		"3159507211"
 		"enabled"		"1"
-		"filename"		"kz_hb_mute"
-		"updatedname"		"kz_hb_mute"
+		"filename"		"kz_notmute"
+		"updatedname"		"kz_notmute"
 	}
 	"kz_variety_fix"
 	{
@@ -377,13 +356,6 @@
 		"enabled"		"1"
 		"filename"		"kz_variety_fix"
 		"updatedname"		"kz_variety_fix"
-	}
-	"kz_moonlight"
-	{
-		"workshop_id"		"3287653784"
-		"enabled"		"1"
-		"filename"		"kz_moonlight"
-		"updatedname"		"kz_moonlight"
 	}
 	"kz_deuxme"
 	{
@@ -398,6 +370,13 @@
 		"enabled"		"1"
 		"filename"		"kz_train"
 		"updatedname"		"kz_train"
+	}
+	"kz_moonlight"
+	{
+		"workshop_id"		"3287653784"
+		"enabled"		"1"
+		"filename"		"kz_moonlight"
+		"updatedname"		"kz_moonlight"
 	}
 	"kz_rome"
 	{
@@ -427,12 +406,12 @@
 		"filename"		"kz_sxb2_misato"
 		"updatedname"		"kz_sxb2_misato"
 	}
-	"kz_gus"
+	"kz_gus_cs2"
 	{
 		"workshop_id"		"3082144971"
 		"enabled"		"1"
-		"filename"		"kz_gus"
-		"updatedname"		"kz_gus"
+		"filename"		"kz_gus_cs2"
+		"updatedname"		"kz_gus_cs2"
 	}
 	"kz_simplyhard"
 	{
@@ -539,19 +518,19 @@
 		"filename"		"kz_obsidian"
 		"updatedname"		"kz_obsidian"
 	}
-	"kz_sxb_sc_surf"
-	{
-		"workshop_id"		"3241559107"
-		"enabled"		"1"
-		"filename"		"kz_sxb_sc_surf"
-		"updatedname"		"kz_sxb_sc_surf"
-	}
 	"kz_rc_twotowers"
 	{
 		"workshop_id"		"3083509404"
 		"enabled"		"1"
 		"filename"		"kz_rc_twotowers"
 		"updatedname"		"kz_rc_twotowers"
+	}
+	"kz_sxb_sc_surf"
+	{
+		"workshop_id"		"3241559107"
+		"enabled"		"1"
+		"filename"		"kz_sxb_sc_surf"
+		"updatedname"		"kz_sxb_sc_surf"
 	}
 	"bkz_goldbhop"
 	{
@@ -749,19 +728,19 @@
 		"filename"		"kz_sxb2_onlyslide"
 		"updatedname"		"kz_sxb2_onlyslide"
 	}
-	"KZ Skorpa Ascend Challenge"
-	{
-		"workshop_id"		"3375995544"
-		"enabled"		"1"
-		"filename"		"KZ Skorpa Ascend Challenge"
-		"updatedname"		"KZ Skorpa Ascend Challenge"
-	}
 	"kz_flood"
 	{
 		"workshop_id"		"3394250961"
 		"enabled"		"1"
 		"filename"		"kz_flood"
 		"updatedname"		"kz_flood"
+	}
+	"KZ Skorpa Ascend Challenge"
+	{
+		"workshop_id"		"3375995544"
+		"enabled"		"1"
+		"filename"		"KZ Skorpa Ascend Challenge"
+		"updatedname"		"KZ Skorpa Ascend Challenge"
 	}
 	"kz_spire"
 	{
@@ -776,13 +755,6 @@
 		"enabled"		"1"
 		"filename"		"kz_hitech"
 		"updatedname"		"kz_hitech"
-	}
-	"kz_geometrydash_rofl"
-	{
-		"workshop_id"		"3400789439"
-		"enabled"		"1"
-		"filename"		"kz_geometrydash_rofl"
-		"updatedname"		"kz_geometrydash_rofl"
 	}
 	"kz_playinggrounds"
 	{
@@ -811,6 +783,13 @@
 		"enabled"		"1"
 		"filename"		"kz_minecraft_village"
 		"updatedname"		"kz_minecraft_village"
+	}
+	"kz_geometrydash_rofl"
+	{
+		"workshop_id"		"3400789439"
+		"enabled"		"1"
+		"filename"		"kz_geometrydash_rofl"
+		"updatedname"		"kz_geometrydash_rofl"
 	}
 	"kz_11342"
 	{
@@ -882,6 +861,14 @@
 		"filename"		"kz_retreat"
 		"updatedname"		"kz_retreat"
 	}
+	"kz_devon"
+	{
+		"workshop_id"		"3434238689"
+		"enabled"		"1"
+		"filename"		"kz_devon"
+		"updatedname"		"kz_devon"
+		"OnlyNominate"		"0"
+	}
 	"kz_chaos // KZ map by deukumpel"
 	{
 		"workshop_id"		"3432169954"
@@ -930,12 +917,12 @@
 		"updatedname"		"kz_jakke"
 		"OnlyNominate"		"0"
 	}
-	"kz_devon"
+	"kz_monstrosity"
 	{
-		"workshop_id"		"3434238689"
+		"workshop_id"		"3442279720"
 		"enabled"		"1"
-		"filename"		"kz_devon"
-		"updatedname"		"kz_devon"
+		"filename"		"kz_monstrosity"
+		"updatedname"		"kz_monstrosity"
 		"OnlyNominate"		"0"
 	}
 	"kz_kukkojapallokidutus"
@@ -954,14 +941,6 @@
 		"updatedname"		"kz_p1"
 		"OnlyNominate"		"0"
 	}
-	"kz_monstrosity"
-	{
-		"workshop_id"		"3442279720"
-		"enabled"		"1"
-		"filename"		"kz_monstrosity"
-		"updatedname"		"kz_monstrosity"
-		"OnlyNominate"		"0"
-	}
 	"kz_retribution_v2_final"
 	{
 		"workshop_id"		"3461578696"
@@ -978,36 +957,12 @@
 		"updatedname"		"kz_chloroplast"
 		"OnlyNominate"		"0"
 	}
-	"kz_aether"
-	{
-		"workshop_id"		"3462311938"
-		"enabled"		"1"
-		"filename"		"kz_aether"
-		"updatedname"		"kz_aether"
-		"OnlyNominate"		"0"
-	}
 	"kz_otakuroom_v3"
 	{
 		"workshop_id"		"3463558904"
 		"enabled"		"1"
 		"filename"		"kz_otakuroom_v3"
 		"updatedname"		"kz_otakuroom_v3"
-		"OnlyNominate"		"0"
-	}
-	"kz_alouette_fix"
-	{
-		"workshop_id"		"3464249269"
-		"enabled"		"1"
-		"filename"		"kz_alouette_fix"
-		"updatedname"		"kz_alouette_fix"
-		"OnlyNominate"		"0"
-	}
-	"skz_bananaysoda_2"
-	{
-		"workshop_id"		"3464453718"
-		"enabled"		"1"
-		"filename"		"skz_bananaysoda_2"
-		"updatedname"		"skz_bananaysoda_2"
 		"OnlyNominate"		"0"
 	}
 	"kz_luv_less"
@@ -1138,6 +1093,30 @@
 		"updatedname"		"kz_adv_cursedjourney"
 		"OnlyNominate"		"0"
 	}
+	"kz_aether"
+	{
+		"workshop_id"		"3462311938"
+		"enabled"		"1"
+		"filename"		"kz_aether"
+		"updatedname"		"kz_aether"
+		"OnlyNominate"		"0"
+	}
+	"kz_alouette_fix"
+	{
+		"workshop_id"		"3464249269"
+		"enabled"		"1"
+		"filename"		"kz_alouette_fix"
+		"updatedname"		"kz_alouette_fix"
+		"OnlyNominate"		"0"
+	}
+	"skz_bananaysoda_2"
+	{
+		"workshop_id"		"3464453718"
+		"enabled"		"1"
+		"filename"		"skz_bananaysoda_2"
+		"updatedname"		"skz_bananaysoda_2"
+		"OnlyNominate"		"0"
+	}
 	"kz_angina_final"
 	{
 		"workshop_id"		"3468709564"
@@ -1202,6 +1181,14 @@
 		"updatedname"		"kz_moon_fix"
 		"OnlyNominate"		"0"
 	}
+	"kz_valley"
+	{
+		"workshop_id"		"3469847057"
+		"enabled"		"1"
+		"filename"		"kz_valley"
+		"updatedname"		"kz_valley"
+		"OnlyNominate"		"0"
+	}
 	"kz_mazemerized"
 	{
 		"workshop_id"		"3483491673"
@@ -1218,6 +1205,14 @@
 		"updatedname"		"kz_mandelbrot"
 		"OnlyNominate"		"0"
 	}
+	"kz_zoomer_fix"
+	{
+		"workshop_id"		"3479838886"
+		"enabled"		"1"
+		"filename"		"kz_zoomer_fix"
+		"updatedname"		"kz_zoomer_fix"
+		"OnlyNominate"		"0"
+	}
 	"kz_slowerrun"
 	{
 		"workshop_id"		"3473587380"
@@ -1232,22 +1227,6 @@
 		"enabled"		"1"
 		"filename"		"kz_slowrun_global_fix"
 		"updatedname"		"kz_slowrun_global_fix"
-		"OnlyNominate"		"0"
-	}
-	"kz_zoomer_fix"
-	{
-		"workshop_id"		"3479838886"
-		"enabled"		"1"
-		"filename"		"kz_zoomer_fix"
-		"updatedname"		"kz_zoomer_fix"
-		"OnlyNominate"		"0"
-	}
-	"kz_valley"
-	{
-		"workshop_id"		"3469847057"
-		"enabled"		"1"
-		"filename"		"kz_valley"
-		"updatedname"		"kz_valley"
 		"OnlyNominate"		"0"
 	}
 }
