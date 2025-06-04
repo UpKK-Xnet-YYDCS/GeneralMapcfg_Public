@@ -1375,4 +1375,12 @@
 		"updatedname" "kz_maya"
 		"OnlyNominate" "0"
 	}
+	"kz_dyd_ladderjumps"
+	{
+		"workshop_id" "3492840997"
+		"enabled" "1"
+		"filename" "kz_dyd_ladderjumps"
+		"updatedname" "kz_dyd_ladderjumps"
+		"OnlyNominate" "0"
+	}
 }
