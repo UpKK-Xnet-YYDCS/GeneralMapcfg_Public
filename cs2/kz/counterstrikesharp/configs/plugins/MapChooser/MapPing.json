@@ -381,7 +381,7 @@
   },
   {
     "MapName": "kz_minecraft_village",
-    "WorkshopId": "3412458047"
+    "WorkshopId": "3425993718"
   },
   {
     "MapName": "kz_bhop_slide",
@@ -658,5 +658,13 @@
   {
     "MapName": "kz_catalyst_bg",
     "WorkshopId": "3450075567"
+  },
+  {
+    "MapName": "kz_dyd_ladderjumps",
+    "WorkshopId": "3492840997"
+  },
+  {
+    "MapName": "kz_maya",
+    "WorkshopId": "3491997295"
   }
 ]
