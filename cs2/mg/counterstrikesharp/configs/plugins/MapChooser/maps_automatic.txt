@@ -203,4 +203,20 @@
 		"filename"		"mg_super_tower_v3b"
 		"updatedname"		"mg_super_tower_v3b"
 	}
+	"mg_50arenas"
+	{
+		"workshop_id"		"3481779716"
+		"enabled"		"1"
+		"filename"		"mg_50arenas"
+		"updatedname"		"mg_50arenas"
+		"OnlyNominate"		"0"
+	}
+	"mg_warmcup_headshot(和谐版)"
+	{
+		"workshop_id"		"3478639116"
+		"enabled"		"1"
+		"filename"		"mg_warmcup_headshot(和谐版)"
+		"updatedname"		"mg_warmcup_headshot(和谐版)"
+		"OnlyNominate"		"0"
+	}
 }
