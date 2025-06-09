@@ -1391,4 +1391,12 @@
 		"updatedname" "kz_holmu1"
 		"OnlyNominate" "0"
 	}
+	"kz_goodluck_p"
+	{
+		"workshop_id" "3494653025"
+		"enabled" "1"
+		"filename" "kz_goodluck_p"
+		"updatedname" "kz_goodluck_p"
+		"OnlyNominate" "0"
+	}
 }
