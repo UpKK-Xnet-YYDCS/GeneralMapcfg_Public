@@ -321,7 +321,7 @@
   },
   {
     "MapName": "kz_alien_city",
-    "WorkshopId": "3361344867"
+    "WorkshopId": "3423925753"
   },
   {
     "MapName": "kz_2fast",
@@ -666,5 +666,9 @@
   {
     "MapName": "kz_maya",
     "WorkshopId": "3491997295"
+  },
+  {
+    "MapName": "kz_holmu1",
+    "WorkshopId": "3493686876"
   }
 ]
