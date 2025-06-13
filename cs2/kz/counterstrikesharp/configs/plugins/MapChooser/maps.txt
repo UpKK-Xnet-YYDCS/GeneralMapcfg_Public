@@ -1415,4 +1415,20 @@
 		"updatedname" "kz_bluehop_mq"
 		"OnlyNominate" "0"
 	}
+	"kz_custos"
+	{
+		"workshop_id" "3497876903"
+		"enabled" "1"
+		"filename" "kz_custos"
+		"updatedname" "kz_custos"
+		"OnlyNominate" "0"
+	}
+	"kz_railings"
+	{
+		"workshop_id" "3497730991"
+		"enabled" "1"
+		"filename" "kz_railings"
+		"updatedname" "kz_railings"
+		"OnlyNominate" "0"
+	}
 }
