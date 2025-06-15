@@ -1439,4 +1439,12 @@
 		"updatedname" "kz_sandstone_mq"
 		"OnlyNominate" "0"
 	}
+	"kz_test_map"
+	{
+		"workshop_id" "3499296736"
+		"enabled" "1"
+		"filename" "kz_test_map"
+		"updatedname" "kz_test_map"
+		"OnlyNominate" "0"
+	}
 }
