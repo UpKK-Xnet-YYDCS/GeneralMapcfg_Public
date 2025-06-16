@@ -674,5 +674,9 @@
   {
     "MapName": "kz_labour",
     "WorkshopId": "3164403123"
+  },
+  {
+    "MapName": "kz_bluehop_mq",
+    "WorkshopId": "3496529331"
   }
 ]
