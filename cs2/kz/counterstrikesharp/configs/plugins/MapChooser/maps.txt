@@ -1447,4 +1447,12 @@
 		"updatedname" "kz_test_map"
 		"OnlyNominate" "0"
 	}
+	"kz_bkz_sahara"
+	{
+		"workshop_id" "3495283332"
+		"enabled" "1"
+		"filename" "kz_bkz_sahara"
+		"updatedname" "kz_bkz_sahara"
+		"OnlyNominate" "0"
+	}
 }
