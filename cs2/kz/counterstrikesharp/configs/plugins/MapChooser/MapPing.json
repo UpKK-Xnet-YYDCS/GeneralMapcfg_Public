@@ -678,5 +678,17 @@
   {
     "MapName": "kz_bluehop_mq",
     "WorkshopId": "3496529331"
+  },
+  {
+    "MapName": "kz_sandstone_mq",
+    "WorkshopId": "3498064307"
+  },
+  {
+    "MapName": "kz_custos",
+    "WorkshopId": "3497876903"
+  },
+  {
+    "MapName": "kz_goodluck_p",
+    "WorkshopId": "3494653025"
   }
 ]
