@@ -1471,4 +1471,12 @@
 		"updatedname" "kz_futureblock"
 		"OnlyNominate" "0"
 	}
+	"kz_hot"
+	{
+		"workshop_id" "3504935381"
+		"enabled" "1"
+		"filename" "kz_hot"
+		"updatedname" "kz_hot"
+		"OnlyNominate" "0"
+	}
 }
