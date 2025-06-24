@@ -1479,4 +1479,12 @@
 		"updatedname" "kz_hot"
 		"OnlyNominate" "0"
 	}
+	"kz_bhop_koki_niwa"
+	{
+		"workshop_id" "3506881159"
+		"enabled" "1"
+		"filename" "kz_bhop_koki_niwa"
+		"updatedname" "kz_bhop_koki_niwa"
+		"OnlyNominate" "0"
+	}
 }
