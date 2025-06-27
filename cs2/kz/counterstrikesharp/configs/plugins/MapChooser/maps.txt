@@ -1487,4 +1487,12 @@
 		"updatedname" "kz_bhop_koki_niwa"
 		"OnlyNominate" "0"
 	}
+	"kz_rumzor"
+	{
+		"workshop_id" "3508993504"
+		"enabled" "1"
+		"filename" "kz_rumzor"
+		"updatedname" "kz_rumzor"
+		"OnlyNominate" "0"
+	}
 }
