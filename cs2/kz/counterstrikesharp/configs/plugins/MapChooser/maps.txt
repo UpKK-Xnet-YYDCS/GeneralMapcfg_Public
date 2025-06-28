@@ -1495,4 +1495,12 @@
 		"updatedname" "kz_rumzor"
 		"OnlyNominate" "0"
 	}
+	"kz_cf_foliage"
+	{
+		"workshop_id" "3509967919"
+		"enabled" "1"
+		"filename" "kz_cf_foliage"
+		"updatedname" "kz_cf_foliage"
+		"OnlyNominate" "0"
+	}
 }
