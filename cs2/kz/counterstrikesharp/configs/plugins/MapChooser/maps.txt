@@ -1503,4 +1503,12 @@
 		"updatedname" "kz_cf_foliage"
 		"OnlyNominate" "0"
 	}
+	"kz_bhop_nothing_go"
+	{
+		"workshop_id" "3510928293"
+		"enabled" "1"
+		"filename" "kz_bhop_nothing_go"
+		"updatedname" "kz_bhop_nothing_go"
+		"OnlyNominate" "0"
+	}
 }
