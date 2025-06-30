@@ -690,5 +690,33 @@
   {
     "MapName": "kz_goodluck_p",
     "WorkshopId": "3494653025"
+  },
+  {
+    "MapName": "kz_futureblock",
+    "WorkshopId": "3499868617"
+  },
+  {
+    "MapName": "kz_variety_fix",
+    "WorkshopId": "3286019495"
+  },
+  {
+    "MapName": "kz_railings",
+    "WorkshopId": "3497730991"
+  },
+  {
+    "MapName": "kz_blockhardy2k",
+    "WorkshopId": "3488916737"
+  },
+  {
+    "MapName": "kz_hot",
+    "WorkshopId": "3504935381"
+  },
+  {
+    "MapName": "kz_bhop_koki_niwa",
+    "WorkshopId": "3506881159"
+  },
+  {
+    "MapName": "kz_rumzor",
+    "WorkshopId": "3508993504"
   }
 ]
