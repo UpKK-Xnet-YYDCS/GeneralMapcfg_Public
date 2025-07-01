@@ -718,5 +718,9 @@
   {
     "MapName": "kz_rumzor",
     "WorkshopId": "3508993504"
+  },
+  {
+    "MapName": "kz_cf_foliage",
+    "WorkshopId": "3509967919"
   }
 ]
