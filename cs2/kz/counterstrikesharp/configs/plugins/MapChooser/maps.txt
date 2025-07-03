@@ -1535,4 +1535,12 @@
 		"updatedname" "kz_hb_smieszneznaczki"
 		"OnlyNominate" "0"
 	}
+	"kz_bhop_apricity"
+	{
+		"workshop_id" "3514400945"
+		"enabled" "1"
+		"filename" "kz_bhop_apricity"
+		"updatedname" "kz_bhop_apricity"
+		"OnlyNominate" "0"
+	}
 }
