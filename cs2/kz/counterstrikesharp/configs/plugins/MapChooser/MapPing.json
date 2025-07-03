@@ -722,5 +722,13 @@
   {
     "MapName": "kz_cf_foliage",
     "WorkshopId": "3509967919"
+  },
+  {
+    "MapName": "kz_bhop_nothing_go",
+    "WorkshopId": "3510928293"
+  },
+  {
+    "MapName": "kz_bible_black",
+    "WorkshopId": "3512977810"
   }
 ]
