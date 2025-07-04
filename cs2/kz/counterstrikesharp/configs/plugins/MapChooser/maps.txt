@@ -1543,4 +1543,36 @@
 		"updatedname" "kz_bhop_apricity"
 		"OnlyNominate" "0"
 	}
+	"kz_spiritblockv2"
+	{
+		"workshop_id" "3515672029"
+		"enabled" "1"
+		"filename" "kz_spiritblockv2"
+		"updatedname" "kz_spiritblockv2"
+		"OnlyNominate" "0"
+	}
+	"kz_breezeblocks"
+	{
+		"workshop_id" "3515668627"
+		"enabled" "1"
+		"filename" "kz_breezeblocks"
+		"updatedname" "kz_breezeblocks"
+		"OnlyNominate" "0"
+	}
+	"kz_fastmap"
+	{
+		"workshop_id" "3515666175"
+		"enabled" "1"
+		"filename" "kz_fastmap"
+		"updatedname" "kz_fastmap"
+		"OnlyNominate" "0"
+	}
+	"kz_cheese"
+	{
+		"workshop_id" "3515664229"
+		"enabled" "1"
+		"filename" "kz_cheese"
+		"updatedname" "kz_cheese"
+		"OnlyNominate" "0"
+	}
 }
