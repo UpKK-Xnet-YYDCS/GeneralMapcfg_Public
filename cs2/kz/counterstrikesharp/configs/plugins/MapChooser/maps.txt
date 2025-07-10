@@ -1575,4 +1575,60 @@
 		"updatedname" "kz_cheese"
 		"OnlyNominate" "0"
 	}
+	"kz_sp1_behold"
+	{
+		"workshop_id" "3520700792"
+		"enabled" "1"
+		"filename" "kz_sp1_behold"
+		"updatedname" "kz_sp1_behold"
+		"OnlyNominate" "0"
+	}
+	"kz_brightblock"
+	{
+		"workshop_id" "3520698945"
+		"enabled" "1"
+		"filename" "kz_brightblock"
+		"updatedname" "kz_brightblock"
+		"OnlyNominate" "0"
+	}
+	"kz_overworld_a2"
+	{
+		"workshop_id" "3520697738"
+		"enabled" "1"
+		"filename" "kz_overworld_a2"
+		"updatedname" "kz_overworld_a2"
+		"OnlyNominate" "0"
+	}
+	"kz_echo"
+	{
+		"workshop_id" "3520695638"
+		"enabled" "1"
+		"filename" "kz_echo"
+		"updatedname" "kz_echo"
+		"OnlyNominate" "0"
+	}
+	"kz_j2s_westbl0ck_go"
+	{
+		"workshop_id" "3520694245"
+		"enabled" "1"
+		"filename" "kz_j2s_westbl0ck_go"
+		"updatedname" "kz_j2s_westbl0ck_go"
+		"OnlyNominate" "0"
+	}
+	"kz_highland"
+	{
+		"workshop_id" "3520692787"
+		"enabled" "1"
+		"filename" "kz_highland"
+		"updatedname" "kz_highland"
+		"OnlyNominate" "0"
+	}
+	"kz_hillside"
+	{
+		"workshop_id" "3520691363"
+		"enabled" "1"
+		"filename" "kz_hillside"
+		"updatedname" "kz_hillside"
+		"OnlyNominate" "0"
+	}
 }
