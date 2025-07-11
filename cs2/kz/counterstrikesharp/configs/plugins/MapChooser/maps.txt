@@ -1631,4 +1631,36 @@
 		"updatedname" "kz_hillside"
 		"OnlyNominate" "0"
 	}
+	"kz_slide_era"
+	{
+		"workshop_id" "3522576870"
+		"enabled" "1"
+		"filename" "kz_slide_era"
+		"updatedname" "kz_slide_era"
+		"OnlyNominate" "0"
+	}
+	"kz_slidebober"
+	{
+		"workshop_id" "3522575650"
+		"enabled" "1"
+		"filename" "kz_slidebober"
+		"updatedname" "kz_slidebober"
+		"OnlyNominate" "0"
+	}
+	"kz_lego"
+	{
+		"workshop_id" "3522572048"
+		"enabled" "1"
+		"filename" "kz_lego"
+		"updatedname" "kz_lego"
+		"OnlyNominate" "0"
+	}
+	"kz_edp445"
+	{
+		"workshop_id" "3522570869"
+		"enabled" "1"
+		"filename" "kz_edp445"
+		"updatedname" "kz_edp445"
+		"OnlyNominate" "0"
+	}
 }
