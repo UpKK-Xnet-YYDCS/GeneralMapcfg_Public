@@ -730,5 +730,61 @@
   {
     "MapName": "kz_bible_black",
     "WorkshopId": "3512977810"
+  },
+  {
+    "MapName": "kz_bhop_apricity",
+    "WorkshopId": "3514400945"
+  },
+  {
+    "MapName": "kz_cheese",
+    "WorkshopId": "3515664229"
+  },
+  {
+    "MapName": "kz_testing",
+    "WorkshopId": "3501144382"
+  },
+  {
+    "MapName": "kz_hillside",
+    "WorkshopId": "3520691363"
+  },
+  {
+    "MapName": "kz_highland",
+    "WorkshopId": "3520692787"
+  },
+  {
+    "MapName": "kz_slidebober",
+    "WorkshopId": "3522575650"
+  },
+  {
+    "MapName": "kz_edp445",
+    "WorkshopId": "3522570869"
+  },
+  {
+    "MapName": "kz_lego",
+    "WorkshopId": "3522572048"
+  },
+  {
+    "MapName": "kz_slide_era",
+    "WorkshopId": "3522576870"
+  },
+  {
+    "MapName": "kz_brightblock",
+    "WorkshopId": "3520698945"
+  },
+  {
+    "MapName": "kz_j2s_westbl0ck_go",
+    "WorkshopId": "3520694245"
+  },
+  {
+    "MapName": "kz_spiritblockv2",
+    "WorkshopId": "3515672029"
+  },
+  {
+    "MapName": "kz_breezeblocks",
+    "WorkshopId": "3515668627"
+  },
+  {
+    "MapName": "kz_village",
+    "WorkshopId": "3513941816"
   }
 ]
