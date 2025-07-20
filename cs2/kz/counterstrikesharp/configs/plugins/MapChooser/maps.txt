@@ -1663,4 +1663,12 @@
 		"updatedname" "kz_edp445"
 		"OnlyNominate" "0"
 	}
+	"kz_kiwideath"
+	{
+		"workshop_id" "3530161696"
+		"enabled" "1"
+		"filename" "kz_kiwideath"
+		"updatedname" "kz_kiwideath"
+		"OnlyNominate" "0"
+	}
 }
