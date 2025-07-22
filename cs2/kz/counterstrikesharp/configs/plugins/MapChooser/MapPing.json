@@ -786,5 +786,25 @@
   {
     "MapName": "kz_village",
     "WorkshopId": "3513941816"
+  },
+  {
+    "MapName": "kz_fastmap",
+    "WorkshopId": "3515666175"
+  },
+  {
+    "MapName": "kz_hb_smieszneznaczki",
+    "WorkshopId": "3513939243"
+  },
+  {
+    "MapName": "kz_overworld_a2",
+    "WorkshopId": "3520697738"
+  },
+  {
+    "MapName": "kz_sp1_behold",
+    "WorkshopId": "3520700792"
+  },
+  {
+    "MapName": "kz_echo",
+    "WorkshopId": "3520695638"
   }
 ]
