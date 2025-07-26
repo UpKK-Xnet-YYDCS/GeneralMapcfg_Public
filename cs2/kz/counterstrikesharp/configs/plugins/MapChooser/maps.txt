@@ -1679,4 +1679,12 @@
 		"updatedname" "kz_kiwiterror"
 		"OnlyNominate" "0"
 	}
+	"kz_heaven"
+	{
+		"workshop_id" "3533981088"
+		"enabled" "1"
+		"filename" "kz_heaven"
+		"updatedname" "kz_heaven"
+		"OnlyNominate" "0"
+	}
 }
