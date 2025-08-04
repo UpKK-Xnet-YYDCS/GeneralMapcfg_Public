@@ -1695,4 +1695,12 @@
 		"updatedname" "kz_slide_or_dont"
 		"OnlyNominate" "0"
 	}
+	"kz_bluekarko"
+	{
+		"workshop_id" "3539143823"
+		"enabled" "1"
+		"filename" "kz_bluekarko"
+		"updatedname" "kz_bluekarko"
+		"OnlyNominate" "0"
+	}
 }
