@@ -1703,4 +1703,12 @@
 		"updatedname" "kz_bluekarko"
 		"OnlyNominate" "0"
 	}
+	"kz_hereafter"
+	{
+		"workshop_id" "3538587295"
+		"enabled" "1"
+		"filename" "kz_hereafter"
+		"updatedname" "kz_hereafter"
+		"OnlyNominate" "0"
+	}
 }
