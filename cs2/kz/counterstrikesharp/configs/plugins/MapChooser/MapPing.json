@@ -806,5 +806,13 @@
   {
     "MapName": "kz_echo",
     "WorkshopId": "3520695638"
+  },
+  {
+    "MapName": "kz_kiwiterror",
+    "WorkshopId": "3531203692"
+  },
+  {
+    "MapName": "kz_kiwideath",
+    "WorkshopId": "3530161696"
   }
 ]
