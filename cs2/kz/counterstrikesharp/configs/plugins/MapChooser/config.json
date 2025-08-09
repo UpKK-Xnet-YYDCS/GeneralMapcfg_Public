@@ -14,7 +14,7 @@
     "RTVDelay": 1.0,
     "UseGameTimeLimit":false,
     "SteamWorkShopCollectionId": "3218424661",
-    "AutoDownload": true,
+    "AutoDownload": false,
     "UseSteamWorkShopCollectionId": true,
     "SteamWorkShopCollectionIdAutoUpdateMaps": false,
     "ChangeMapUse_host_workshop_map": true,
