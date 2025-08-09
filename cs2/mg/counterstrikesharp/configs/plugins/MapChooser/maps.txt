@@ -66,7 +66,7 @@
 	"mg_17_battles_b1b"
 	{
 		"workshop_id"		"3082448970"
-		"enabled"		"1"
+		"enabled"		"0"
 		"filename"		"mg_17_battles_b1b"
 		"updatedname"		"mg_17_battles_b1b"
 	}
