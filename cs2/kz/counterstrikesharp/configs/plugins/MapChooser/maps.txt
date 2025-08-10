@@ -1719,4 +1719,52 @@
 		"updatedname" "kz_persona_is_a_furry"
 		"OnlyNominate" "0"
 	}
+	"kz_mescaline_f"
+	{
+		"workshop_id" "3545499100"
+		"enabled" "1"
+		"filename" "kz_mescaline_f"
+		"updatedname" "kz_mescaline_f"
+		"OnlyNominate" "0"
+	}
+	"kz_surf_blue"
+	{
+		"workshop_id" "3545317362"
+		"enabled" "1"
+		"filename" "kz_surf_blue"
+		"updatedname" "kz_surf_blue"
+		"OnlyNominate" "0"
+	}
+	"kz_htraeton"
+	{
+		"workshop_id" "3540504141"
+		"enabled" "1"
+		"filename" "kz_htraeton"
+		"updatedname" "kz_htraeton"
+		"OnlyNominate" "0"
+	}
+	"kz_madhatter"
+	{
+		"workshop_id" "3540061470"
+		"enabled" "1"
+		"filename" "kz_madhatter"
+		"updatedname" "kz_madhatter"
+		"OnlyNominate" "0"
+	}
+	"kz_slide_we_want_wad"
+	{
+		"workshop_id" "3539860583"
+		"enabled" "1"
+		"filename" "kz_slide_we_want_wad"
+		"updatedname" "kz_slide_we_want_wad"
+		"OnlyNominate" "0"
+	}
+	"kz_greebochki"
+	{
+		"workshop_id" "3534437146"
+		"enabled" "1"
+		"filename" "kz_greebochki"
+		"updatedname" "kz_greebochki"
+		"OnlyNominate" "0"
+	}
 }
