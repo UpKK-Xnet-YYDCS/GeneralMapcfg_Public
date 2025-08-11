@@ -87,7 +87,7 @@
 	"kz_leto_v2"
 	{
 		"workshop_id" "3070830826"
-		"enabled" "1"
+		"enabled" "0"
 		"filename" "kz_leto_v2"
 		"updatedname" "kz_leto_v2"
 	}
