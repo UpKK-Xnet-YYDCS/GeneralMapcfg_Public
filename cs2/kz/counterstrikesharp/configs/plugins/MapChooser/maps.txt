@@ -1775,4 +1775,12 @@
 		"updatedname" "kz_shift"
 		"OnlyNominate" "0"
 	}
+	"kz_haste"
+	{
+		"workshop_id" "3547715518"
+		"enabled" "1"
+		"filename" "kz_haste"
+		"updatedname" "kz_haste"
+		"OnlyNominate" "0"
+	}
 }
