@@ -830,5 +830,9 @@
   {
     "MapName": "kz_haste",
     "WorkshopId": "3547715518"
+  },
+  {
+    "MapName": "kz_greebochki",
+    "WorkshopId": "3534437146"
   }
 ]
