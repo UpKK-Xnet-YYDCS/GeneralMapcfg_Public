@@ -1783,4 +1783,12 @@
 		"updatedname" "kz_haste"
 		"OnlyNominate" "0"
 	}
+	"kz_interspacial"
+	{
+		"workshop_id" "3540048433"
+		"enabled" "1"
+		"filename" "kz_interspacial"
+		"updatedname" "kz_interspacial"
+		"OnlyNominate" "0"
+	}
 }
