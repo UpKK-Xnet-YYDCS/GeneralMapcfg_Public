@@ -834,5 +834,17 @@
   {
     "MapName": "kz_greebochki",
     "WorkshopId": "3534437146"
+  },
+  {
+    "MapName": "kz_heaven",
+    "WorkshopId": "3533981088"
+  },
+  {
+    "MapName": "kz_interspacial",
+    "WorkshopId": "3540048433"
+  },
+  {
+    "MapName": "kz_catalyst",
+    "WorkshopId": "3552667502"
   }
 ]
