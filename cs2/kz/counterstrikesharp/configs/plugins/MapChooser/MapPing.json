@@ -846,5 +846,13 @@
   {
     "MapName": "kz_catalyst",
     "WorkshopId": "3552667502"
+  },
+  {
+    "MapName": "kz_persona_is_a_furry",
+    "WorkshopId": "3544382849"
+  },
+  {
+    "MapName": "kz_shift",
+    "WorkshopId": "3523939369"
   }
 ]
