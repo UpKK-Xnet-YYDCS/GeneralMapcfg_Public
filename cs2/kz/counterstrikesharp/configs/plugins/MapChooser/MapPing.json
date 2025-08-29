@@ -854,5 +854,13 @@
   {
     "MapName": "kz_shift",
     "WorkshopId": "3523939369"
+  },
+  {
+    "MapName": "kz_katharaxith",
+    "WorkshopId": "3458031044"
+  },
+  {
+    "MapName": "kz_divert",
+    "WorkshopId": "3555946660"
   }
 ]
