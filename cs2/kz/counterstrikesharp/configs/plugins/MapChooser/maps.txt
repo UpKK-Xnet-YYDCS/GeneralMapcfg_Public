@@ -1823,4 +1823,20 @@
 		"updatedname" "kz_divert"
 		"OnlyNominate" "0"
 	}
+	"kz_banjo"
+	{
+		"workshop_id" "3558360812"
+		"enabled" "1"
+		"filename" "kz_banjo"
+		"updatedname" "kz_banjo"
+		"OnlyNominate" "0"
+	}
+	"kz_procrastination_f"
+	{
+		"workshop_id" "3557835615"
+		"enabled" "1"
+		"filename" "kz_procrastination_f"
+		"updatedname" "kz_procrastination_f"
+		"OnlyNominate" "0"
+	}
 }
