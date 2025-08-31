@@ -1839,4 +1839,20 @@
 		"updatedname" "kz_procrastination_f"
 		"OnlyNominate" "0"
 	}
+	"kz_sound_test"
+	{
+		"workshop_id" "3559014926"
+		"enabled" "1"
+		"filename" "kz_sound_test"
+		"updatedname" "kz_sound_test"
+		"OnlyNominate" "0"
+	}
+	"kz_variety_x"
+	{
+		"workshop_id" "3558413325"
+		"enabled" "1"
+		"filename" "kz_variety_x"
+		"updatedname" "kz_variety_x"
+		"OnlyNominate" "0"
+	}
 }
