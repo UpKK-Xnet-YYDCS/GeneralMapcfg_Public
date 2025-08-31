@@ -866,5 +866,9 @@
   {
     "MapName": "kz_procrastination_f",
     "WorkshopId": "3557835615"
+  },
+  {
+    "MapName": "kz_surf_blue",
+    "WorkshopId": "3545317362"
   }
 ]
