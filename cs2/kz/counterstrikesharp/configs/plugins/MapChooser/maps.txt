@@ -1855,4 +1855,12 @@
 		"updatedname" "kz_variety_x"
 		"OnlyNominate" "0"
 	}
+	"kz_slide_deee"
+	{
+		"workshop_id" "3560421641"
+		"enabled" "1"
+		"filename" "kz_slide_deee"
+		"updatedname" "kz_slide_deee"
+		"OnlyNominate" "0"
+	}
 }
