@@ -870,5 +870,13 @@
   {
     "MapName": "kz_surf_blue",
     "WorkshopId": "3545317362"
+  },
+  {
+    "MapName": "kz_banjo",
+    "WorkshopId": "3558360812"
+  },
+  {
+    "MapName": "kz_kiwiexultation",
+    "WorkshopId": "3551310998"
   }
 ]
