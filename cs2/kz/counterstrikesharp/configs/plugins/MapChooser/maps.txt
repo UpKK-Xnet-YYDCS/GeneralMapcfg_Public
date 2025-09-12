@@ -1871,4 +1871,12 @@
 		"updatedname" "kz_exti_playaz"
 		"OnlyNominate" "0"
 	}
+	"kz_mjs_carcioxith"
+	{
+		"workshop_id" "3566280237"
+		"enabled" "1"
+		"filename" "kz_mjs_carcioxith"
+		"updatedname" "kz_mjs_carcioxith"
+		"OnlyNominate" "0"
+	}
 }
