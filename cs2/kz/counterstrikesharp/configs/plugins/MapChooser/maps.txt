@@ -1879,4 +1879,28 @@
 		"updatedname" "kz_mjs_carcioxith"
 		"OnlyNominate" "0"
 	}
+	"kz_sxb_xbcmzl"
+	{
+		"workshop_id" "3568336119"
+		"enabled" "1"
+		"filename" "kz_sxb_xbcmzl"
+		"updatedname" "kz_sxb_xbcmzl"
+		"OnlyNominate" "0"
+	}
+	"kz_kuutio"
+	{
+		"workshop_id" "3567982777"
+		"enabled" "1"
+		"filename" "kz_kuutio"
+		"updatedname" "kz_kuutio"
+		"OnlyNominate" "0"
+	}
+	"kz_cavediving"
+	{
+		"workshop_id" "3567973190"
+		"enabled" "1"
+		"filename" "kz_cavediving"
+		"updatedname" "kz_cavediving"
+		"OnlyNominate" "0"
+	}
 }
