@@ -882,5 +882,21 @@
   {
     "MapName": "kz_sxb_xbcmzl",
     "WorkshopId": "3568336119"
+  },
+  {
+    "MapName": "kz_tikkaat",
+    "WorkshopId": "3571708908"
+  },
+  {
+    "MapName": "kz_ozark",
+    "WorkshopId": "3561356772"
+  },
+  {
+    "MapName": "kz_kuutio",
+    "WorkshopId": "3567982777"
+  },
+  {
+    "MapName": "kz_exti_playaz",
+    "WorkshopId": "3563564458"
   }
 ]
