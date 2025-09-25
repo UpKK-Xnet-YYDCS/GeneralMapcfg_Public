@@ -898,5 +898,17 @@
   {
     "MapName": "kz_exti_playaz",
     "WorkshopId": "3563564458"
+  },
+  {
+    "MapName": "kz_bluekarko",
+    "WorkshopId": "3539143823"
+  },
+  {
+    "MapName": "kz_madhatter",
+    "WorkshopId": "3540061470"
+  },
+  {
+    "MapName": "kz_variety_x",
+    "WorkshopId": "3558413325"
   }
 ]
