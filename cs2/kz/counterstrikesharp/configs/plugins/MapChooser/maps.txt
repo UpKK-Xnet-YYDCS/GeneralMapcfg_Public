@@ -1927,4 +1927,12 @@
 		"updatedname" "kz_tikkaat"
 		"OnlyNominate" "0"
 	}
+	"kz_powerblock"
+	{
+		"workshop_id" "3579252354"
+		"enabled" "1"
+		"filename" "kz_powerblock"
+		"updatedname" "kz_powerblock"
+		"OnlyNominate" "0"
+	}
 }
