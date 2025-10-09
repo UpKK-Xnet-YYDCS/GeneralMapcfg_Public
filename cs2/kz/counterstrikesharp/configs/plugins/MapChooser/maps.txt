@@ -1935,4 +1935,12 @@
 		"updatedname" "kz_powerblock"
 		"OnlyNominate" "0"
 	}
+	"kz_old_depression"
+	{
+		"workshop_id" "3583237205"
+		"enabled" "1"
+		"filename" "kz_old_depression"
+		"updatedname" "kz_old_depression"
+		"OnlyNominate" "0"
+	}
 }
