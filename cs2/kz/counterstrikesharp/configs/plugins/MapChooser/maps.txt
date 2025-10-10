@@ -1943,4 +1943,28 @@
 		"updatedname" "kz_old_depression"
 		"OnlyNominate" "0"
 	}
+	"kz_old_depression_v2"
+	{
+		"workshop_id" "3583678140"
+		"enabled" "1"
+		"filename" "kz_old_depression_v2"
+		"updatedname" "kz_old_depression_v2"
+		"OnlyNominate" "0"
+	}
+	"kz_avalon"
+	{
+		"workshop_id" "3583337319"
+		"enabled" "1"
+		"filename" "kz_avalon"
+		"updatedname" "kz_avalon"
+		"OnlyNominate" "0"
+	}
+	"kz_locomotion"
+	{
+		"workshop_id" "3519158020"
+		"enabled" "1"
+		"filename" "kz_locomotion"
+		"updatedname" "kz_locomotion"
+		"OnlyNominate" "0"
+	}
 }
