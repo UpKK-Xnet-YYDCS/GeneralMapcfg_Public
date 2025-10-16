@@ -1967,4 +1967,12 @@
 		"updatedname" "kz_locomotion"
 		"OnlyNominate" "0"
 	}
+	"kz_natureblock"
+	{
+		"workshop_id" "3587639210"
+		"enabled" "1"
+		"filename" "kz_natureblock"
+		"updatedname" "kz_natureblock"
+		"OnlyNominate" "0"
+	}
 }
