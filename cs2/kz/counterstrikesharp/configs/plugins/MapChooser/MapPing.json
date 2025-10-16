@@ -914,5 +914,25 @@
   {
     "MapName": "kz_slide_deee",
     "WorkshopId": "3560421641"
+  },
+  {
+    "MapName": "kz_powerblock",
+    "WorkshopId": "3579252354"
+  },
+  {
+    "MapName": "kz_slide_or_dont",
+    "WorkshopId": "3536047570"
+  },
+  {
+    "MapName": "kz_avalon",
+    "WorkshopId": "3583337319"
+  },
+  {
+    "MapName": "kz_old_depression",
+    "WorkshopId": "3583237205"
+  },
+  {
+    "MapName": "kz_locomotion",
+    "WorkshopId": "3519158020"
   }
 ]
