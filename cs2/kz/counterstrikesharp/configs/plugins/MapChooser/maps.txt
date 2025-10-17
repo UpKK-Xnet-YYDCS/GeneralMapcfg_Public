@@ -1975,4 +1975,12 @@
 		"updatedname" "kz_natureblock"
 		"OnlyNominate" "0"
 	}
+	"kz_hillside [CS2]"
+	{
+		"workshop_id" "3587750305"
+		"enabled" "1"
+		"filename" "kz_hillside [CS2]"
+		"updatedname" "kz_hillside [CS2]"
+		"OnlyNominate" "0"
+	}
 }
