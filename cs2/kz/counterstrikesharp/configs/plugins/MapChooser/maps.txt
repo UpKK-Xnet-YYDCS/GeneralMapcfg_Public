@@ -1983,4 +1983,12 @@
 		"updatedname" "kz_hillside [CS2]"
 		"OnlyNominate" "0"
 	}
+	"kz_cellblock"
+	{
+		"workshop_id" "3589491201"
+		"enabled" "1"
+		"filename" "kz_cellblock"
+		"updatedname" "kz_cellblock"
+		"OnlyNominate" "0"
+	}
 }
