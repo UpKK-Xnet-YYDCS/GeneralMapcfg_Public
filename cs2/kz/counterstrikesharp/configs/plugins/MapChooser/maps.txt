@@ -1991,4 +1991,12 @@
 		"updatedname" "kz_cellblock"
 		"OnlyNominate" "0"
 	}
+	"kz_moorish"
+	{
+		"workshop_id" "3590615475"
+		"enabled" "1"
+		"filename" "kz_moorish"
+		"updatedname" "kz_moorish"
+		"OnlyNominate" "0"
+	}
 }
