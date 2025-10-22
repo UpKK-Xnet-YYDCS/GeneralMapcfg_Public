@@ -1874,7 +1874,7 @@
 	"kz_mjs_carcioxith"
 	{
 		"workshop_id" "3566280237"
-		"enabled" "1"
+		"enabled" "0"
 		"filename" "kz_mjs_carcioxith"
 		"updatedname" "kz_mjs_carcioxith"
 		"OnlyNominate" "0"
