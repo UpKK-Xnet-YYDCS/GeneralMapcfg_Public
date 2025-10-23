@@ -934,5 +934,9 @@
   {
     "MapName": "kz_locomotion",
     "WorkshopId": "3519158020"
+  },
+  {
+    "MapName": "kz_natureblock",
+    "WorkshopId": "3587639210"
   }
 ]
