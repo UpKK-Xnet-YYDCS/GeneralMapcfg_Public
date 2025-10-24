@@ -1999,4 +1999,12 @@
 		"updatedname" "kz_moorish"
 		"OnlyNominate" "0"
 	}
+	"kz_outback"
+	{
+		"workshop_id" "3571933172"
+		"enabled" "1"
+		"filename" "kz_outback"
+		"updatedname" "kz_outback"
+		"OnlyNominate" "0"
+	}
 }
