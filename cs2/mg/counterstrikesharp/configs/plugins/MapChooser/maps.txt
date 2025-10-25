@@ -206,7 +206,7 @@
 	"mg_50arenas"
 	{
 		"workshop_id"		"3481779716"
-		"enabled"		"1"
+		"enabled"		"0"
 		"filename"		"mg_50arenas"
 		"updatedname"		"mg_50arenas"
 		"OnlyNominate"		"0"
