@@ -2007,4 +2007,12 @@
 		"updatedname" "kz_outback"
 		"OnlyNominate" "0"
 	}
+	"kz_bayharborbhopper"
+	{
+		"workshop_id" "3593758954"
+		"enabled" "1"
+		"filename" "kz_bayharborbhopper"
+		"updatedname" "kz_bayharborbhopper"
+		"OnlyNominate" "0"
+	}
 }
