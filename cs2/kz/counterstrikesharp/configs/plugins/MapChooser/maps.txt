@@ -2023,4 +2023,20 @@
 		"updatedname" "kz_maga"
 		"OnlyNominate" "0"
 	}
+	"kz_maganew"
+	{
+		"workshop_id" "3595825383"
+		"enabled" "1"
+		"filename" "kz_maganew"
+		"updatedname" "kz_maganew"
+		"OnlyNominate" "0"
+	}
+	"kz_magas"
+	{
+		"workshop_id" "3595760238"
+		"enabled" "1"
+		"filename" "kz_magas"
+		"updatedname" "kz_magas"
+		"OnlyNominate" "0"
+	}
 }
