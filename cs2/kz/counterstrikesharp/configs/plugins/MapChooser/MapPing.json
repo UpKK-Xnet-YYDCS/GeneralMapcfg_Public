@@ -938,5 +938,13 @@
   {
     "MapName": "kz_natureblock",
     "WorkshopId": "3587639210"
+  },
+  {
+    "MapName": "kz_outback",
+    "WorkshopId": "3571933172"
+  },
+  {
+    "MapName": "kz_cellblock",
+    "WorkshopId": "3589491201"
   }
 ]
