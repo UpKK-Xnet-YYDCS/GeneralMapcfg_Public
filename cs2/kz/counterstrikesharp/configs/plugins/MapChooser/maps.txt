@@ -2039,4 +2039,12 @@
 		"updatedname" "kz_magas"
 		"OnlyNominate" "0"
 	}
+	"kz_sillycats WIP V1"
+	{
+		"workshop_id" "3597257458"
+		"enabled" "1"
+		"filename" "kz_sillycats WIP V1"
+		"updatedname" "kz_sillycats WIP V1"
+		"OnlyNominate" "0"
+	}
 }
