@@ -1458,7 +1458,7 @@
 	"kz_testing"
 	{
 		"workshop_id" "3501144382"
-		"enabled" "1"
+		"enabled" "0"
 		"filename" "kz_testing"
 		"updatedname" "kz_testing"
 		"OnlyNominate" "0"
@@ -1842,7 +1842,7 @@
 	"kz_sound_test"
 	{
 		"workshop_id" "3559014926"
-		"enabled" "1"
+		"enabled" "0"
 		"filename" "kz_sound_test"
 		"updatedname" "kz_sound_test"
 		"OnlyNominate" "0"
@@ -1874,7 +1874,7 @@
 	"kz_mjs_carcioxith"
 	{
 		"workshop_id" "3566280237"
-		"enabled" "1"
+		"enabled" "0"
 		"filename" "kz_mjs_carcioxith"
 		"updatedname" "kz_mjs_carcioxith"
 		"OnlyNominate" "0"
@@ -2018,7 +2018,7 @@
 	"kz_maga"
 	{
 		"workshop_id" "3595329824"
-		"enabled" "1"
+		"enabled" "0"
 		"filename" "kz_maga"
 		"updatedname" "kz_maga"
 		"OnlyNominate" "0"
@@ -2026,7 +2026,7 @@
 	"kz_maganew"
 	{
 		"workshop_id" "3595825383"
-		"enabled" "1"
+		"enabled" "0"
 		"filename" "kz_maganew"
 		"updatedname" "kz_maganew"
 		"OnlyNominate" "0"
@@ -2034,7 +2034,7 @@
 	"kz_magas"
 	{
 		"workshop_id" "3595760238"
-		"enabled" "1"
+		"enabled" "0"
 		"filename" "kz_magas"
 		"updatedname" "kz_magas"
 		"OnlyNominate" "0"
