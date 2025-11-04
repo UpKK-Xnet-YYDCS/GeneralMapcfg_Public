@@ -2055,4 +2055,12 @@
 		"updatedname" "kz_sillycats"
 		"OnlyNominate" "0"
 	}
+	"kz_horrorblock"
+	{
+		"workshop_id" "3582131545"
+		"enabled" "1"
+		"filename" "kz_horrorblock"
+		"updatedname" "kz_horrorblock"
+		"OnlyNominate" "0"
+	}
 }
