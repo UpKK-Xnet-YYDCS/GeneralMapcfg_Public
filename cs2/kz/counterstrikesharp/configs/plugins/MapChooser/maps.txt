@@ -2063,4 +2063,28 @@
 		"updatedname" "kz_horrorblock"
 		"OnlyNominate" "0"
 	}
+	"kz_mediumcastle"
+	{
+		"workshop_id" "3600205192"
+		"enabled" "1"
+		"filename" "kz_mediumcastle"
+		"updatedname" "kz_mediumcastle"
+		"OnlyNominate" "0"
+	}
+	"kz_orbolution_v2"
+	{
+		"workshop_id" "3598215482"
+		"enabled" "1"
+		"filename" "kz_orbolution_v2"
+		"updatedname" "kz_orbolution_v2"
+		"OnlyNominate" "0"
+	}
+	"kz_old_depression (WiP)"
+	{
+		"workshop_id" "3595493972"
+		"enabled" "1"
+		"filename" "kz_old_depression (WiP)"
+		"updatedname" "kz_old_depression (WiP)"
+		"OnlyNominate" "0"
+	}
 }
