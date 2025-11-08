@@ -2119,4 +2119,20 @@
 		"updatedname" "kz_hex"
 		"OnlyNominate" "0"
 	}
+	"kz_boonies"
+	{
+		"workshop_id" "3591354316"
+		"enabled" "1"
+		"filename" "kz_boonies"
+		"updatedname" "kz_boonies"
+		"OnlyNominate" "0"
+	}
+	"kz_sanctum"
+	{
+		"workshop_id" "3582314764"
+		"enabled" "1"
+		"filename" "kz_sanctum"
+		"updatedname" "kz_sanctum"
+		"OnlyNominate" "0"
+	}
 }
