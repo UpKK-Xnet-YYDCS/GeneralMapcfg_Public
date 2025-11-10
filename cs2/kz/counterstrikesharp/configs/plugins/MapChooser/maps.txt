@@ -2135,4 +2135,20 @@
 		"updatedname" "kz_sanctum"
 		"OnlyNominate" "0"
 	}
+	"kz_kiwitech"
+	{
+		"workshop_id" "3602610300"
+		"enabled" "1"
+		"filename" "kz_kiwitech"
+		"updatedname" "kz_kiwitech"
+		"OnlyNominate" "0"
+	}
+	"kz_sillycats_final_blockout"
+	{
+		"workshop_id" "3602483686"
+		"enabled" "1"
+		"filename" "kz_sillycats_final_blockout"
+		"updatedname" "kz_sillycats_final_blockout"
+		"OnlyNominate" "0"
+	}
 }
