@@ -2151,4 +2151,28 @@
 		"updatedname" "kz_sillycats_final_blockout"
 		"OnlyNominate" "0"
 	}
+	"kz_kzro_hardhoodoo"
+	{
+		"workshop_id" "3604021984"
+		"enabled" "1"
+		"filename" "kz_kzro_hardhoodoo"
+		"updatedname" "kz_kzro_hardhoodoo"
+		"OnlyNominate" "0"
+	}
+	"kz_sp1_strafechampion"
+	{
+		"workshop_id" "3603657658"
+		"enabled" "1"
+		"filename" "kz_sp1_strafechampion"
+		"updatedname" "kz_sp1_strafechampion"
+		"OnlyNominate" "0"
+	}
+	"kz_why"
+	{
+		"workshop_id" "3603577252"
+		"enabled" "1"
+		"filename" "kz_why"
+		"updatedname" "kz_why"
+		"OnlyNominate" "0"
+	}
 }
