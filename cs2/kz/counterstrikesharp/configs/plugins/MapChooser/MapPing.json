@@ -946,5 +946,45 @@
   {
     "MapName": "kz_cellblock",
     "WorkshopId": "3589491201"
+  },
+  {
+    "MapName": "kz_mediumcastle",
+    "WorkshopId": "3600205192"
+  },
+  {
+    "MapName": "kz_horrorblock",
+    "WorkshopId": "3582131545"
+  },
+  {
+    "MapName": "kz_sillycats",
+    "WorkshopId": "3598002094"
+  },
+  {
+    "MapName": "kz_bayharborbhopper",
+    "WorkshopId": "3593758954"
+  },
+  {
+    "MapName": "kz_hex",
+    "WorkshopId": "3584437689"
+  },
+  {
+    "MapName": "kz_sanctum",
+    "WorkshopId": "3582314764"
+  },
+  {
+    "MapName": "kz_boonies",
+    "WorkshopId": "3591354316"
+  },
+  {
+    "MapName": "kz_maga",
+    "WorkshopId": "3595329824"
+  },
+  {
+    "MapName": "kz_kiwitech",
+    "WorkshopId": "3602610300"
+  },
+  {
+    "MapName": "kz_why",
+    "WorkshopId": "3603577252"
   }
 ]
