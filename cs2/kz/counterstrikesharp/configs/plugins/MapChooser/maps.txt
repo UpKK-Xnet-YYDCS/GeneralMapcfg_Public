@@ -2183,4 +2183,20 @@
 		"updatedname" "kz_kzro_mountainroad"
 		"OnlyNominate" "0"
 	}
+	"kz_kiwiexophoric"
+	{
+		"workshop_id" "3605180671"
+		"enabled" "1"
+		"filename" "kz_kiwiexophoric"
+		"updatedname" "kz_kiwiexophoric"
+		"OnlyNominate" "0"
+	}
+	"kz_sp1_bloodyljs_v2"
+	{
+		"workshop_id" "3604675670"
+		"enabled" "1"
+		"filename" "kz_sp1_bloodyljs_v2"
+		"updatedname" "kz_sp1_bloodyljs_v2"
+		"OnlyNominate" "0"
+	}
 }
