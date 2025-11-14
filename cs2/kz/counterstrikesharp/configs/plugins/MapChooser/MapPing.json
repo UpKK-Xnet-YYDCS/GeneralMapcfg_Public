@@ -986,5 +986,13 @@
   {
     "MapName": "kz_why",
     "WorkshopId": "3603577252"
+  },
+  {
+    "MapName": "kz_sp1_strafechampion",
+    "WorkshopId": "3603657658"
+  },
+  {
+    "MapName": "kz_sp1_bloodyljs_v2",
+    "WorkshopId": "3604675670"
   }
 ]
