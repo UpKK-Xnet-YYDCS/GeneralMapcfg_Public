@@ -2199,4 +2199,12 @@
 		"updatedname" "kz_sp1_bloodyljs_v2"
 		"OnlyNominate" "0"
 	}
+	"kz_pale"
+	{
+		"workshop_id" "3607151664"
+		"enabled" "1"
+		"filename" "kz_pale"
+		"updatedname" "kz_pale"
+		"OnlyNominate" "0"
+	}
 }
