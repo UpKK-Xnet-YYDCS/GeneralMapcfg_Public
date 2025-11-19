@@ -2207,4 +2207,20 @@
 		"updatedname" "kz_pale"
 		"OnlyNominate" "0"
 	}
+	"kz_wumpus"
+	{
+		"workshop_id" "3608094345"
+		"enabled" "1"
+		"filename" "kz_wumpus"
+		"updatedname" "kz_wumpus"
+		"OnlyNominate" "0"
+	}
+	"kz_smallcastle"
+	{
+		"workshop_id" "3608061463"
+		"enabled" "1"
+		"filename" "kz_smallcastle"
+		"updatedname" "kz_smallcastle"
+		"OnlyNominate" "0"
+	}
 }
