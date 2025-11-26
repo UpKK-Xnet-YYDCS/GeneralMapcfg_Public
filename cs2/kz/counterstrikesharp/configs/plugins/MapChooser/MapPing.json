@@ -1010,5 +1010,13 @@
   {
     "MapName": "kz_antimony",
     "WorkshopId": "3609954118"
+  },
+  {
+    "MapName": "kz_kzro_mountainroad",
+    "WorkshopId": "3604165604"
+  },
+  {
+    "MapName": "kz_twiivo",
+    "WorkshopId": "3600371852"
   }
 ]
