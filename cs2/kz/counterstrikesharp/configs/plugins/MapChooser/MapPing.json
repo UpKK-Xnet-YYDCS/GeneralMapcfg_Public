@@ -1018,5 +1018,9 @@
   {
     "MapName": "kz_moonlight",
     "WorkshopId": "3287653784"
+  },
+  {
+    "MapName": "kz_zhongbitu",
+    "WorkshopId": "3612290420"
   }
 ]
