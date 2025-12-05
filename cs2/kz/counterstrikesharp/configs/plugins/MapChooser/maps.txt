@@ -2263,4 +2263,12 @@
 		"updatedname" "kz_dojo"
 		"OnlyNominate" "0"
 	}
+	"kz_sxb2_slideasy"
+	{
+		"workshop_id" "3617813187"
+		"enabled" "1"
+		"filename" "kz_sxb2_slideasy"
+		"updatedname" "kz_sxb2_slideasy"
+		"OnlyNominate" "0"
+	}
 }
