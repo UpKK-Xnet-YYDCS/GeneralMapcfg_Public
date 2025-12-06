@@ -2271,4 +2271,12 @@
 		"updatedname" "kz_sxb2_slideasy"
 		"OnlyNominate" "0"
 	}
+	"kz_drunkards"
+	{
+		"workshop_id" "3618502564"
+		"enabled" "1"
+		"filename" "kz_drunkards"
+		"updatedname" "kz_drunkards"
+		"OnlyNominate" "0"
+	}
 }
