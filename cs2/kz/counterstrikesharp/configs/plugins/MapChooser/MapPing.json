@@ -1030,5 +1030,9 @@
   {
     "MapName": "kz_twiivo",
     "WorkshopId": "3600371852"
+  },
+  {
+    "MapName": "kz_chaos",
+    "WorkshopId": "3432169954"
   }
 ]
