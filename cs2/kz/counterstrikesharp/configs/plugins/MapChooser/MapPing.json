@@ -1038,5 +1038,9 @@
   {
     "MapName": "kz_drunkards",
     "WorkshopId": "3618502564"
+  },
+  {
+    "MapName": "kz_moorish",
+    "WorkshopId": "3590615475"
   }
 ]
