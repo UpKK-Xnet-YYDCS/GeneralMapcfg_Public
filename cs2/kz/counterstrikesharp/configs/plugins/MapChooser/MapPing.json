@@ -1046,5 +1046,9 @@
   {
     "MapName": "kz_wumpus",
     "WorkshopId": "3608094345"
+  },
+  {
+    "MapName": "kz_smallcastle",
+    "WorkshopId": "3608061463"
   }
 ]
