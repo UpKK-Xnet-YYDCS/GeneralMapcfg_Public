@@ -2287,4 +2287,12 @@
 		"updatedname" "kz_rooms (WIP)"
 		"OnlyNominate" "0"
 	}
+	"kz_kencharium"
+	{
+		"workshop_id" "3623026365"
+		"enabled" "1"
+		"filename" "kz_kencharium"
+		"updatedname" "kz_kencharium"
+		"OnlyNominate" "0"
+	}
 }
