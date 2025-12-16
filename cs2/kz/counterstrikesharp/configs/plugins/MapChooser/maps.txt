@@ -1938,7 +1938,7 @@
 	"kz_old_depression"
 	{
 		"workshop_id" "3583237205"
-		"enabled" "1"
+		"enabled" "0"
 		"filename" "kz_old_depression"
 		"updatedname" "kz_old_depression"
 		"OnlyNominate" "0"
@@ -1946,7 +1946,7 @@
 	"kz_old_depression_v2"
 	{
 		"workshop_id" "3583678140"
-		"enabled" "1"
+		"enabled" "0"
 		"filename" "kz_old_depression_v2"
 		"updatedname" "kz_old_depression_v2"
 		"OnlyNominate" "0"
