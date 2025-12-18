@@ -1050,5 +1050,9 @@
   {
     "MapName": "kz_smallcastle",
     "WorkshopId": "3608061463"
+  },
+  {
+    "MapName": "kz_dojo",
+    "WorkshopId": "3616333913"
   }
 ]
