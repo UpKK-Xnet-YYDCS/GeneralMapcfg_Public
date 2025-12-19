@@ -2311,4 +2311,12 @@
 		"updatedname" "kz_snowjumps"
 		"OnlyNominate" "0"
 	}
+	"kz_another_minimalist_t4_WIP"
+	{
+		"workshop_id" "3626526087"
+		"enabled" "1"
+		"filename" "kz_another_minimalist_t4_WIP"
+		"updatedname" "kz_another_minimalist_t4_WIP"
+		"OnlyNominate" "0"
+	}
 }
