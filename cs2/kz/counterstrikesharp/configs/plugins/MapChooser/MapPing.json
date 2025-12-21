@@ -1054,5 +1054,9 @@
   {
     "MapName": "kz_dojo",
     "WorkshopId": "3616333913"
+  },
+  {
+    "MapName": "kz_snowjumps",
+    "WorkshopId": "3624495289"
   }
 ]
