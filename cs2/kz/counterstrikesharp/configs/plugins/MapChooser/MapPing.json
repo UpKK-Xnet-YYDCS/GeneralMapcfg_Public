@@ -1058,5 +1058,9 @@
   {
     "MapName": "kz_snowjumps",
     "WorkshopId": "3624495289"
+  },
+  {
+    "MapName": "kz_old_depression_v2",
+    "WorkshopId": "3583678140"
   }
 ]
