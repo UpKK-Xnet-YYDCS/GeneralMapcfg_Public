@@ -2319,4 +2319,12 @@
 		"updatedname" "kz_another_minimalist_t4_WIP"
 		"OnlyNominate" "0"
 	}
+	"kz_psychophobia (WiP)"
+	{
+		"workshop_id" "3627541438"
+		"enabled" "1"
+		"filename" "kz_psychophobia (WiP)"
+		"updatedname" "kz_psychophobia (WiP)"
+		"OnlyNominate" "0"
+	}
 }
