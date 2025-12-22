@@ -2327,4 +2327,12 @@
 		"updatedname" "kz_psychophobia (WiP)"
 		"OnlyNominate" "0"
 	}
+	"kz_xmas2025"
+	{
+		"workshop_id" "3627515270"
+		"enabled" "1"
+		"filename" "kz_xmas2025"
+		"updatedname" "kz_xmas2025"
+		"OnlyNominate" "0"
+	}
 }
