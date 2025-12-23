@@ -2335,4 +2335,12 @@
 		"updatedname" "kz_xmas2025"
 		"OnlyNominate" "0"
 	}
+	"kz_func_detail"
+	{
+		"workshop_id" "3628610350"
+		"enabled" "1"
+		"filename" "kz_func_detail"
+		"updatedname" "kz_func_detail"
+		"OnlyNominate" "0"
+	}
 }
