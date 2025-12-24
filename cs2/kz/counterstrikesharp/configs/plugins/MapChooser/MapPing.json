@@ -1056,11 +1056,23 @@
     "WorkshopId": "3616333913"
   },
   {
-    "MapName": "kz_func_detail",
-    "WorkshopId": "3628610350"
+    "MapName": "kz_snowjumps",
+    "WorkshopId": "3624495289"
+  },
+  {
+    "MapName": "kz_old_depression_v2",
+    "WorkshopId": "3583678140"
   },
   {
     "MapName": "kz_sxb2_slideasy",
     "WorkshopId": "3617813187"
+  },
+  {
+    "MapName": "kz_kencharium",
+    "WorkshopId": "3623026365"
+  },
+  {
+    "MapName": "kz_func_detail",
+    "WorkshopId": "3628610350"
   }
 ]
