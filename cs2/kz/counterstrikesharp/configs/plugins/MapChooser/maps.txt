@@ -2343,4 +2343,28 @@
 		"updatedname" "kz_func_detail"
 		"OnlyNominate" "0"
 	}
+	"kz_mess"
+	{
+		"workshop_id" "3630764930"
+		"enabled" "1"
+		"filename" "kz_mess"
+		"updatedname" "kz_mess"
+		"OnlyNominate" "0"
+	}
+	"kz_d_decompile"
+	{
+		"workshop_id" "3630741626"
+		"enabled" "1"
+		"filename" "kz_d_decompile"
+		"updatedname" "kz_d_decompile"
+		"OnlyNominate" "0"
+	}
+	"kz_ruined"
+	{
+		"workshop_id" "3630470833"
+		"enabled" "1"
+		"filename" "kz_ruined"
+		"updatedname" "kz_ruined"
+		"OnlyNominate" "0"
+	}
 }
