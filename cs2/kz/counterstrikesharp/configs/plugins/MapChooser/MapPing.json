@@ -1062,5 +1062,17 @@
   {
     "MapName": "kz_sxb2_slideasy",
     "WorkshopId": "3617813187"
+  },
+  {
+    "MapName": "kz_xmas2025",
+    "WorkshopId": "3627515270"
+  },
+  {
+    "MapName": "kz_snowjumps",
+    "WorkshopId": "3624495289"
+  },
+  {
+    "MapName": "kz_kencharium",
+    "WorkshopId": "3623026365"
   }
 ]
