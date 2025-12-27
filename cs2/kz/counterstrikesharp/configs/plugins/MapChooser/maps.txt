@@ -2367,4 +2367,12 @@
 		"updatedname" "kz_ruined"
 		"OnlyNominate" "0"
 	}
+	"kz_cf_slide"
+	{
+		"workshop_id" "3631450661"
+		"enabled" "1"
+		"filename" "kz_cf_slide"
+		"updatedname" "kz_cf_slide"
+		"OnlyNominate" "0"
+	}
 }
