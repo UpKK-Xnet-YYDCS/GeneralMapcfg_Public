@@ -2375,4 +2375,12 @@
 		"updatedname" "kz_cf_slide"
 		"OnlyNominate" "0"
 	}
+	"kz_kiwiqualia"
+	{
+		"workshop_id" "3553951681"
+		"enabled" "1"
+		"filename" "kz_kiwiqualia"
+		"updatedname" "kz_kiwiqualia"
+		"OnlyNominate" "0"
+	}
 }
