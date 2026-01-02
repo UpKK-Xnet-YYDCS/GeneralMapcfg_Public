@@ -2391,4 +2391,12 @@
 		"updatedname" "kz_kiwifactory"
 		"OnlyNominate" "0"
 	}
+	"kz_angina"
+	{
+		"workshop_id" "3636272568"
+		"enabled" "1"
+		"filename" "kz_angina"
+		"updatedname" "kz_angina"
+		"OnlyNominate" "0"
+	}
 }
