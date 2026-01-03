@@ -1094,5 +1094,17 @@
   {
     "MapName": "kz_kiwiqualia",
     "WorkshopId": "3553951681"
+  },
+  {
+    "MapName": "kz_angina",
+    "WorkshopId": "3636272568"
+  },
+  {
+    "MapName": "kz_kiwifactory",
+    "WorkshopId": "3634677356"
+  },
+  {
+    "MapName": "kz_kiwiexophoric",
+    "WorkshopId": "3605180671"
   }
 ]
