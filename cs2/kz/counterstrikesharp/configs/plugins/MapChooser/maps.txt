@@ -2399,4 +2399,12 @@
 		"updatedname" "kz_angina"
 		"OnlyNominate" "0"
 	}
+	"kz_noir (WiP)"
+	{
+		"workshop_id" "3637362685"
+		"enabled" "1"
+		"filename" "kz_noir (WiP)"
+		"updatedname" "kz_noir (WiP)"
+		"OnlyNominate" "0"
+	}
 }
