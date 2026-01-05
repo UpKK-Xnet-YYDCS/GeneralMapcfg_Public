@@ -2407,4 +2407,12 @@
 		"updatedname" "kz_noir (WiP)"
 		"OnlyNominate" "0"
 	}
+	"kz_kiwitown"
+	{
+		"workshop_id" "3639168180"
+		"enabled" "1"
+		"filename" "kz_kiwitown"
+		"updatedname" "kz_kiwitown"
+		"OnlyNominate" "0"
+	}
 }
