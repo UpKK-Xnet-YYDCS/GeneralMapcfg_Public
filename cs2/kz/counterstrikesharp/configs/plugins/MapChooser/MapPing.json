@@ -1106,5 +1106,9 @@
   {
     "MapName": "kz_kiwiexophoric",
     "WorkshopId": "3605180671"
+  },
+  {
+    "MapName": "kz_kiwitown",
+    "WorkshopId": "3639168180"
   }
 ]
