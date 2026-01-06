@@ -1110,5 +1110,21 @@
   {
     "MapName": "kz_kiwitown",
     "WorkshopId": "3639168180"
+  },
+  {
+    "MapName": "kz_kiwivision",
+    "WorkshopId": "3639644156"
+  },
+  {
+    "MapName": "kz_kiwibridge",
+    "WorkshopId": "3639887112"
+  },
+  {
+    "MapName": "kz_worlds_amethyst",
+    "WorkshopId": "3628804230"
+  },
+  {
+    "MapName": "kz_worlds2026_blue",
+    "WorkshopId": "3622279620"
   }
 ]
