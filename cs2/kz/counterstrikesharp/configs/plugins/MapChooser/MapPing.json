@@ -1126,5 +1126,13 @@
   {
     "MapName": "kz_worlds2026_blue",
     "WorkshopId": "3622279620"
+  },
+  {
+    "MapName": "kz_headbongo",
+    "WorkshopId": "3640800017"
+  },
+  {
+    "MapName": "kz_bozo",
+    "WorkshopId": "3640501419"
   }
 ]
