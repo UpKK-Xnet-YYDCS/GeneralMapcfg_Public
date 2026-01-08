@@ -2463,4 +2463,28 @@
 		"updatedname" "kz_bozo"
 		"OnlyNominate" "0"
 	}
+	"kz_ccvsdwsb"
+	{
+		"workshop_id" "3641604193"
+		"enabled" "1"
+		"filename" "kz_ccvsdwsb"
+		"updatedname" "kz_ccvsdwsb"
+		"OnlyNominate" "0"
+	}
+	"kz_kiwislide"
+	{
+		"workshop_id" "3641384554"
+		"enabled" "1"
+		"filename" "kz_kiwislide"
+		"updatedname" "kz_kiwislide"
+		"OnlyNominate" "0"
+	}
+	"kz_kiwi_lars"
+	{
+		"workshop_id" "3641262065"
+		"enabled" "1"
+		"filename" "kz_kiwi_lars"
+		"updatedname" "kz_kiwi_lars"
+		"OnlyNominate" "0"
+	}
 }
