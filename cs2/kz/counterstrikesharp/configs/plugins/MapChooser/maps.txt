@@ -2487,4 +2487,28 @@
 		"updatedname" "kz_kiwi_lars"
 		"OnlyNominate" "0"
 	}
+	"kz_worlds2026_green"
+	{
+		"workshop_id" "3634909257"
+		"enabled" "1"
+		"filename" "kz_worlds2026_green"
+		"updatedname" "kz_worlds2026_green"
+		"OnlyNominate" "0"
+	}
+	"kz_worlds2026_red"
+	{
+		"workshop_id" "3634880409"
+		"enabled" "1"
+		"filename" "kz_worlds2026_red"
+		"updatedname" "kz_worlds2026_red"
+		"OnlyNominate" "0"
+	}
+	"kz_worlds2026_yellow"
+	{
+		"workshop_id" "3626536692"
+		"enabled" "1"
+		"filename" "kz_worlds2026_yellow"
+		"updatedname" "kz_worlds2026_yellow"
+		"OnlyNominate" "0"
+	}
 }
