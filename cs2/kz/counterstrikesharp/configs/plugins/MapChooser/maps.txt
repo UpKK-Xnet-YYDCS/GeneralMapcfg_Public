@@ -858,7 +858,7 @@
 	"kz_kiwionerous"
 	{
 		"workshop_id" "3430337743"
-		"enabled" "1"
+		"enabled" "0"
 		"filename" "kz_kiwionerous"
 		"updatedname" "kz_kiwionerous"
 		"OnlyNominate" "0"
@@ -1250,7 +1250,7 @@
 	"kz_firstmap"
 	{
 		"workshop_id" "3469507602"
-		"enabled" "1"
+		"enabled" "0"
 		"filename" "kz_firstmap"
 		"updatedname" "kz_firstmap"
 		"OnlyNominate" "0"
@@ -1458,7 +1458,7 @@
 	"kz_testing"
 	{
 		"workshop_id" "3501144382"
-		"enabled" "1"
+		"enabled" "0"
 		"filename" "kz_testing"
 		"updatedname" "kz_testing"
 		"OnlyNominate" "0"
@@ -1842,7 +1842,7 @@
 	"kz_sound_test"
 	{
 		"workshop_id" "3559014926"
-		"enabled" "1"
+		"enabled" "0"
 		"filename" "kz_sound_test"
 		"updatedname" "kz_sound_test"
 		"OnlyNominate" "0"
@@ -1874,7 +1874,7 @@
 	"kz_mjs_carcioxith"
 	{
 		"workshop_id" "3566280237"
-		"enabled" "1"
+		"enabled" "0"
 		"filename" "kz_mjs_carcioxith"
 		"updatedname" "kz_mjs_carcioxith"
 		"OnlyNominate" "0"
@@ -1898,7 +1898,7 @@
 	"kz_cavediving"
 	{
 		"workshop_id" "3567973190"
-		"enabled" "1"
+		"enabled" "0"
 		"filename" "kz_cavediving"
 		"updatedname" "kz_cavediving"
 		"OnlyNominate" "0"
@@ -1938,7 +1938,7 @@
 	"kz_old_depression"
 	{
 		"workshop_id" "3583237205"
-		"enabled" "1"
+		"enabled" "0"
 		"filename" "kz_old_depression"
 		"updatedname" "kz_old_depression"
 		"OnlyNominate" "0"
@@ -1946,7 +1946,7 @@
 	"kz_old_depression_v2"
 	{
 		"workshop_id" "3583678140"
-		"enabled" "1"
+		"enabled" "0"
 		"filename" "kz_old_depression_v2"
 		"updatedname" "kz_old_depression_v2"
 		"OnlyNominate" "0"
@@ -2018,7 +2018,7 @@
 	"kz_maga"
 	{
 		"workshop_id" "3595329824"
-		"enabled" "1"
+		"enabled" "0"
 		"filename" "kz_maga"
 		"updatedname" "kz_maga"
 		"OnlyNominate" "0"
@@ -2026,7 +2026,7 @@
 	"kz_maganew"
 	{
 		"workshop_id" "3595825383"
-		"enabled" "1"
+		"enabled" "0"
 		"filename" "kz_maganew"
 		"updatedname" "kz_maganew"
 		"OnlyNominate" "0"
@@ -2034,7 +2034,7 @@
 	"kz_magas"
 	{
 		"workshop_id" "3595760238"
-		"enabled" "1"
+		"enabled" "0"
 		"filename" "kz_magas"
 		"updatedname" "kz_magas"
 		"OnlyNominate" "0"
@@ -2042,7 +2042,7 @@
 	"kz_sillycats WIP V1"
 	{
 		"workshop_id" "3597257458"
-		"enabled" "1"
+		"enabled" "0"
 		"filename" "kz_sillycats WIP V1"
 		"updatedname" "kz_sillycats WIP V1"
 		"OnlyNominate" "0"
@@ -2154,7 +2154,7 @@
 	"kz_kzro_hardhoodoo"
 	{
 		"workshop_id" "3604021984"
-		"enabled" "1"
+		"enabled" "0"
 		"filename" "kz_kzro_hardhoodoo"
 		"updatedname" "kz_kzro_hardhoodoo"
 		"OnlyNominate" "0"
@@ -2298,7 +2298,7 @@
 	"kz_sillykirbs_playtest"
 	{
 		"workshop_id" "3623496173"
-		"enabled" "1"
+		"enabled" "0"
 		"filename" "kz_sillykirbs_playtest"
 		"updatedname" "kz_sillykirbs_playtest"
 		"OnlyNominate" "0"
@@ -2362,7 +2362,7 @@
 	"kz_ruined"
 	{
 		"workshop_id" "3630470833"
-		"enabled" "1"
+		"enabled" "0"
 		"filename" "kz_ruined"
 		"updatedname" "kz_ruined"
 		"OnlyNominate" "0"
@@ -2466,7 +2466,7 @@
 	"kz_ccvsdwsb"
 	{
 		"workshop_id" "3641604193"
-		"enabled" "1"
+		"enabled" "0"
 		"filename" "kz_ccvsdwsb"
 		"updatedname" "kz_ccvsdwsb"
 		"OnlyNominate" "0"
