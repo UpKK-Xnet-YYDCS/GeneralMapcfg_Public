@@ -2511,4 +2511,12 @@
 		"updatedname" "kz_worlds2026_yellow"
 		"OnlyNominate" "0"
 	}
+	"kz_kiwiparadise"
+	{
+		"workshop_id" "3642745614"
+		"enabled" "1"
+		"filename" "kz_kiwiparadise"
+		"updatedname" "kz_kiwiparadise"
+		"OnlyNominate" "0"
+	}
 }
