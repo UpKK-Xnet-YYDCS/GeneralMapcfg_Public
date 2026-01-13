@@ -2519,4 +2519,20 @@
 		"updatedname" "kz_kiwiparadise"
 		"OnlyNominate" "0"
 	}
+	"kz_simply_three"
+	{
+		"workshop_id" "3645379314"
+		"enabled" "1"
+		"filename" "kz_simply_three"
+		"updatedname" "kz_simply_three"
+		"OnlyNominate" "0"
+	}
+	"kz_xc_rocks"
+	{
+		"workshop_id" "3590350906"
+		"enabled" "1"
+		"filename" "kz_xc_rocks"
+		"updatedname" "kz_xc_rocks"
+		"OnlyNominate" "0"
+	}
 }
