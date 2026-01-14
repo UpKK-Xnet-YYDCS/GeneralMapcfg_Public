@@ -1154,5 +1154,13 @@
   {
     "MapName": "kz_kiwiparadise",
     "WorkshopId": "3642745614"
+  },
+  {
+    "MapName": "kz_xc_rocks",
+    "WorkshopId": "3590350906"
+  },
+  {
+    "MapName": "kz_simply_three",
+    "WorkshopId": "3645379314"
   }
 ]
