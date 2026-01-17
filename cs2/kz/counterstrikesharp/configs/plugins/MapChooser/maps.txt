@@ -2535,4 +2535,12 @@
 		"updatedname" "kz_xc_rocks"
 		"OnlyNominate" "0"
 	}
+	"kz_hb_xiaowan"
+	{
+		"workshop_id" "3647571333"
+		"enabled" "1"
+		"filename" "kz_hb_xiaowan"
+		"updatedname" "kz_hb_xiaowan"
+		"OnlyNominate" "0"
+	}
 }
