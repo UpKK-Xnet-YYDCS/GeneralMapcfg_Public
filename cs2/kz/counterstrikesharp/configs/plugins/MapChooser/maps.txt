@@ -2543,4 +2543,20 @@
 		"updatedname" "kz_hb_xiaowan"
 		"OnlyNominate" "0"
 	}
+	"kz_summit_peak (WiP)"
+	{
+		"workshop_id" "3648477369"
+		"enabled" "1"
+		"filename" "kz_summit_peak (WiP)"
+		"updatedname" "kz_summit_peak (WiP)"
+		"OnlyNominate" "0"
+	}
+	"kz_kiwiconsecration"
+	{
+		"workshop_id" "3648160400"
+		"enabled" "1"
+		"filename" "kz_kiwiconsecration"
+		"updatedname" "kz_kiwiconsecration"
+		"OnlyNominate" "0"
+	}
 }
