@@ -2559,4 +2559,12 @@
 		"updatedname" "kz_kiwiconsecration"
 		"OnlyNominate" "0"
 	}
+	"kz_encephalitis"
+	{
+		"workshop_id" "3648053791"
+		"enabled" "1"
+		"filename" "kz_encephalitis"
+		"updatedname" "kz_encephalitis"
+		"OnlyNominate" "0"
+	}
 }
