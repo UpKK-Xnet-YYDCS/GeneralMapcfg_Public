@@ -1174,5 +1174,9 @@
   {
     "MapName": "kz_worlds2026_green",
     "WorkshopId": "3634909257"
+  },
+  {
+    "MapName": "kz_encephalitis",
+    "WorkshopId": "3648053791"
   }
 ]
