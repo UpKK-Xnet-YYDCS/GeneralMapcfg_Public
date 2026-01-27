@@ -2567,4 +2567,28 @@
 		"updatedname" "kz_encephalitis"
 		"OnlyNominate" "0"
 	}
+	"kz_houbou WIP"
+	{
+		"workshop_id" "3654492454"
+		"enabled" "1"
+		"filename" "kz_houbou WIP"
+		"updatedname" "kz_houbou WIP"
+		"OnlyNominate" "0"
+	}
+	"kz_insomnia"
+	{
+		"workshop_id" "3654069326"
+		"enabled" "1"
+		"filename" "kz_insomnia"
+		"updatedname" "kz_insomnia"
+		"OnlyNominate" "0"
+	}
+	"kz_why_so_silly"
+	{
+		"workshop_id" "3654067635"
+		"enabled" "1"
+		"filename" "kz_why_so_silly"
+		"updatedname" "kz_why_so_silly"
+		"OnlyNominate" "0"
+	}
 }
