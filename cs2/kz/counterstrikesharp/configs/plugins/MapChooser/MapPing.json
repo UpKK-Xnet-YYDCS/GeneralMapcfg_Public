@@ -1178,5 +1178,9 @@
   {
     "MapName": "kz_encephalitis",
     "WorkshopId": "3648053791"
+  },
+  {
+    "MapName": "kz_insomnia",
+    "WorkshopId": "3654069326"
   }
 ]
