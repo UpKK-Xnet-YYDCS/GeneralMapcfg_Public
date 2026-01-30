@@ -2591,4 +2591,12 @@
 		"updatedname" "kz_why_so_silly"
 		"OnlyNominate" "0"
 	}
+	"kz_kzro_mountainsein"
+	{
+		"workshop_id" "3656317465"
+		"enabled" "1"
+		"filename" "kz_kzro_mountainsein"
+		"updatedname" "kz_kzro_mountainsein"
+		"OnlyNominate" "0"
+	}
 }
