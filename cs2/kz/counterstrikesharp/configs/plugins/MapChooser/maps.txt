@@ -2607,4 +2607,12 @@
 		"updatedname" "kz_k3_slide (WiP)"
 		"OnlyNominate" "0"
 	}
+	"kz_k3_slide"
+	{
+		"workshop_id" "3659828059"
+		"enabled" "1"
+		"filename" "kz_k3_slide"
+		"updatedname" "kz_k3_slide"
+		"OnlyNominate" "0"
+	}
 }
