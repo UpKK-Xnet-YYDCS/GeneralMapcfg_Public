@@ -2647,4 +2647,12 @@
 		"updatedname" "kz_challenge_2"
 		"OnlyNominate" "0"
 	}
+	"kz_mjs_tumoraxith"
+	{
+		"workshop_id" "3663913113"
+		"enabled" "1"
+		"filename" "kz_mjs_tumoraxith"
+		"updatedname" "kz_mjs_tumoraxith"
+		"OnlyNominate" "0"
+	}
 }
