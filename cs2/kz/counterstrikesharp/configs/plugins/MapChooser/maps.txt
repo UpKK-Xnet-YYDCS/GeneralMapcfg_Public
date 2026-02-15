@@ -2655,4 +2655,20 @@
 		"updatedname" "kz_mjs_tumoraxith"
 		"OnlyNominate" "0"
 	}
+	"kz_kiwipsychosis"
+	{
+		"workshop_id" "3666377376"
+		"enabled" "1"
+		"filename" "kz_kiwipsychosis"
+		"updatedname" "kz_kiwipsychosis"
+		"OnlyNominate" "0"
+	}
+	"kz_satisfaction (WiP)"
+	{
+		"workshop_id" "3666094957"
+		"enabled" "1"
+		"filename" "kz_satisfaction (WiP)"
+		"updatedname" "kz_satisfaction (WiP)"
+		"OnlyNominate" "0"
+	}
 }
