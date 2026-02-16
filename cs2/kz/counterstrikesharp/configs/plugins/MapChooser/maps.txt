@@ -2671,4 +2671,12 @@
 		"updatedname" "kz_satisfaction (WiP)"
 		"OnlyNominate" "0"
 	}
+	"kz_kenz"
+	{
+		"workshop_id" "3662455275"
+		"enabled" "1"
+		"filename" "kz_kenz"
+		"updatedname" "kz_kenz"
+		"OnlyNominate" "0"
+	}
 }
