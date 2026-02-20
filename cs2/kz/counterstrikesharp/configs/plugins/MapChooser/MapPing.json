@@ -1198,5 +1198,17 @@
   {
     "MapName": "kz_kzro_mountainsein",
     "WorkshopId": "3656317465"
+  },
+  {
+    "MapName": "kz_kenz",
+    "WorkshopId": "3662455275"
+  },
+  {
+    "MapName": "kz_mjs_tumoraxith",
+    "WorkshopId": "3663913113"
+  },
+  {
+    "MapName": "kz_skycity",
+    "WorkshopId": "3661878565"
   }
 ]
