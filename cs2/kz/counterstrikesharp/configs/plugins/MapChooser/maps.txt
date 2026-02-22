@@ -2634,7 +2634,7 @@
 	"kz_skycity"
 	{
 		"workshop_id" "3661878565"
-		"enabled" "1"
+		"enabled" "0"
 		"filename" "kz_skycity"
 		"updatedname" "kz_skycity"
 		"OnlyNominate" "0"
