@@ -1210,5 +1210,9 @@
   {
     "MapName": "kz_skycity",
     "WorkshopId": "3661878565"
+  },
+  {
+    "MapName": "kz_lofroofs",
+    "WorkshopId": "3488773723"
   }
 ]
