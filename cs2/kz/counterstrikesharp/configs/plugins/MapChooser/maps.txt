@@ -2687,4 +2687,20 @@
 		"updatedname" "kz_bhop_test"
 		"OnlyNominate" "0"
 	}
+	"kz_bored"
+	{
+		"workshop_id" "3672143345"
+		"enabled" "1"
+		"filename" "kz_bored"
+		"updatedname" "kz_bored"
+		"OnlyNominate" "0"
+	}
+	"kz_hb_xiaowan_v2"
+	{
+		"workshop_id" "3671942186"
+		"enabled" "1"
+		"filename" "kz_hb_xiaowan_v2"
+		"updatedname" "kz_hb_xiaowan_v2"
+		"OnlyNominate" "0"
+	}
 }
