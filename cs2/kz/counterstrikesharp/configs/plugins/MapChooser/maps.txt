@@ -2703,4 +2703,12 @@
 		"updatedname" "kz_hb_xiaowan_v2"
 		"OnlyNominate" "0"
 	}
+	"kz_dtt_nasty"
+	{
+		"workshop_id" "3673283473"
+		"enabled" "1"
+		"filename" "kz_dtt_nasty"
+		"updatedname" "kz_dtt_nasty"
+		"OnlyNominate" "0"
+	}
 }
