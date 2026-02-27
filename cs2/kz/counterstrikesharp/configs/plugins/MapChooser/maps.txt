@@ -1178,7 +1178,7 @@
 	"kz_valley"
 	{
 		"workshop_id" "3469847057"
-		"enabled" "1"
+		"enabled" "0"
 		"filename" "kz_valley"
 		"updatedname" "kz_valley"
 		"OnlyNominate" "0"
@@ -1834,7 +1834,7 @@
 	"kz_procrastination_f"
 	{
 		"workshop_id" "3557835615"
-		"enabled" "1"
+		"enabled" "0"
 		"filename" "kz_procrastination_f"
 		"updatedname" "kz_procrastination_f"
 		"OnlyNominate" "0"
@@ -2634,7 +2634,7 @@
 	"kz_skycity"
 	{
 		"workshop_id" "3661878565"
-		"enabled" "1"
+		"enabled" "0"
 		"filename" "kz_skycity"
 		"updatedname" "kz_skycity"
 		"OnlyNominate" "0"
