@@ -1214,5 +1214,13 @@
   {
     "MapName": "kz_lofroofs",
     "WorkshopId": "3488773723"
+  },
+  {
+    "MapName": "kz_bored",
+    "WorkshopId": "3672143345"
+  },
+  {
+    "MapName": "kz_dtt_nasty",
+    "WorkshopId": "3673283473"
   }
 ]
