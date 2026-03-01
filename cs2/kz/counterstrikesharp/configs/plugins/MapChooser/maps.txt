@@ -2711,4 +2711,12 @@
 		"updatedname" "kz_dtt_nasty"
 		"OnlyNominate" "0"
 	}
+	"kz_xmas2025_update_test"
+	{
+		"workshop_id" "3675034432"
+		"enabled" "1"
+		"filename" "kz_xmas2025_update_test"
+		"updatedname" "kz_xmas2025_update_test"
+		"OnlyNominate" "0"
+	}
 }
