@@ -1222,5 +1222,9 @@
   {
     "MapName": "kz_dtt_nasty",
     "WorkshopId": "3673283473"
+  },
+  {
+    "MapName": "kz_rome1",
+    "WorkshopId": "3294243116"
   }
 ]
