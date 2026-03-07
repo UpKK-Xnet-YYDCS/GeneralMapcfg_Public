@@ -2735,4 +2735,12 @@
 		"updatedname" "kz_leto"
 		"OnlyNominate" "0"
 	}
+	"kz_bluefootsillycats"
+	{
+		"workshop_id" "3679498494"
+		"enabled" "1"
+		"filename" "kz_bluefootsillycats"
+		"updatedname" "kz_bluefootsillycats"
+		"OnlyNominate" "0"
+	}
 }
