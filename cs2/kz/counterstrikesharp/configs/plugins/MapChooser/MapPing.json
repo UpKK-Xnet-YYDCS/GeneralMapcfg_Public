@@ -1230,5 +1230,9 @@
   {
     "MapName": "kz_leto",
     "WorkshopId": "3678231750"
+  },
+  {
+    "MapName": "kz_surf_test",
+    "WorkshopId": "3660198753"
   }
 ]
