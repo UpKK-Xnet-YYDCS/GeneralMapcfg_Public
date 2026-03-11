@@ -1234,5 +1234,9 @@
   {
     "MapName": "kz_surf_test",
     "WorkshopId": "3660198753"
+  },
+  {
+    "MapName": "kz_bhop_test",
+    "WorkshopId": "3669268779"
   }
 ]
