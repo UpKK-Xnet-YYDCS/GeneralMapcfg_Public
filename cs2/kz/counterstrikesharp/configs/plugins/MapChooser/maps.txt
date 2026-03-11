@@ -2751,4 +2751,12 @@
 		"updatedname" "kz_royal_purple"
 		"OnlyNominate" "0"
 	}
+	"kz_longjumps_easy"
+	{
+		"workshop_id" "3682616298"
+		"enabled" "1"
+		"filename" "kz_longjumps_easy"
+		"updatedname" "kz_longjumps_easy"
+		"OnlyNominate" "0"
+	}
 }
