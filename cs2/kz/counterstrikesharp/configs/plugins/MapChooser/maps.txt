@@ -2767,4 +2767,12 @@
 		"updatedname" "kz_difficultas_discendi"
 		"OnlyNominate" "0"
 	}
+	"kz_stacy_xt"
+	{
+		"workshop_id" "3677023113"
+		"enabled" "1"
+		"filename" "kz_stacy_xt"
+		"updatedname" "kz_stacy_xt"
+		"OnlyNominate" "0"
+	}
 }
