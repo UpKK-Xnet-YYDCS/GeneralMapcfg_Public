@@ -2775,4 +2775,12 @@
 		"updatedname" "kz_stacy_xt"
 		"OnlyNominate" "0"
 	}
+	"kz_spacemario_xt"
+	{
+		"workshop_id" "3685524525"
+		"enabled" "1"
+		"filename" "kz_spacemario_xt"
+		"updatedname" "kz_spacemario_xt"
+		"OnlyNominate" "0"
+	}
 }
