@@ -1238,5 +1238,9 @@
   {
     "MapName": "kz_bhop_test",
     "WorkshopId": "3669268779"
+  },
+  {
+    "MapName": "kz_spacemario_xt",
+    "WorkshopId": "3685524525"
   }
 ]
