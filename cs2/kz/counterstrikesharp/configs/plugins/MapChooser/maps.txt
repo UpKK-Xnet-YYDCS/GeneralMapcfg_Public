@@ -2783,4 +2783,20 @@
 		"updatedname" "kz_spacemario_xt"
 		"OnlyNominate" "0"
 	}
+	"kz_holyspace"
+	{
+		"workshop_id" "3686875513"
+		"enabled" "1"
+		"filename" "kz_holyspace"
+		"updatedname" "kz_holyspace"
+		"OnlyNominate" "0"
+	}
+	"kz_skiva"
+	{
+		"workshop_id" "3686586927"
+		"enabled" "1"
+		"filename" "kz_skiva"
+		"updatedname" "kz_skiva"
+		"OnlyNominate" "0"
+	}
 }
