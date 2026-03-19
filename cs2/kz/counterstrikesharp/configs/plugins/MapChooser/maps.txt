@@ -2799,4 +2799,20 @@
 		"updatedname" "kz_skiva"
 		"OnlyNominate" "0"
 	}
+	"kz_kiwinoumena"
+	{
+		"workshop_id" "3687526805"
+		"enabled" "1"
+		"filename" "kz_kiwinoumena"
+		"updatedname" "kz_kiwinoumena"
+		"OnlyNominate" "0"
+	}
+	"kz_lean"
+	{
+		"workshop_id" "3687183209"
+		"enabled" "1"
+		"filename" "kz_lean"
+		"updatedname" "kz_lean"
+		"OnlyNominate" "0"
+	}
 }
