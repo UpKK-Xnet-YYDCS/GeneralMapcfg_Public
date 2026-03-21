@@ -2815,4 +2815,12 @@
 		"updatedname" "kz_lean"
 		"OnlyNominate" "0"
 	}
+	"kz_opticks WIP"
+	{
+		"workshop_id" "3688727257"
+		"enabled" "1"
+		"filename" "kz_opticks WIP"
+		"updatedname" "kz_opticks WIP"
+		"OnlyNominate" "0"
+	}
 }
