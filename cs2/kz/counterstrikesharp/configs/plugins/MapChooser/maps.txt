@@ -2823,4 +2823,20 @@
 		"updatedname" "kz_opticks WIP"
 		"OnlyNominate" "0"
 	}
+	"kz_koncrete"
+	{
+		"workshop_id" "3688917871"
+		"enabled" "1"
+		"filename" "kz_koncrete"
+		"updatedname" "kz_koncrete"
+		"OnlyNominate" "0"
+	}
+	"kz_slide_lab"
+	{
+		"workshop_id" "3688893261"
+		"enabled" "1"
+		"filename" "kz_slide_lab"
+		"updatedname" "kz_slide_lab"
+		"OnlyNominate" "0"
+	}
 }
