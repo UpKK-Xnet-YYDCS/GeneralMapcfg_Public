@@ -2847,4 +2847,12 @@
 		"updatedname" "kz_ruined2 (PLAYTEST)"
 		"OnlyNominate" "0"
 	}
+	"kz_commhop_alco"
+	{
+		"workshop_id" "3690428751"
+		"enabled" "1"
+		"filename" "kz_commhop_alco"
+		"updatedname" "kz_commhop_alco"
+		"OnlyNominate" "0"
+	}
 }
