@@ -2839,4 +2839,12 @@
 		"updatedname" "kz_slide_lab"
 		"OnlyNominate" "0"
 	}
+	"kz_ruined2 (PLAYTEST)"
+	{
+		"workshop_id" "3689832388"
+		"enabled" "1"
+		"filename" "kz_ruined2 (PLAYTEST)"
+		"updatedname" "kz_ruined2 (PLAYTEST)"
+		"OnlyNominate" "0"
+	}
 }
