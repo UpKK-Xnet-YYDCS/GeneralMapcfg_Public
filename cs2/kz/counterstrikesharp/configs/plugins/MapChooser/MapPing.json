@@ -1258,5 +1258,13 @@
   {
     "MapName": "kz_lean",
     "WorkshopId": "3687183209"
+  },
+  {
+    "MapName": "kz_slide_lab",
+    "WorkshopId": "3688893261"
+  },
+  {
+    "MapName": "kz_holyspace",
+    "WorkshopId": "3686875513"
   }
 ]
