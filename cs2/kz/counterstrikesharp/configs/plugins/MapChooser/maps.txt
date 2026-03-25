@@ -2855,4 +2855,12 @@
 		"updatedname" "kz_commhop_alco"
 		"OnlyNominate" "0"
 	}
+	"kz_sisiveil"
+	{
+		"workshop_id" "3691546808"
+		"enabled" "1"
+		"filename" "kz_sisiveil"
+		"updatedname" "kz_sisiveil"
+		"OnlyNominate" "0"
+	}
 }
