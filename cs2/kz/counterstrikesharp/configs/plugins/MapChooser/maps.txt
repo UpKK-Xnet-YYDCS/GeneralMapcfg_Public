@@ -2863,4 +2863,12 @@
 		"updatedname" "kz_sisiveil"
 		"OnlyNominate" "0"
 	}
+	"kz_k3_artisan_bhop"
+	{
+		"workshop_id" "3692681739"
+		"enabled" "1"
+		"filename" "kz_k3_artisan_bhop"
+		"updatedname" "kz_k3_artisan_bhop"
+		"OnlyNominate" "0"
+	}
 }
