@@ -1266,5 +1266,13 @@
   {
     "MapName": "kz_holyspace",
     "WorkshopId": "3686875513"
+  },
+  {
+    "MapName": "kz_sisiveil",
+    "WorkshopId": "3691546808"
+  },
+  {
+    "MapName": "kz_k3_artisan_bhop",
+    "WorkshopId": "3692681739"
   }
 ]
