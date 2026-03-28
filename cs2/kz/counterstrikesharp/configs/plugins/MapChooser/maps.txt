@@ -2871,4 +2871,20 @@
 		"updatedname" "kz_k3_artisan_bhop"
 		"OnlyNominate" "0"
 	}
+	"kz_variety_fixed WIP"
+	{
+		"workshop_id" "3693079753"
+		"enabled" "1"
+		"filename" "kz_variety_fixed WIP"
+		"updatedname" "kz_variety_fixed WIP"
+		"OnlyNominate" "0"
+	}
+	"kz_communitybhop_word"
+	{
+		"workshop_id" "3693024514"
+		"enabled" "1"
+		"filename" "kz_communitybhop_word"
+		"updatedname" "kz_communitybhop_word"
+		"OnlyNominate" "0"
+	}
 }
