@@ -1274,5 +1274,9 @@
   {
     "MapName": "kz_k3_artisan_bhop",
     "WorkshopId": "3692681739"
+  },
+  {
+    "MapName": "kz_royal_purple",
+    "WorkshopId": "3679728328"
   }
 ]
