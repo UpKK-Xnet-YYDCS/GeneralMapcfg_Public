@@ -2903,4 +2903,12 @@
 		"updatedname" "kz_silly_isles"
 		"OnlyNominate" "0"
 	}
+	"kz_communitybhop"
+	{
+		"workshop_id" "3696345422"
+		"enabled" "1"
+		"filename" "kz_communitybhop"
+		"updatedname" "kz_communitybhop"
+		"OnlyNominate" "0"
+	}
 }
