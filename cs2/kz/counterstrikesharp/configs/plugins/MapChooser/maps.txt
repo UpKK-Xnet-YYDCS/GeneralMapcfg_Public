@@ -2911,4 +2911,12 @@
 		"updatedname" "kz_communitybhop"
 		"OnlyNominate" "0"
 	}
+	"kz_gorniy"
+	{
+		"workshop_id" "3697016077"
+		"enabled" "1"
+		"filename" "kz_gorniy"
+		"updatedname" "kz_gorniy"
+		"OnlyNominate" "0"
+	}
 }
