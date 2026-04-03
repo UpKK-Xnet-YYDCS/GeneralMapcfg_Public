@@ -2919,4 +2919,28 @@
 		"updatedname" "kz_gorniy"
 		"OnlyNominate" "0"
 	}
+	"kz_justin"
+	{
+		"workshop_id" "3698113502"
+		"enabled" "1"
+		"filename" "kz_justin"
+		"updatedname" "kz_justin"
+		"OnlyNominate" "0"
+	}
+	"kz_bhop_yonkoma"
+	{
+		"workshop_id" "3697891421"
+		"enabled" "1"
+		"filename" "kz_bhop_yonkoma"
+		"updatedname" "kz_bhop_yonkoma"
+		"OnlyNominate" "0"
+	}
+	"kz_mountain"
+	{
+		"workshop_id" "3697595997"
+		"enabled" "1"
+		"filename" "kz_mountain"
+		"updatedname" "kz_mountain"
+		"OnlyNominate" "0"
+	}
 }
