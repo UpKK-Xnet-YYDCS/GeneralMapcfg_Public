@@ -2943,4 +2943,12 @@
 		"updatedname" "kz_mountain"
 		"OnlyNominate" "0"
 	}
+	"kz_lonelyidea"
+	{
+		"workshop_id" "3698268232"
+		"enabled" "1"
+		"filename" "kz_lonelyidea"
+		"updatedname" "kz_lonelyidea"
+		"OnlyNominate" "0"
+	}
 }
