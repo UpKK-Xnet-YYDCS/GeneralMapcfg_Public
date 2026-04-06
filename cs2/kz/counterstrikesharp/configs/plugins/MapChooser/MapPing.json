@@ -1298,5 +1298,13 @@
   {
     "MapName": "kz_lonelyidea",
     "WorkshopId": "3698268232"
+  },
+  {
+    "MapName": "kz_justin",
+    "WorkshopId": "3698113502"
+  },
+  {
+    "MapName": "kz_bhop_benchmark",
+    "WorkshopId": "3699338304"
   }
 ]
