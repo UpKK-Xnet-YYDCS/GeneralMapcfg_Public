@@ -1306,5 +1306,9 @@
   {
     "MapName": "kz_bhop_benchmark",
     "WorkshopId": "3699338304"
+  },
+  {
+    "MapName": "kz_longjumps_vietnam",
+    "WorkshopId": "3701085406"
   }
 ]
