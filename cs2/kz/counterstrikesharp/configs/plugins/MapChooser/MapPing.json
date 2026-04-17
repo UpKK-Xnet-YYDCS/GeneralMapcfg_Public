@@ -1314,5 +1314,9 @@
   {
     "MapName": "kz_koncrete",
     "WorkshopId": "3688917871"
+  },
+  {
+    "MapName": "kz_mountain",
+    "WorkshopId": "3697595997"
   }
 ]
