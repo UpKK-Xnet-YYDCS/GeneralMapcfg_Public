@@ -1318,5 +1318,9 @@
   {
     "MapName": "kz_mountain",
     "WorkshopId": "3697595997"
+  },
+  {
+    "MapName": "kz_skiz",
+    "WorkshopId": "3703060683"
   }
 ]
