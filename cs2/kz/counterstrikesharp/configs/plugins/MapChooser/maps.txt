@@ -2975,4 +2975,12 @@
 		"updatedname" "kz_skiz"
 		"OnlyNominate" "0"
 	}
+	"kz_test"
+	{
+		"workshop_id" "3712445763"
+		"enabled" "1"
+		"filename" "kz_test"
+		"updatedname" "kz_test"
+		"OnlyNominate" "0"
+	}
 }
