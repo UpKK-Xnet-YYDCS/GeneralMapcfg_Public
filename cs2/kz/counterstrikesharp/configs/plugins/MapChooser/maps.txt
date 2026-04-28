@@ -2991,4 +2991,12 @@
 		"updatedname" "kz_tetts"
 		"OnlyNominate" "0"
 	}
+	"kz_warcrime_business"
+	{
+		"workshop_id" "3715143084"
+		"enabled" "1"
+		"filename" "kz_warcrime_business"
+		"updatedname" "kz_warcrime_business"
+		"OnlyNominate" "0"
+	}
 }
