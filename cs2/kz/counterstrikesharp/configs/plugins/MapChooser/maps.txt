@@ -2999,4 +2999,12 @@
 		"updatedname" "kz_warcrime_business"
 		"OnlyNominate" "0"
 	}
+	"kz_qweasdzxc WIP"
+	{
+		"workshop_id" "3715954240"
+		"enabled" "1"
+		"filename" "kz_qweasdzxc WIP"
+		"updatedname" "kz_qweasdzxc WIP"
+		"OnlyNominate" "0"
+	}
 }
