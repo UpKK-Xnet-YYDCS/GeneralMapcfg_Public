@@ -3023,4 +3023,12 @@
 		"updatedname" "kz_columns"
 		"OnlyNominate" "0"
 	}
+	"kz_communitybhop_retroid"
+	{
+		"workshop_id" "3718220750"
+		"enabled" "1"
+		"filename" "kz_communitybhop_retroid"
+		"updatedname" "kz_communitybhop_retroid"
+		"OnlyNominate" "0"
+	}
 }
