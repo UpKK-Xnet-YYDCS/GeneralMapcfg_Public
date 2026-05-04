@@ -1322,5 +1322,33 @@
   {
     "MapName": "kz_skiz",
     "WorkshopId": "3703060683"
+  },
+  {
+    "MapName": "kz_silly_metamodernity",
+    "WorkshopId": "3718800235"
+  },
+  {
+    "MapName": "kz_slide_svn_giantramp",
+    "WorkshopId": "3719085707"
+  },
+  {
+    "MapName": "kz_mjs_pestiaxith",
+    "WorkshopId": "3719257710"
+  },
+  {
+    "MapName": "kz_helios",
+    "WorkshopId": "3719271343"
+  },
+  {
+    "MapName": "kz_columns",
+    "WorkshopId": "3717033895"
+  },
+  {
+    "MapName": "kz_fastcombowombo_v2",
+    "WorkshopId": "3716245104"
+  },
+  {
+    "MapName": "kz_warcrime_business",
+    "WorkshopId": "3715143084"
   }
 ]
