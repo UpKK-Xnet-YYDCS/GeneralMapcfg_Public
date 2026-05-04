@@ -3031,4 +3031,36 @@
 		"updatedname" "kz_communitybhop_retroid"
 		"OnlyNominate" "0"
 	}
+	"kz_helios"
+	{
+		"workshop_id" "3719271343"
+		"enabled" "1"
+		"filename" "kz_helios"
+		"updatedname" "kz_helios"
+		"OnlyNominate" "0"
+	}
+	"kz_mjs_pestiaxith"
+	{
+		"workshop_id" "3719257710"
+		"enabled" "1"
+		"filename" "kz_mjs_pestiaxith"
+		"updatedname" "kz_mjs_pestiaxith"
+		"OnlyNominate" "0"
+	}
+	"kz_slide_svn_giantramp"
+	{
+		"workshop_id" "3719085707"
+		"enabled" "1"
+		"filename" "kz_slide_svn_giantramp"
+		"updatedname" "kz_slide_svn_giantramp"
+		"OnlyNominate" "0"
+	}
+	"kz_silly_metamodernity"
+	{
+		"workshop_id" "3718800235"
+		"enabled" "1"
+		"filename" "kz_silly_metamodernity"
+		"updatedname" "kz_silly_metamodernity"
+		"OnlyNominate" "0"
+	}
 }
