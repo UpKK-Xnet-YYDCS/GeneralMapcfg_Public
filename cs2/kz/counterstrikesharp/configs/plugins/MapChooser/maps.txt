@@ -3063,4 +3063,12 @@
 		"updatedname" "kz_silly_metamodernity"
 		"OnlyNominate" "0"
 	}
+	"kz_communitybhop_justin"
+	{
+		"workshop_id" "3720127069"
+		"enabled" "1"
+		"filename" "kz_communitybhop_justin"
+		"updatedname" "kz_communitybhop_justin"
+		"OnlyNominate" "0"
+	}
 }
