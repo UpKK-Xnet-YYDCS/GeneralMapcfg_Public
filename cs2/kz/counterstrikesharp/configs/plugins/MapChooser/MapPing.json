@@ -1350,5 +1350,9 @@
   {
     "MapName": "kz_warcrime_business",
     "WorkshopId": "3715143084"
+  },
+  {
+    "MapName": "kz_communitybhop_justin",
+    "WorkshopId": "3720127069"
   }
 ]
