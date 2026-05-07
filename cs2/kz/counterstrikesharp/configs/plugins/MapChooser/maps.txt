@@ -3087,4 +3087,20 @@
 		"updatedname" "kz_slide_svn_temple"
 		"OnlyNominate" "0"
 	}
+	"kz_communitybhopbfc"
+	{
+		"workshop_id" "3721145120"
+		"enabled" "1"
+		"filename" "kz_communitybhopbfc"
+		"updatedname" "kz_communitybhopbfc"
+		"OnlyNominate" "0"
+	}
+	"kz_weep"
+	{
+		"workshop_id" "3719943018"
+		"enabled" "1"
+		"filename" "kz_weep"
+		"updatedname" "kz_weep"
+		"OnlyNominate" "0"
+	}
 }
