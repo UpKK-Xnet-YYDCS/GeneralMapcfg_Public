@@ -3103,4 +3103,12 @@
 		"updatedname" "kz_weep"
 		"OnlyNominate" "0"
 	}
+	"kz_zitjbjxaefksydtecgfnoklpxyqiiplexeobzinyextat"
+	{
+		"workshop_id" "3722065761"
+		"enabled" "1"
+		"filename" "kz_zitjbjxaefksydtecgfnoklpxyqiiplexeobzinyextat"
+		"updatedname" "kz_zitjbjxaefksydtecgfnoklpxyqiiplexeobzinyextat"
+		"OnlyNominate" "0"
+	}
 }
