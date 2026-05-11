@@ -3111,4 +3111,12 @@
 		"updatedname" "kz_zitjbjxaefksydtecgfnoklpxyqiiplexeobzinyextat"
 		"OnlyNominate" "0"
 	}
+	"kz_omp"
+	{
+		"workshop_id" "3723855844"
+		"enabled" "1"
+		"filename" "kz_omp"
+		"updatedname" "kz_omp"
+		"OnlyNominate" "0"
+	}
 }
