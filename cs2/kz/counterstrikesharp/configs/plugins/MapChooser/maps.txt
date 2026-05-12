@@ -3119,4 +3119,20 @@
 		"updatedname" "kz_omp"
 		"OnlyNominate" "0"
 	}
+	"kz_maze (WiP)"
+	{
+		"workshop_id" "3724196243"
+		"enabled" "1"
+		"filename" "kz_maze (WiP)"
+		"updatedname" "kz_maze (WiP)"
+		"OnlyNominate" "0"
+	}
+	"kz_movemovemove"
+	{
+		"workshop_id" "3724081929"
+		"enabled" "1"
+		"filename" "kz_movemovemove"
+		"updatedname" "kz_movemovemove"
+		"OnlyNominate" "0"
+	}
 }
