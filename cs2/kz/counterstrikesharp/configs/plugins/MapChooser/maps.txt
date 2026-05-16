@@ -3135,4 +3135,20 @@
 		"updatedname" "kz_movemovemove"
 		"OnlyNominate" "0"
 	}
+	"kz_communitybhop_galijiba"
+	{
+		"workshop_id" "3725162126"
+		"enabled" "1"
+		"filename" "kz_communitybhop_galijiba"
+		"updatedname" "kz_communitybhop_galijiba"
+		"OnlyNominate" "0"
+	}
+	"kz_dalles"
+	{
+		"workshop_id" "3695623177"
+		"enabled" "1"
+		"filename" "kz_dalles"
+		"updatedname" "kz_dalles"
+		"OnlyNominate" "0"
+	}
 }
