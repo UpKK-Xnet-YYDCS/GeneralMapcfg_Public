@@ -1358,5 +1358,9 @@
   {
     "MapName": "kz_tetts",
     "WorkshopId": "3713154642"
+  },
+  {
+    "MapName": "kz_prop",
+    "WorkshopId": "3727261266"
   }
 ]
