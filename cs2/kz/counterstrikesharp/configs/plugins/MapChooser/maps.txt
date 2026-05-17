@@ -3151,4 +3151,36 @@
 		"updatedname" "kz_dalles"
 		"OnlyNominate" "0"
 	}
+	"kz_communitybhop_hlggs"
+	{
+		"workshop_id" "3727418929"
+		"enabled" "1"
+		"filename" "kz_communitybhop_hlggs"
+		"updatedname" "kz_communitybhop_hlggs"
+		"OnlyNominate" "0"
+	}
+	"kz_prop"
+	{
+		"workshop_id" "3727261266"
+		"enabled" "1"
+		"filename" "kz_prop"
+		"updatedname" "kz_prop"
+		"OnlyNominate" "0"
+	}
+	"kz_communitybhop_benz"
+	{
+		"workshop_id" "3727229104"
+		"enabled" "1"
+		"filename" "kz_communitybhop_benz"
+		"updatedname" "kz_communitybhop_benz"
+		"OnlyNominate" "0"
+	}
+	"kz_stacy_h"
+	{
+		"workshop_id" "3726826699"
+		"enabled" "1"
+		"filename" "kz_stacy_h"
+		"updatedname" "kz_stacy_h"
+		"OnlyNominate" "0"
+	}
 }
