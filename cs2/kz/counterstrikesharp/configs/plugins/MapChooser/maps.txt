@@ -3183,4 +3183,12 @@
 		"updatedname" "kz_stacy_h"
 		"OnlyNominate" "0"
 	}
+	"kz_alien_city_fixed"
+	{
+		"workshop_id" "3728518028"
+		"enabled" "1"
+		"filename" "kz_alien_city_fixed"
+		"updatedname" "kz_alien_city_fixed"
+		"OnlyNominate" "0"
+	}
 }
