@@ -1362,5 +1362,9 @@
   {
     "MapName": "kz_prop",
     "WorkshopId": "3727261266"
+  },
+  {
+    "MapName": "kz_communitybhop_leetly",
+    "WorkshopId": "3720353204"
   }
 ]
