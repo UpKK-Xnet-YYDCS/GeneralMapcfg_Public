@@ -1366,5 +1366,13 @@
   {
     "MapName": "kz_communitybhop_leetly",
     "WorkshopId": "3720353204"
+  },
+  {
+    "MapName": "kz_slide_svn_temple",
+    "WorkshopId": "3720309822"
+  },
+  {
+    "MapName": "kz_communitybhop_benz",
+    "WorkshopId": "3727229104"
   }
 ]
