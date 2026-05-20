@@ -3191,4 +3191,20 @@
 		"updatedname" "kz_alien_city_fixed"
 		"OnlyNominate" "0"
 	}
+	"kz_sxb2_xbcmzl"
+	{
+		"workshop_id" "3729339057"
+		"enabled" "1"
+		"filename" "kz_sxb2_xbcmzl"
+		"updatedname" "kz_sxb2_xbcmzl"
+		"OnlyNominate" "0"
+	}
+	"kz_sahara"
+	{
+		"workshop_id" "3718317934"
+		"enabled" "1"
+		"filename" "kz_sahara"
+		"updatedname" "kz_sahara"
+		"OnlyNominate" "0"
+	}
 }
