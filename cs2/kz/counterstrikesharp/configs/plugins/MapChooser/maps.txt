@@ -2306,7 +2306,7 @@
 	"kz_snowjumps"
 	{
 		"workshop_id" "3624495289"
-		"enabled" "1"
+		"enabled" "0"
 		"filename" "kz_snowjumps"
 		"updatedname" "kz_snowjumps"
 		"OnlyNominate" "0"
@@ -2322,7 +2322,7 @@
 	"kz_psychophobia (WiP)"
 	{
 		"workshop_id" "3627541438"
-		"enabled" "1"
+		"enabled" "0"
 		"filename" "kz_psychophobia (WiP)"
 		"updatedname" "kz_psychophobia (WiP)"
 		"OnlyNominate" "0"
@@ -2490,7 +2490,7 @@
 	"kz_worlds2026_green"
 	{
 		"workshop_id" "3634909257"
-		"enabled" "1"
+		"enabled" "0"
 		"filename" "kz_worlds2026_green"
 		"updatedname" "kz_worlds2026_green"
 		"OnlyNominate" "0"
@@ -2546,7 +2546,7 @@
 	"kz_summit_peak (WiP)"
 	{
 		"workshop_id" "3648477369"
-		"enabled" "1"
+		"enabled" "0"
 		"filename" "kz_summit_peak (WiP)"
 		"updatedname" "kz_summit_peak (WiP)"
 		"OnlyNominate" "0"
@@ -2602,7 +2602,7 @@
 	"kz_k3_slide (WiP)"
 	{
 		"workshop_id" "3658015490"
-		"enabled" "1"
+		"enabled" "0"
 		"filename" "kz_k3_slide (WiP)"
 		"updatedname" "kz_k3_slide (WiP)"
 		"OnlyNominate" "0"
@@ -2610,7 +2610,7 @@
 	"kz_k3_slide"
 	{
 		"workshop_id" "3659828059"
-		"enabled" "1"
+		"enabled" "0"
 		"filename" "kz_k3_slide"
 		"updatedname" "kz_k3_slide"
 		"OnlyNominate" "0"
@@ -2618,7 +2618,7 @@
 	"kz_surf_test"
 	{
 		"workshop_id" "3660198753"
-		"enabled" "1"
+		"enabled" "0"
 		"filename" "kz_surf_test"
 		"updatedname" "kz_surf_test"
 		"OnlyNominate" "0"
@@ -2634,7 +2634,7 @@
 	"kz_skycity"
 	{
 		"workshop_id" "3661878565"
-		"enabled" "1"
+		"enabled" "0"
 		"filename" "kz_skycity"
 		"updatedname" "kz_skycity"
 		"OnlyNominate" "0"
@@ -2666,7 +2666,7 @@
 	"kz_satisfaction (WiP)"
 	{
 		"workshop_id" "3666094957"
-		"enabled" "1"
+		"enabled" "0"
 		"filename" "kz_satisfaction (WiP)"
 		"updatedname" "kz_satisfaction (WiP)"
 		"OnlyNominate" "0"
@@ -2682,7 +2682,7 @@
 	"kz_bhop_test"
 	{
 		"workshop_id" "3669268779"
-		"enabled" "1"
+		"enabled" "0"
 		"filename" "kz_bhop_test"
 		"updatedname" "kz_bhop_test"
 		"OnlyNominate" "0"
@@ -2722,7 +2722,7 @@
 	"kz_mangal"
 	{
 		"workshop_id" "3675411362"
-		"enabled" "1"
+		"enabled" "0"
 		"filename" "kz_mangal"
 		"updatedname" "kz_mangal"
 		"OnlyNominate" "0"
@@ -2770,7 +2770,7 @@
 	"kz_stacy_xt"
 	{
 		"workshop_id" "3677023113"
-		"enabled" "1"
+		"enabled" "0"
 		"filename" "kz_stacy_xt"
 		"updatedname" "kz_stacy_xt"
 		"OnlyNominate" "0"
@@ -2794,7 +2794,7 @@
 	"kz_skiva"
 	{
 		"workshop_id" "3686586927"
-		"enabled" "1"
+		"enabled" "0"
 		"filename" "kz_skiva"
 		"updatedname" "kz_skiva"
 		"OnlyNominate" "0"
@@ -2866,7 +2866,7 @@
 	"kz_k3_artisan_bhop"
 	{
 		"workshop_id" "3692681739"
-		"enabled" "1"
+		"enabled" "0"
 		"filename" "kz_k3_artisan_bhop"
 		"updatedname" "kz_k3_artisan_bhop"
 		"OnlyNominate" "0"
@@ -2882,7 +2882,7 @@
 	"kz_communitybhop_word"
 	{
 		"workshop_id" "3693024514"
-		"enabled" "1"
+		"enabled" "0"
 		"filename" "kz_communitybhop_word"
 		"updatedname" "kz_communitybhop_word"
 		"OnlyNominate" "0"
@@ -2914,7 +2914,7 @@
 	"kz_gorniy"
 	{
 		"workshop_id" "3697016077"
-		"enabled" "1"
+		"enabled" "0"
 		"filename" "kz_gorniy"
 		"updatedname" "kz_gorniy"
 		"OnlyNominate" "0"
@@ -2962,7 +2962,7 @@
 	"kz_longjumps_vietnam"
 	{
 		"workshop_id" "3701085406"
-		"enabled" "1"
+		"enabled" "0"
 		"filename" "kz_longjumps_vietnam"
 		"updatedname" "kz_longjumps_vietnam"
 		"OnlyNominate" "0"
@@ -2978,7 +2978,7 @@
 	"kz_test"
 	{
 		"workshop_id" "3712445763"
-		"enabled" "1"
+		"enabled" "0"
 		"filename" "kz_test"
 		"updatedname" "kz_test"
 		"OnlyNominate" "0"
@@ -2986,7 +2986,7 @@
 	"kz_tetts"
 	{
 		"workshop_id" "3713154642"
-		"enabled" "1"
+		"enabled" "0"
 		"filename" "kz_tetts"
 		"updatedname" "kz_tetts"
 		"OnlyNominate" "0"
@@ -3066,7 +3066,7 @@
 	"kz_communitybhop_justin"
 	{
 		"workshop_id" "3720127069"
-		"enabled" "1"
+		"enabled" "0"
 		"filename" "kz_communitybhop_justin"
 		"updatedname" "kz_communitybhop_justin"
 		"OnlyNominate" "0"
@@ -3106,7 +3106,7 @@
 	"kz_zitjbjxaefksydtecgfnoklpxyqiiplexeobzinyextat"
 	{
 		"workshop_id" "3722065761"
-		"enabled" "1"
+		"enabled" "0"
 		"filename" "kz_zitjbjxaefksydtecgfnoklpxyqiiplexeobzinyextat"
 		"updatedname" "kz_zitjbjxaefksydtecgfnoklpxyqiiplexeobzinyextat"
 		"OnlyNominate" "0"
