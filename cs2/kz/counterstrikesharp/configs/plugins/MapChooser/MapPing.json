@@ -1382,5 +1382,9 @@
   {
     "MapName": "kz_sahara",
     "WorkshopId": "3718317934"
+  },
+  {
+    "MapName": "kz_slide_wasteland",
+    "WorkshopId": "3730109782"
   }
 ]
