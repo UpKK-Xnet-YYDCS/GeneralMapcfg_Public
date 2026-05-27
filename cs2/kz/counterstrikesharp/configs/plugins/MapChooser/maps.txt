@@ -3231,4 +3231,20 @@
 		"updatedname" "kz_angina_x"
 		"OnlyNominate" "0"
 	}
+	"kz_porn"
+	{
+		"workshop_id" "3733523067"
+		"enabled" "1"
+		"filename" "kz_porn"
+		"updatedname" "kz_porn"
+		"OnlyNominate" "0"
+	}
+	"kz_oasis"
+	{
+		"workshop_id" "3733142798"
+		"enabled" "1"
+		"filename" "kz_oasis"
+		"updatedname" "kz_oasis"
+		"OnlyNominate" "0"
+	}
 }
