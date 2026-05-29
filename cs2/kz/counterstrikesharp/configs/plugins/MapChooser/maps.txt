@@ -3255,4 +3255,20 @@
 		"updatedname" "kz_cherry"
 		"OnlyNominate" "0"
 	}
+	"kz_next_one"
+	{
+		"workshop_id" "3734664087"
+		"enabled" "1"
+		"filename" "kz_next_one"
+		"updatedname" "kz_next_one"
+		"OnlyNominate" "0"
+	}
+	"kz_kiwifrozen"
+	{
+		"workshop_id" "3734654617"
+		"enabled" "1"
+		"filename" "kz_kiwifrozen"
+		"updatedname" "kz_kiwifrozen"
+		"OnlyNominate" "0"
+	}
 }
