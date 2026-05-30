@@ -1390,5 +1390,9 @@
   {
     "MapName": "kz_toofaded",
     "WorkshopId": "3678967447"
+  },
+  {
+    "MapName": "kz_angina_x",
+    "WorkshopId": "3731336056"
   }
 ]
