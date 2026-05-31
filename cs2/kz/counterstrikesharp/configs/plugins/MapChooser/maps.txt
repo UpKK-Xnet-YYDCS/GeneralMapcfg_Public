@@ -3287,4 +3287,12 @@
 		"updatedname" "kz_kiwislop"
 		"OnlyNominate" "0"
 	}
+	"kz_slide_svn_extreme"
+	{
+		"workshop_id" "3735455989"
+		"enabled" "1"
+		"filename" "kz_slide_svn_extreme"
+		"updatedname" "kz_slide_svn_extreme"
+		"OnlyNominate" "0"
+	}
 }
