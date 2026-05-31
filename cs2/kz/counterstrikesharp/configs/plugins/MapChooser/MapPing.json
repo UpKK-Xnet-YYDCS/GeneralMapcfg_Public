@@ -1394,5 +1394,9 @@
   {
     "MapName": "kz_angina_x",
     "WorkshopId": "3731336056"
+  },
+  {
+    "MapName": "kz_communitybhop_galijiba",
+    "WorkshopId": "3725162126"
   }
 ]
