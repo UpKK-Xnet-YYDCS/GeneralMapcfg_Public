@@ -3295,4 +3295,12 @@
 		"updatedname" "kz_slide_svn_extreme"
 		"OnlyNominate" "0"
 	}
+	"kz_sillybhop_wake"
+	{
+		"workshop_id" "3736034501"
+		"enabled" "1"
+		"filename" "kz_sillybhop_wake"
+		"updatedname" "kz_sillybhop_wake"
+		"OnlyNominate" "0"
+	}
 }
