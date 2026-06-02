@@ -3303,4 +3303,28 @@
 		"updatedname" "kz_sillybhop_wake"
 		"OnlyNominate" "0"
 	}
+	"kz_advantage"
+	{
+		"workshop_id" "3736349390"
+		"enabled" "1"
+		"filename" "kz_advantage"
+		"updatedname" "kz_advantage"
+		"OnlyNominate" "0"
+	}
+	"kz_slide_desolate"
+	{
+		"workshop_id" "3735580891"
+		"enabled" "1"
+		"filename" "kz_slide_desolate"
+		"updatedname" "kz_slide_desolate"
+		"OnlyNominate" "0"
+	}
+	"kz_grotto update"
+	{
+		"workshop_id" "3723836532"
+		"enabled" "1"
+		"filename" "kz_grotto update"
+		"updatedname" "kz_grotto update"
+		"OnlyNominate" "0"
+	}
 }
