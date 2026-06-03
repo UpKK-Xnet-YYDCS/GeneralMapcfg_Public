@@ -3327,4 +3327,36 @@
 		"updatedname" "kz_grotto update"
 		"OnlyNominate" "0"
 	}
+	"kz_slide_lws_giantramp"
+	{
+		"workshop_id" "3737510092"
+		"enabled" "1"
+		"filename" "kz_slide_lws_giantramp"
+		"updatedname" "kz_slide_lws_giantramp"
+		"OnlyNominate" "0"
+	}
+	"kz_hb_reeed"
+	{
+		"workshop_id" "3737442358"
+		"enabled" "1"
+		"filename" "kz_hb_reeed"
+		"updatedname" "kz_hb_reeed"
+		"OnlyNominate" "0"
+	}
+	"kz_crimson"
+	{
+		"workshop_id" "3737404626"
+		"enabled" "1"
+		"filename" "kz_crimson"
+		"updatedname" "kz_crimson"
+		"OnlyNominate" "0"
+	}
+	"kz_kreedzune_v1"
+	{
+		"workshop_id" "3731914478"
+		"enabled" "1"
+		"filename" "kz_kreedzune_v1"
+		"updatedname" "kz_kreedzune_v1"
+		"OnlyNominate" "0"
+	}
 }
