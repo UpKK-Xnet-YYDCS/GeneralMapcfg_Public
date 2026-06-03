@@ -1406,5 +1406,17 @@
   {
     "MapName": "kz_movemovemove",
     "WorkshopId": "3724081929"
+  },
+  {
+    "MapName": "kz_kiwislop",
+    "WorkshopId": "3734892083"
+  },
+  {
+    "MapName": "kz_hb_reeed",
+    "WorkshopId": "3737442358"
+  },
+  {
+    "MapName": "kz_next_one",
+    "WorkshopId": "3734664087"
   }
 ]
