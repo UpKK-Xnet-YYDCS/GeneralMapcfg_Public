@@ -1422,5 +1422,9 @@
   {
     "MapName": "kz_crimson",
     "WorkshopId": "3737404626"
+  },
+  {
+    "MapName": "kz_psychophobia (WiP)",
+    "WorkshopId": "3627541438"
   }
 ]
