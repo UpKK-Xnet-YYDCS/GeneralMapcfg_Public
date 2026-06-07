@@ -3367,4 +3367,12 @@
 		"updatedname" "kz_vex ( WIP )"
 		"OnlyNominate" "0"
 	}
+	"kz_slide_dydanhomon2"
+	{
+		"workshop_id" "3739884822"
+		"enabled" "1"
+		"filename" "kz_slide_dydanhomon2"
+		"updatedname" "kz_slide_dydanhomon2"
+		"OnlyNominate" "0"
+	}
 }
