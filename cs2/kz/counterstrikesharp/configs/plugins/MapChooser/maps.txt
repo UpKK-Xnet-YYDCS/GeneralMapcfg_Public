@@ -3375,4 +3375,20 @@
 		"updatedname" "kz_slide_dydanhomon2"
 		"OnlyNominate" "0"
 	}
+	"kz_backrooms (WIP)"
+	{
+		"workshop_id" "3740398046"
+		"enabled" "1"
+		"filename" "kz_backrooms (WIP)"
+		"updatedname" "kz_backrooms (WIP)"
+		"OnlyNominate" "0"
+	}
+	"kz_sillyslide_femboylover"
+	{
+		"workshop_id" "3740276616"
+		"enabled" "1"
+		"filename" "kz_sillyslide_femboylover"
+		"updatedname" "kz_sillyslide_femboylover"
+		"OnlyNominate" "0"
+	}
 }
