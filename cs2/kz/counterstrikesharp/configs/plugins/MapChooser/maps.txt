@@ -3391,4 +3391,12 @@
 		"updatedname" "kz_sillyslide_femboylover"
 		"OnlyNominate" "0"
 	}
+	"kz_psyk"
+	{
+		"workshop_id" "3741023016"
+		"enabled" "1"
+		"filename" "kz_psyk"
+		"updatedname" "kz_psyk"
+		"OnlyNominate" "0"
+	}
 }
