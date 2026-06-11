@@ -1450,5 +1450,17 @@
   {
     "MapName": "kz_sxb2_xbcmzl",
     "WorkshopId": "3729339057"
+  },
+  {
+    "MapName": "kz_ezalpin",
+    "WorkshopId": "3741414191"
+  },
+  {
+    "MapName": "kz_psyk",
+    "WorkshopId": "3741023016"
+  },
+  {
+    "MapName": "kz_kreedzune_v1",
+    "WorkshopId": "3731914478"
   }
 ]
