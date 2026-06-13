@@ -1462,5 +1462,9 @@
   {
     "MapName": "kz_kreedzune_v1",
     "WorkshopId": "3731914478"
+  },
+  {
+    "MapName": "kz_sillybhop_wake",
+    "WorkshopId": "3736034501"
   }
 ]
