@@ -1466,5 +1466,9 @@
   {
     "MapName": "kz_sillybhop_wake",
     "WorkshopId": "3736034501"
+  },
+  {
+    "MapName": "kz_kiwi_cod",
+    "WorkshopId": "3735011162"
   }
 ]
