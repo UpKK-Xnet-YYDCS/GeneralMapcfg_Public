@@ -3407,4 +3407,12 @@
 		"updatedname" "kz_ezalpin"
 		"OnlyNominate" "0"
 	}
+	"kz_kreedzune"
+	{
+		"workshop_id" "3743714445"
+		"enabled" "1"
+		"filename" "kz_kreedzune"
+		"updatedname" "kz_kreedzune"
+		"OnlyNominate" "0"
+	}
 }
