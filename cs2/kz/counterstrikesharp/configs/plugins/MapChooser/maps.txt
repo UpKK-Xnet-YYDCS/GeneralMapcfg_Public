@@ -3415,4 +3415,20 @@
 		"updatedname" "kz_kreedzune"
 		"OnlyNominate" "0"
 	}
+	"kz_kiwispin"
+	{
+		"workshop_id" "3746027600"
+		"enabled" "1"
+		"filename" "kz_kiwispin"
+		"updatedname" "kz_kiwispin"
+		"OnlyNominate" "0"
+	}
+	"kz_moss"
+	{
+		"workshop_id" "3745801456"
+		"enabled" "1"
+		"filename" "kz_moss"
+		"updatedname" "kz_moss"
+		"OnlyNominate" "0"
+	}
 }
