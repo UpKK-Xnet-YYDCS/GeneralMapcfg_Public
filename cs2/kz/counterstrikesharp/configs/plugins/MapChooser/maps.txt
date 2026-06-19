@@ -3439,4 +3439,12 @@
 		"updatedname" "kz_hoppingdihdihdih"
 		"OnlyNominate" "0"
 	}
+	"kz_liminal_geode"
+	{
+		"workshop_id" "3747717986"
+		"enabled" "1"
+		"filename" "kz_liminal_geode"
+		"updatedname" "kz_liminal_geode"
+		"OnlyNominate" "0"
+	}
 }
