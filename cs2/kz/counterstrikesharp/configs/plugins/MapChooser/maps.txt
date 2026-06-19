@@ -3431,4 +3431,12 @@
 		"updatedname" "kz_moss"
 		"OnlyNominate" "0"
 	}
+	"kz_hoppingdihdihdih"
+	{
+		"workshop_id" "3747431082"
+		"enabled" "1"
+		"filename" "kz_hoppingdihdihdih"
+		"updatedname" "kz_hoppingdihdihdih"
+		"OnlyNominate" "0"
+	}
 }
