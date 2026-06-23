@@ -3447,4 +3447,12 @@
 		"updatedname" "kz_liminal_geode"
 		"OnlyNominate" "0"
 	}
+	"kz_ego"
+	{
+		"workshop_id" "3750045826"
+		"enabled" "1"
+		"filename" "kz_ego"
+		"updatedname" "kz_ego"
+		"OnlyNominate" "0"
+	}
 }
