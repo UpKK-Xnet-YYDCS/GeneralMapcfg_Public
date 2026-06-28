@@ -1478,5 +1478,25 @@
   {
     "MapName": "kz_vex ( WIP )",
     "WorkshopId": "3737899970"
+  },
+  {
+    "MapName": "kz_suomi",
+    "WorkshopId": "3751983122"
+  },
+  {
+    "MapName": "kz_ego",
+    "WorkshopId": "3750045826"
+  },
+  {
+    "MapName": "kz_liminal_geode",
+    "WorkshopId": "3747717986"
+  },
+  {
+    "MapName": "kz_hoppingdihdihdih",
+    "WorkshopId": "3747431082"
+  },
+  {
+    "MapName": "kz_moss",
+    "WorkshopId": "3745801456"
   }
 ]
