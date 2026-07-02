@@ -3479,4 +3479,12 @@
 		"updatedname" "kz_claustrophilia"
 		"OnlyNominate" "0"
 	}
+	"kz_slide_svn_downhill"
+	{
+		"workshop_id" "3755588520"
+		"enabled" "1"
+		"filename" "kz_slide_svn_downhill"
+		"updatedname" "kz_slide_svn_downhill"
+		"OnlyNominate" "0"
+	}
 }
