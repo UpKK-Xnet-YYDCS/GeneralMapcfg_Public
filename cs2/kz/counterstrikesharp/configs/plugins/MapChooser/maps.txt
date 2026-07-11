@@ -3495,4 +3495,12 @@
 		"updatedname" "kz_slide_purple_x"
 		"OnlyNominate" "0"
 	}
+	"kz_xerox"
+	{
+		"workshop_id" "3762109925"
+		"enabled" "1"
+		"filename" "kz_xerox"
+		"updatedname" "kz_xerox"
+		"OnlyNominate" "0"
+	}
 }
