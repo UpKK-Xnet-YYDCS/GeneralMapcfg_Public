@@ -3503,4 +3503,12 @@
 		"updatedname" "kz_xerox"
 		"OnlyNominate" "0"
 	}
+	"kz_slide_svn_complex_hard"
+	{
+		"workshop_id" "3762618426"
+		"enabled" "1"
+		"filename" "kz_slide_svn_complex_hard"
+		"updatedname" "kz_slide_svn_complex_hard"
+		"OnlyNominate" "0"
+	}
 }
