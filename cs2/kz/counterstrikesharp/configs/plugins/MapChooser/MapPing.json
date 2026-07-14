@@ -1506,5 +1506,9 @@
   {
     "MapName": "kz_kreedzune",
     "WorkshopId": "3743714445"
+  },
+  {
+    "MapName": "kz_slide_svn_complex_hard",
+    "WorkshopId": "3762618426"
   }
 ]
