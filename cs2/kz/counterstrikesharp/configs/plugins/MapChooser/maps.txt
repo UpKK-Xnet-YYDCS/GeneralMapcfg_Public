@@ -3511,4 +3511,20 @@
 		"updatedname" "kz_slide_svn_complex_hard"
 		"OnlyNominate" "0"
 	}
+	"kz_bhop_majka"
+	{
+		"workshop_id" "3764093804"
+		"enabled" "1"
+		"filename" "kz_bhop_majka"
+		"updatedname" "kz_bhop_majka"
+		"OnlyNominate" "0"
+	}
+	"kz_vapor (V2 Playtest)"
+	{
+		"workshop_id" "3762295624"
+		"enabled" "1"
+		"filename" "kz_vapor (V2 Playtest)"
+		"updatedname" "kz_vapor (V2 Playtest)"
+		"OnlyNominate" "0"
+	}
 }
