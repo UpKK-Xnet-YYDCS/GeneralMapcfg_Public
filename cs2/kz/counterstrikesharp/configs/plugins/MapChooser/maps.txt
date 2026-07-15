@@ -3527,4 +3527,12 @@
 		"updatedname" "kz_vapor (V2 Playtest)"
 		"OnlyNominate" "0"
 	}
+	"kz_hb_kuu"
+	{
+		"workshop_id" "3764764383"
+		"enabled" "1"
+		"filename" "kz_hb_kuu"
+		"updatedname" "kz_hb_kuu"
+		"OnlyNominate" "0"
+	}
 }
