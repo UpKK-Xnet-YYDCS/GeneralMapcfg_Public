@@ -3535,4 +3535,12 @@
 		"updatedname" "kz_hb_kuu"
 		"OnlyNominate" "0"
 	}
+	"kz_engram"
+	{
+		"workshop_id" "3759997670"
+		"enabled" "1"
+		"filename" "kz_engram"
+		"updatedname" "kz_engram"
+		"OnlyNominate" "0"
+	}
 }
