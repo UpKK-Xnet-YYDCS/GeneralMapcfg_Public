@@ -3551,4 +3551,12 @@
 		"updatedname" "kz_sc_surf"
 		"OnlyNominate" "0"
 	}
+	"kz_calm_coast"
+	{
+		"workshop_id" "3766931879"
+		"enabled" "1"
+		"filename" "kz_calm_coast"
+		"updatedname" "kz_calm_coast"
+		"OnlyNominate" "0"
+	}
 }
