@@ -3559,4 +3559,60 @@
 		"updatedname" "kz_calm_coast"
 		"OnlyNominate" "0"
 	}
+	"kz_sc_ruins"
+	{
+		"workshop_id" "3767757448"
+		"enabled" "1"
+		"filename" "kz_sc_ruins"
+		"updatedname" "kz_sc_ruins"
+		"OnlyNominate" "0"
+	}
+	"kz_forest_retreat"
+	{
+		"workshop_id" "3766903085"
+		"enabled" "1"
+		"filename" "kz_forest_retreat"
+		"updatedname" "kz_forest_retreat"
+		"OnlyNominate" "0"
+	}
+	"kz_scuba"
+	{
+		"workshop_id" "3763606466"
+		"enabled" "1"
+		"filename" "kz_scuba"
+		"updatedname" "kz_scuba"
+		"OnlyNominate" "0"
+	}
+	"kz_asteroid_beach"
+	{
+		"workshop_id" "3760078813"
+		"enabled" "1"
+		"filename" "kz_asteroid_beach"
+		"updatedname" "kz_asteroid_beach"
+		"OnlyNominate" "0"
+	}
+	"kz_wishyouwerehere"
+	{
+		"workshop_id" "3759885779"
+		"enabled" "1"
+		"filename" "kz_wishyouwerehere"
+		"updatedname" "kz_wishyouwerehere"
+		"OnlyNominate" "0"
+	}
+	"kz_santorini"
+	{
+		"workshop_id" "3759851393"
+		"enabled" "1"
+		"filename" "kz_santorini"
+		"updatedname" "kz_santorini"
+		"OnlyNominate" "0"
+	}
+	"kz_cruise"
+	{
+		"workshop_id" "3755483837"
+		"enabled" "1"
+		"filename" "kz_cruise"
+		"updatedname" "kz_cruise"
+		"OnlyNominate" "0"
+	}
 }
