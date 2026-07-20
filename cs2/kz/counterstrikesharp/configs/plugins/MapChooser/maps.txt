@@ -3615,4 +3615,12 @@
 		"updatedname" "kz_cruise"
 		"OnlyNominate" "0"
 	}
+	"kz_future (WiP)"
+	{
+		"workshop_id" "3768298167"
+		"enabled" "1"
+		"filename" "kz_future (WiP)"
+		"updatedname" "kz_future (WiP)"
+		"OnlyNominate" "0"
+	}
 }
