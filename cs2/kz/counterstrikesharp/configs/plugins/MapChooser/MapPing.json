@@ -1514,5 +1514,9 @@
   {
     "MapName": "kz_slide_purple_x",
     "WorkshopId": "3756328212"
+  },
+  {
+    "MapName": "kz_forest_retreat",
+    "WorkshopId": "3766903085"
   }
 ]
