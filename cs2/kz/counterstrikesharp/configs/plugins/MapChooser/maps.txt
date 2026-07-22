@@ -3623,4 +3623,28 @@
 		"updatedname" "kz_future (WiP)"
 		"OnlyNominate" "0"
 	}
+	"kz_cryoheaven"
+	{
+		"workshop_id" "3768942476"
+		"enabled" "1"
+		"filename" "kz_cryoheaven"
+		"updatedname" "kz_cryoheaven"
+		"OnlyNominate" "0"
+	}
+	"kz_big4"
+	{
+		"workshop_id" "3767113515"
+		"enabled" "1"
+		"filename" "kz_big4"
+		"updatedname" "kz_big4"
+		"OnlyNominate" "0"
+	}
+	"kz_maldives"
+	{
+		"workshop_id" "3759771524"
+		"enabled" "1"
+		"filename" "kz_maldives"
+		"updatedname" "kz_maldives"
+		"OnlyNominate" "0"
+	}
 }
