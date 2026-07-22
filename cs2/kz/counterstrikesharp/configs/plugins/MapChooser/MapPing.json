@@ -1518,5 +1518,33 @@
   {
     "MapName": "kz_forest_retreat",
     "WorkshopId": "3766903085"
+  },
+  {
+    "MapName": "kz_maldives",
+    "WorkshopId": "3759771524"
+  },
+  {
+    "MapName": "kz_big4",
+    "WorkshopId": "3767113515"
+  },
+  {
+    "MapName": "kz_cryoheaven",
+    "WorkshopId": "3768942476"
+  },
+  {
+    "MapName": "kz_cruise",
+    "WorkshopId": "3755483837"
+  },
+  {
+    "MapName": "kz_santorini",
+    "WorkshopId": "3759851393"
+  },
+  {
+    "MapName": "kz_wishyouwerehere",
+    "WorkshopId": "3759885779"
+  },
+  {
+    "MapName": "kz_scuba",
+    "WorkshopId": "3763606466"
   }
 ]
