@@ -3647,4 +3647,12 @@
 		"updatedname" "kz_maldives"
 		"OnlyNominate" "0"
 	}
+	"kz_xiaobitu"
+	{
+		"workshop_id" "3769664404"
+		"enabled" "1"
+		"filename" "kz_xiaobitu"
+		"updatedname" "kz_xiaobitu"
+		"OnlyNominate" "0"
+	}
 }
