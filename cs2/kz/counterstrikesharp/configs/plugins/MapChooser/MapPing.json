@@ -1546,5 +1546,9 @@
   {
     "MapName": "kz_scuba",
     "WorkshopId": "3763606466"
+  },
+  {
+    "MapName": "kz_advantage",
+    "WorkshopId": "3736349390"
   }
 ]
