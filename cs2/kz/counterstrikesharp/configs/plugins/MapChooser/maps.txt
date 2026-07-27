@@ -3655,4 +3655,12 @@
 		"updatedname" "kz_xiaobitu"
 		"OnlyNominate" "0"
 	}
+	"kz_twizzlers"
+	{
+		"workshop_id" "3772047433"
+		"enabled" "1"
+		"filename" "kz_twizzlers"
+		"updatedname" "kz_twizzlers"
+		"OnlyNominate" "0"
+	}
 }
