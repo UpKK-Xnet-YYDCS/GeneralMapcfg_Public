@@ -129,7 +129,7 @@
 	"mg sky dust"
 	{
 		"workshop_id"		"3213628872"
-		"enabled"		"1"
+		"enabled"		"0"
 		"filename"		"mg_sky_dust"
 		"updatedname"		"mg sky dust"
 	}
