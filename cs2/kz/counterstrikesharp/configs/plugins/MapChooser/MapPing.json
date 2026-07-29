@@ -1554,5 +1554,9 @@
   {
     "MapName": "kz_dalles",
     "WorkshopId": "3695623177"
+  },
+  {
+    "MapName": "kz_xerox",
+    "WorkshopId": "3762109925"
   }
 ]
