@@ -1550,5 +1550,9 @@
   {
     "MapName": "kz_advantage",
     "WorkshopId": "3736349390"
+  },
+  {
+    "MapName": "kz_dalles",
+    "WorkshopId": "3695623177"
   }
 ]
