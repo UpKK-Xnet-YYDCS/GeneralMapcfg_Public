@@ -1562,5 +1562,9 @@
   {
     "MapName": "kz_claustrophilia",
     "WorkshopId": "3753577696"
+  },
+  {
+    "MapName": "kz_cryomania",
+    "WorkshopId": "3773925856"
   }
 ]
