@@ -1566,5 +1566,9 @@
   {
     "MapName": "kz_cryomania",
     "WorkshopId": "3773925856"
+  },
+  {
+    "MapName": "kz_k3_slide (WiP)",
+    "WorkshopId": "3658015490"
   }
 ]
