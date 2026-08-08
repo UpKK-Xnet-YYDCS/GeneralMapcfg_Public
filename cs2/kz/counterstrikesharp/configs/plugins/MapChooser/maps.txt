@@ -3695,4 +3695,12 @@
 		"updatedname" "kz_cf_chasm"
 		"OnlyNominate" "0"
 	}
+	"kz_claustrolapse"
+	{
+		"workshop_id" "3777707694"
+		"enabled" "1"
+		"filename" "kz_claustrolapse"
+		"updatedname" "kz_claustrolapse"
+		"OnlyNominate" "0"
+	}
 }
