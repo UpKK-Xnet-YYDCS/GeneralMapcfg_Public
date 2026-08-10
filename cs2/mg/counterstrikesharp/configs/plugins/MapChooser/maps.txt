@@ -129,7 +129,7 @@
 	"mg sky dust"
 	{
 		"workshop_id"		"3213628872"
-		"enabled"		"1"
+		"enabled"		"0"
 		"filename"		"mg_sky_dust"
 		"updatedname"		"mg sky dust"
 	}
@@ -143,7 +143,7 @@
 	"mg_summer_tower"
 	{
 		"workshop_id"		"3223846548"
-		"enabled"		"1"
+		"enabled"		"0"
 		"filename"		"mg_summer_tower_v1"
 		"updatedname"		"mg_summer_tower"
 	}
@@ -199,7 +199,7 @@
 	"mg_super_tower_v3b"
 	{
 		"workshop_id"		"3363060792"
-		"enabled"		"1"
+		"enabled"		"0"
 		"filename"		"mg_super_tower_v3b"
 		"updatedname"		"mg_super_tower_v3b"
 	}
