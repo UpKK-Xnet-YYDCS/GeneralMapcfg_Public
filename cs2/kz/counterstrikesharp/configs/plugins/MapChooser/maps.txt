@@ -3703,4 +3703,20 @@
 		"updatedname" "kz_claustrolapse"
 		"OnlyNominate" "0"
 	}
+	"kz_gigantus wip"
+	{
+		"workshop_id" "3781831013"
+		"enabled" "1"
+		"filename" "kz_gigantus wip"
+		"updatedname" "kz_gigantus wip"
+		"OnlyNominate" "0"
+	}
+	"kz_mescaline"
+	{
+		"workshop_id" "3781516256"
+		"enabled" "1"
+		"filename" "kz_mescaline"
+		"updatedname" "kz_mescaline"
+		"OnlyNominate" "0"
+	}
 }
