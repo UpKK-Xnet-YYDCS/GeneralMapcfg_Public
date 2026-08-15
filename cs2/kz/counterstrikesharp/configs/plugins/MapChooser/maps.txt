@@ -3727,4 +3727,12 @@
 		"updatedname" "kz_claustroscend"
 		"OnlyNominate" "0"
 	}
+	"kz_nikita_ohio"
+	{
+		"workshop_id" "3783364871"
+		"enabled" "1"
+		"filename" "kz_nikita_ohio"
+		"updatedname" "kz_nikita_ohio"
+		"OnlyNominate" "0"
+	}
 }
