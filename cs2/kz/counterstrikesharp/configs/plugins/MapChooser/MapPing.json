@@ -1586,5 +1586,9 @@
   {
     "MapName": "kz_twizzlers",
     "WorkshopId": "3772047433"
+  },
+  {
+    "MapName": "kz_sc_surf",
+    "WorkshopId": "3766436460"
   }
 ]
