@@ -3735,4 +3735,12 @@
 		"updatedname" "kz_nikita_ohio"
 		"OnlyNominate" "0"
 	}
+	"kz_prigprig"
+	{
+		"workshop_id" "3783674354"
+		"enabled" "1"
+		"filename" "kz_prigprig"
+		"updatedname" "kz_prigprig"
+		"OnlyNominate" "0"
+	}
 }
