@@ -3743,4 +3743,12 @@
 		"updatedname" "kz_prigprig"
 		"OnlyNominate" "0"
 	}
+	"kz_strongslide"
+	{
+		"workshop_id" "3784083927"
+		"enabled" "1"
+		"filename" "kz_strongslide"
+		"updatedname" "kz_strongslide"
+		"OnlyNominate" "0"
+	}
 }
