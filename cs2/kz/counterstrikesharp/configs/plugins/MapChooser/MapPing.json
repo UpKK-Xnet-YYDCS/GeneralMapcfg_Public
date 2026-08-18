@@ -1590,5 +1590,9 @@
   {
     "MapName": "kz_sc_surf",
     "WorkshopId": "3766436460"
+  },
+  {
+    "MapName": "kz_kiwispin",
+    "WorkshopId": "3746027600"
   }
 ]
