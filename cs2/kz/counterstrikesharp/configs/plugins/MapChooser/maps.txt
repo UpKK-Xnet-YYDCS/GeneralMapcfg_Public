@@ -3751,4 +3751,20 @@
 		"updatedname" "kz_strongslide"
 		"OnlyNominate" "0"
 	}
+	"kz_dogrun"
+	{
+		"workshop_id" "3785899753"
+		"enabled" "1"
+		"filename" "kz_dogrun"
+		"updatedname" "kz_dogrun"
+		"OnlyNominate" "0"
+	}
+	"kz_evelor"
+	{
+		"workshop_id" "3785879853"
+		"enabled" "1"
+		"filename" "kz_evelor"
+		"updatedname" "kz_evelor"
+		"OnlyNominate" "0"
+	}
 }
