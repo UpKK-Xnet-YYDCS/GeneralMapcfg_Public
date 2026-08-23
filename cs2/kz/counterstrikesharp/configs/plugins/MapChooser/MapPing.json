@@ -1602,5 +1602,9 @@
   {
     "MapName": "kz_slide_svn_downhill",
     "WorkshopId": "3755588520"
+  },
+  {
+    "MapName": "kz_cf_chasm",
+    "WorkshopId": "3777979474"
   }
 ]
