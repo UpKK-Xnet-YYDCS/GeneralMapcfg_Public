@@ -1606,5 +1606,9 @@
   {
     "MapName": "kz_cf_chasm",
     "WorkshopId": "3777979474"
+  },
+  {
+    "MapName": "kz_evelor",
+    "WorkshopId": "3785879853"
   }
 ]
