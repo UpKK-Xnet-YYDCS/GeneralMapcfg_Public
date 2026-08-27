@@ -3783,4 +3783,12 @@
 		"updatedname" "kz_kzt_test"
 		"OnlyNominate" "0"
 	}
+	"kz_warrior"
+	{
+		"workshop_id" "3790562440"
+		"enabled" "1"
+		"filename" "kz_warrior"
+		"updatedname" "kz_warrior"
+		"OnlyNominate" "0"
+	}
 }
