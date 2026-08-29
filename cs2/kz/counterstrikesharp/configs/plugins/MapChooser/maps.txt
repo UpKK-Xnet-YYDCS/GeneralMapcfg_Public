@@ -3791,4 +3791,12 @@
 		"updatedname" "kz_warrior"
 		"OnlyNominate" "0"
 	}
+	"kz_slid_typo"
+	{
+		"workshop_id" "3791861953"
+		"enabled" "1"
+		"filename" "kz_slid_typo"
+		"updatedname" "kz_slid_typo"
+		"OnlyNominate" "0"
+	}
 }
