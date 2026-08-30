@@ -3799,4 +3799,20 @@
 		"updatedname" "kz_slid_typo"
 		"OnlyNominate" "0"
 	}
+	"kz_techtonic_v2_ldr"
+	{
+		"workshop_id" "3792212506"
+		"enabled" "1"
+		"filename" "kz_techtonic_v2_ldr"
+		"updatedname" "kz_techtonic_v2_ldr"
+		"OnlyNominate" "0"
+	}
+	"kz_hroosh"
+	{
+		"workshop_id" "3792037145"
+		"enabled" "1"
+		"filename" "kz_hroosh"
+		"updatedname" "kz_hroosh"
+		"OnlyNominate" "0"
+	}
 }
