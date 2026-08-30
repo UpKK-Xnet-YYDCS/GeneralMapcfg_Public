@@ -1614,5 +1614,13 @@
   {
     "MapName": "kz_xiaobitu",
     "WorkshopId": "3769664404"
+  },
+  {
+    "MapName": "kz_warrior",
+    "WorkshopId": "3790562440"
+  },
+  {
+    "MapName": "kz_nikita_ohio",
+    "WorkshopId": "3783364871"
   }
 ]
