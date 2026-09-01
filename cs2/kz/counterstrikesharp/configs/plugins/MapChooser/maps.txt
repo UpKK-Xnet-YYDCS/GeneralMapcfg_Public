@@ -3815,4 +3815,12 @@
 		"updatedname" "kz_hroosh"
 		"OnlyNominate" "0"
 	}
+	"kz_dankality"
+	{
+		"workshop_id" "3792822126"
+		"enabled" "1"
+		"filename" "kz_dankality"
+		"updatedname" "kz_dankality"
+		"OnlyNominate" "0"
+	}
 }
