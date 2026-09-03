@@ -1622,5 +1622,9 @@
   {
     "MapName": "kz_nikita_ohio",
     "WorkshopId": "3783364871"
+  },
+  {
+    "MapName": "kz_engram",
+    "WorkshopId": "3759997670"
   }
 ]
