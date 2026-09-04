@@ -381,7 +381,7 @@
 	"kz_train"
 	{
 		"workshop_id" "3290473039"
-		"enabled" "1"
+		"enabled" "0"
 		"filename" "kz_train"
 		"updatedname" "kz_train"
 	}
@@ -1962,7 +1962,7 @@
 	"kz_locomotion"
 	{
 		"workshop_id" "3519158020"
-		"enabled" "1"
+		"enabled" "0"
 		"filename" "kz_locomotion"
 		"updatedname" "kz_locomotion"
 		"OnlyNominate" "0"
@@ -2090,7 +2090,7 @@
 	"kz_sillycats V4"
 	{
 		"workshop_id" "3600582426"
-		"enabled" "1"
+		"enabled" "0"
 		"filename" "kz_sillycats V4"
 		"updatedname" "kz_sillycats V4"
 		"OnlyNominate" "0"
@@ -2714,7 +2714,7 @@
 	"kz_xmas2025_update_test"
 	{
 		"workshop_id" "3675034432"
-		"enabled" "1"
+		"enabled" "0"
 		"filename" "kz_xmas2025_update_test"
 		"updatedname" "kz_xmas2025_update_test"
 		"OnlyNominate" "0"
