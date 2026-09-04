@@ -8,6 +8,10 @@ on:
   schedule:
     - cron: '0 */6 * * *'  # 每 6 个小时触发一次
 
+permissions:
+  contents: write
+  pull-requests: write
+
 jobs:
   check-workshop-ids:
     runs-on: ubuntu-latest
@@ -20,22 +24,27 @@ jobs:
 
     steps:
     - name: 检出代码库
-      uses: actions/checkout@v3
+      uses: actions/checkout@v4
       with:
         ref: master  # 确保检出的是主分支
         fetch-depth: 0  # 获取完整提交历史
 
     - name: 计算分支名称
       id: branch_name
-      run: echo "branch_name=disable-unavailable-ids-$(echo ${{ matrix.maps_path }} | md5sum | cut -d ' ' -f 1)" >> $GITHUB_ENV
+      env:
+        MAPS_PATH: ${{ matrix.maps_path }}
+      run: |
+        branch_name="disable-unavailable-ids-$(printf '%s' "$MAPS_PATH" | md5sum | cut -d ' ' -f 1)"
+        echo "branch_name=$branch_name" >> "$GITHUB_OUTPUT"
 
     - name: 删除现有的 disable-unavailable-ids 分支
+      env:
+        BRANCH_NAME: ${{ steps.branch_name.outputs.branch_name }}
       run: |
-        git branch -D ${{ env.branch_name }} || true
-        git push origin --delete ${{ env.branch_name }} || true
+        git push origin --delete "$BRANCH_NAME" 2>/dev/null || true
 
     - name: 设置 Python 环境
-      uses: actions/setup-python@v4
+      uses: actions/setup-python@v5
       with:
         python-version: '3.x'
 
@@ -50,27 +59,20 @@ jobs:
         python scripts/check_workshop_ids.py ${{ matrix.maps_path }}
       continue-on-error: true
 
-    - name: 读取不可用的 IDs
-      if: failure()
-      id: read_unavailable_ids
-      run: |
-        if [ -f unavailable_ids.txt ]; then
-          ids=$(cat unavailable_ids.txt)
-          echo "unavailable_ids=$ids" >> $GITHUB_ENV
-        fi
-
     - name: 输出结果
       run: |
-        if [ "${{ steps.check_script.outcome }}" == "failure" ]; then
+        if [ "${{ steps.check_script.outputs.result }}" = "failure" ]; then
           echo -e "\033[91m部分 Steam Workshop IDs 不可用。\033[0m"
-          exit 1
-        else:
+        elif [ "${{ steps.check_script.outputs.result }}" = "success" ]; then
           echo -e "\033[92m所有 Steam Workshop IDs 均可用。\033[0m"
+        else
+          echo "检查脚本执行失败，未生成有效结果。"
+          exit 1
         fi
 
     - name: 创建拉取请求
-      if: failure()  # 仅在上一步失败时触发
-      uses: peter-evans/create-pull-request@v5
+      if: steps.check_script.outputs.result == 'failure'
+      uses: peter-evans/create-pull-request@v8
       with:
         commit-message: 禁用不可用的 Steam Workshop IDs
         title: 禁用不可用的 Steam Workshop IDs
@@ -78,8 +80,8 @@ jobs:
           部分 Steam Workshop IDs 不可用。已将其对应的 enabled 字段从 1 改为 0。
 
           不可用 ID 列表:
-          ${{ env.unavailable_ids }}
+          ${{ steps.check_script.outputs.unavailable_ids }}
 
           请审核并确认更改。
-        branch: ${{ env.branch_name }}
+        branch: ${{ steps.branch_name.outputs.branch_name }}
         base: master

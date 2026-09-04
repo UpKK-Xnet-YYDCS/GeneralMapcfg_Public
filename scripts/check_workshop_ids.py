@@ -2,6 +2,23 @@ import requests
 import sys
 import re
 import hashlib
+import os
+import uuid
+
+
+def set_github_output(name, value):
+    """在 GitHub Actions 中写入输出；本地运行时忽略。"""
+    output_file = os.environ.get("GITHUB_OUTPUT")
+    if not output_file:
+        return
+
+    value = str(value)
+    delimiter = f"ghadelimiter_{uuid.uuid4().hex}"
+    with open(output_file, "a", encoding="utf-8") as file:
+        if "\n" in value:
+            file.write(f"{name}<<{delimiter}\n{value}\n{delimiter}\n")
+        else:
+            file.write(f"{name}={value}\n")
 
 def parse_keyvalue(content):
     """解析 KeyValue 格式的内容，并转换为字典"""
@@ -185,7 +202,12 @@ def main():
 
         if confirmed_unavailable_ids:
             update_maps_file(file_path, [workshop_id for workshop_id, _ in confirmed_unavailable_ids])
-            print('::set-output name=result::failure')
+            unavailable_text = "\n".join(
+                f"{workshop_id} (filename: {filename})"
+                for workshop_id, filename in confirmed_unavailable_ids
+            )
+            set_github_output("result", "failure")
+            set_github_output("unavailable_ids", unavailable_text)
             with open("unavailable_ids.txt", "w") as f:
                 for workshop_id, filename in confirmed_unavailable_ids:
                     f.write(f"{workshop_id} (filename: {filename})\n")
@@ -194,10 +216,10 @@ def main():
                 print(f"\033[91m{workshop_id} (filename: {filename})\033[0m")
         else:
             print(f"\033[92m可用 IDs: {', '.join(available_ids)}\033[0m")
-            print('::set-output name=result::success')
+            set_github_output("result", "success")
     else:
         print(f"\033[92m可用 IDs: {', '.join(available_ids)}\033[0m")
-        print('::set-output name=result::success')
+        set_github_output("result", "success")
 
     # 输出所有 enabled 为 0 的地图条目
     print("\n以下是所有 enabled 为 0 的地图条目:")
