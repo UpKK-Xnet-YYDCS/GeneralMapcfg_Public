@@ -1626,5 +1626,9 @@
   {
     "MapName": "kz_engram",
     "WorkshopId": "3759997670"
+  },
+  {
+    "MapName": "kz_slid_typo",
+    "WorkshopId": "3791861953"
   }
 ]
