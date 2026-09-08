@@ -3778,7 +3778,7 @@
 	"kz_kzt_test"
 	{
 		"workshop_id" "3790037828"
-		"enabled" "1"
+		"enabled" "0"
 		"filename" "kz_kzt_test"
 		"updatedname" "kz_kzt_test"
 		"OnlyNominate" "0"
