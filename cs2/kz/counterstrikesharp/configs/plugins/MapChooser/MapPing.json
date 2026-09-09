@@ -1630,5 +1630,9 @@
   {
     "MapName": "kz_slid_typo",
     "WorkshopId": "3791861953"
+  },
+  {
+    "MapName": "kz_continuum",
+    "WorkshopId": "3796009853"
   }
 ]
