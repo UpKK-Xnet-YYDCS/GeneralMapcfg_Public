@@ -1634,5 +1634,13 @@
   {
     "MapName": "kz_continuum",
     "WorkshopId": "3796009853"
+  },
+  {
+    "MapName": "kz_dankality",
+    "WorkshopId": "3792822126"
+  },
+  {
+    "MapName": "kz_techtonic_v2_ldr",
+    "WorkshopId": "3792212506"
   }
 ]
