@@ -1642,5 +1642,9 @@
   {
     "MapName": "kz_techtonic_v2_ldr",
     "WorkshopId": "3792212506"
+  },
+  {
+    "MapName": "kz_superbober",
+    "WorkshopId": "3789012076"
   }
 ]
