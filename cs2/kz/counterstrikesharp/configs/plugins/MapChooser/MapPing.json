@@ -1646,5 +1646,9 @@
   {
     "MapName": "kz_superbober",
     "WorkshopId": "3789012076"
+  },
+  {
+    "MapName": "kz_bhop_majka",
+    "WorkshopId": "3764093804"
   }
 ]
