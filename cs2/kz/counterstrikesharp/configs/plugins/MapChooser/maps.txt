@@ -3831,4 +3831,12 @@
 		"updatedname" "kz_continuum"
 		"OnlyNominate" "0"
 	}
+	"kz_kiwidesecration"
+	{
+		"workshop_id" "3799106041"
+		"enabled" "1"
+		"filename" "kz_kiwidesecration"
+		"updatedname" "kz_kiwidesecration"
+		"OnlyNominate" "0"
+	}
 }
