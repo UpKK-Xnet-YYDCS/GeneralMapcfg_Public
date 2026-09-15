@@ -1650,5 +1650,9 @@
   {
     "MapName": "kz_bhop_majka",
     "WorkshopId": "3764093804"
+  },
+  {
+    "MapName": "kz_erratum",
+    "WorkshopId": "3800050651"
   }
 ]
