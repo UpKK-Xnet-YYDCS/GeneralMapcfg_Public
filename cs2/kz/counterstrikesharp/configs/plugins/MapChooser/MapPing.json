@@ -1654,5 +1654,9 @@
   {
     "MapName": "kz_erratum",
     "WorkshopId": "3800050651"
+  },
+  {
+    "MapName": "kz_kiwidesecration",
+    "WorkshopId": "3799106041"
   }
 ]
