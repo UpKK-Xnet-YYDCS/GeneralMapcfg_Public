@@ -3863,4 +3863,12 @@
 		"updatedname" "kz_mieszaneuczucia"
 		"OnlyNominate" "0"
 	}
+	"kz_slide_rov_od"
+	{
+		"workshop_id" "3808658563"
+		"enabled" "1"
+		"filename" "kz_slide_rov_od"
+		"updatedname" "kz_slide_rov_od"
+		"OnlyNominate" "0"
+	}
 }
