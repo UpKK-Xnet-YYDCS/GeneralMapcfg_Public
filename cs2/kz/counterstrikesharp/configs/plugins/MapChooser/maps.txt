@@ -2338,7 +2338,7 @@
 	"kz_func_detail"
 	{
 		"workshop_id" "3628610350"
-		"enabled" "1"
+		"enabled" "0"
 		"filename" "kz_func_detail"
 		"updatedname" "kz_func_detail"
 		"OnlyNominate" "0"
@@ -3370,7 +3370,7 @@
 	"kz_slide_dydanhomon2"
 	{
 		"workshop_id" "3739884822"
-		"enabled" "1"
+		"enabled" "0"
 		"filename" "kz_slide_dydanhomon2"
 		"updatedname" "kz_slide_dydanhomon2"
 		"OnlyNominate" "0"
@@ -3778,7 +3778,7 @@
 	"kz_kzt_test"
 	{
 		"workshop_id" "3790037828"
-		"enabled" "1"
+		"enabled" "0"
 		"filename" "kz_kzt_test"
 		"updatedname" "kz_kzt_test"
 		"OnlyNominate" "0"
@@ -3802,7 +3802,7 @@
 	"kz_techtonic_v2_ldr"
 	{
 		"workshop_id" "3792212506"
-		"enabled" "1"
+		"enabled" "0"
 		"filename" "kz_techtonic_v2_ldr"
 		"updatedname" "kz_techtonic_v2_ldr"
 		"OnlyNominate" "0"
