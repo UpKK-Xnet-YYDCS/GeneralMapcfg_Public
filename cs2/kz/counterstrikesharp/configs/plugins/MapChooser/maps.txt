@@ -3871,4 +3871,12 @@
 		"updatedname" "kz_slide_rov_od"
 		"OnlyNominate" "0"
 	}
+	"kz_insania_moralis"
+	{
+		"workshop_id" "3809766386"
+		"enabled" "1"
+		"filename" "kz_insania_moralis"
+		"updatedname" "kz_insania_moralis"
+		"OnlyNominate" "0"
+	}
 }
