@@ -3887,4 +3887,28 @@
 		"updatedname" "kz_pivo"
 		"OnlyNominate" "0"
 	}
+	"kz_shell"
+	{
+		"workshop_id" "3810619949"
+		"enabled" "1"
+		"filename" "kz_shell"
+		"updatedname" "kz_shell"
+		"OnlyNominate" "0"
+	}
+	"kz_kiwidesecration_x"
+	{
+		"workshop_id" "3810552399"
+		"enabled" "1"
+		"filename" "kz_kiwidesecration_x"
+		"updatedname" "kz_kiwidesecration_x"
+		"OnlyNominate" "0"
+	}
+	"kz_kiwiconvulsion"
+	{
+		"workshop_id" "3810303255"
+		"enabled" "1"
+		"filename" "kz_kiwiconvulsion"
+		"updatedname" "kz_kiwiconvulsion"
+		"OnlyNominate" "0"
+	}
 }
