@@ -3911,4 +3911,36 @@
 		"updatedname" "kz_kiwiconvulsion"
 		"OnlyNominate" "0"
 	}
+	"kz_imaginary"
+	{
+		"workshop_id" "3812048009"
+		"enabled" "1"
+		"filename" "kz_imaginary"
+		"updatedname" "kz_imaginary"
+		"OnlyNominate" "0"
+	}
+	"kz_suspirium"
+	{
+		"workshop_id" "3811982327"
+		"enabled" "1"
+		"filename" "kz_suspirium"
+		"updatedname" "kz_suspirium"
+		"OnlyNominate" "0"
+	}
+	"kz_weaver WIP"
+	{
+		"workshop_id" "3811799402"
+		"enabled" "1"
+		"filename" "kz_weaver WIP"
+		"updatedname" "kz_weaver WIP"
+		"OnlyNominate" "0"
+	}
+	"kz_gmc"
+	{
+		"workshop_id" "3782553775"
+		"enabled" "1"
+		"filename" "kz_gmc"
+		"updatedname" "kz_gmc"
+		"OnlyNominate" "0"
+	}
 }
