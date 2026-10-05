@@ -1666,5 +1666,9 @@
   {
     "MapName": "kz_mieszaneuczucia",
     "WorkshopId": "3804160783"
+  },
+  {
+    "MapName": "kz_kiwidesecration_x",
+    "WorkshopId": "3810552399"
   }
 ]
