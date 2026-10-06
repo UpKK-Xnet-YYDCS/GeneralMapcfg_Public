@@ -3943,4 +3943,28 @@
 		"updatedname" "kz_gmc"
 		"OnlyNominate" "0"
 	}
+	"kz_kiwicorridor"
+	{
+		"workshop_id" "3813932692"
+		"enabled" "1"
+		"filename" "kz_kiwicorridor"
+		"updatedname" "kz_kiwicorridor"
+		"OnlyNominate" "0"
+	}
+	"kz_slide_red"
+	{
+		"workshop_id" "3813588774"
+		"enabled" "1"
+		"filename" "kz_slide_red"
+		"updatedname" "kz_slide_red"
+		"OnlyNominate" "0"
+	}
+	"kz_retribution"
+	{
+		"workshop_id" "3779008333"
+		"enabled" "1"
+		"filename" "kz_retribution"
+		"updatedname" "kz_retribution"
+		"OnlyNominate" "0"
+	}
 }
