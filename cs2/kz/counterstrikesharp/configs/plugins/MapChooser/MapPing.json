@@ -1674,5 +1674,13 @@
   {
     "MapName": "kz_insania_moralis",
     "WorkshopId": "3809766386"
+  },
+  {
+    "MapName": "kz_slide_rov_od",
+    "WorkshopId": "3808658563"
+  },
+  {
+    "MapName": "kz_kiwicorridor",
+    "WorkshopId": "3813932692"
   }
 ]
