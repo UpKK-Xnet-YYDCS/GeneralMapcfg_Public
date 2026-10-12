@@ -3975,4 +3975,12 @@
 		"updatedname" "kz_slide_svn_downhill2"
 		"OnlyNominate" "0"
 	}
+	"kz_ken3inub"
+	{
+		"workshop_id" "3817874651"
+		"enabled" "1"
+		"filename" "kz_ken3inub"
+		"updatedname" "kz_ken3inub"
+		"OnlyNominate" "0"
+	}
 }
