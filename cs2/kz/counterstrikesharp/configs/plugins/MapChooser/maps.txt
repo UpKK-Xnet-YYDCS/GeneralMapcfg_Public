@@ -3983,4 +3983,20 @@
 		"updatedname" "kz_ken3inub"
 		"OnlyNominate" "0"
 	}
+	"kz_sakhalin"
+	{
+		"workshop_id" "3818832735"
+		"enabled" "1"
+		"filename" "kz_sakhalin"
+		"updatedname" "kz_sakhalin"
+		"OnlyNominate" "0"
+	}
+	"kz_redemption"
+	{
+		"workshop_id" "3818757917"
+		"enabled" "1"
+		"filename" "kz_redemption"
+		"updatedname" "kz_redemption"
+		"OnlyNominate" "0"
+	}
 }
