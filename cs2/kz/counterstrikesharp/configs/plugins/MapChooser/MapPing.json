@@ -1686,5 +1686,9 @@
   {
     "MapName": "kz_slide_red",
     "WorkshopId": "3813588774"
+  },
+  {
+    "MapName": "kz_slide_svn_downhill2",
+    "WorkshopId": "3817353330"
   }
 ]
