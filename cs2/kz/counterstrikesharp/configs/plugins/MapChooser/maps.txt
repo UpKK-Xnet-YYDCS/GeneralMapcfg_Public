@@ -4023,4 +4023,20 @@
 		"updatedname" "kz_skweak"
 		"OnlyNominate" "0"
 	}
+	"kz_tense"
+	{
+		"workshop_id" "3821737136"
+		"enabled" "1"
+		"filename" "kz_tense"
+		"updatedname" "kz_tense"
+		"OnlyNominate" "0"
+	}
+	"kz_hunter_training"
+	{
+		"workshop_id" "3821700159"
+		"enabled" "1"
+		"filename" "kz_hunter_training"
+		"updatedname" "kz_hunter_training"
+		"OnlyNominate" "0"
+	}
 }
