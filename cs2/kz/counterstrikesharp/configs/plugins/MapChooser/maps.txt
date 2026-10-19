@@ -4039,4 +4039,28 @@
 		"updatedname" "kz_hunter_training"
 		"OnlyNominate" "0"
 	}
+	"kz_wisp"
+	{
+		"workshop_id" "3822490245"
+		"enabled" "1"
+		"filename" "kz_wisp"
+		"updatedname" "kz_wisp"
+		"OnlyNominate" "0"
+	}
+	"kz_slide_god"
+	{
+		"workshop_id" "3822428978"
+		"enabled" "1"
+		"filename" "kz_slide_god"
+		"updatedname" "kz_slide_god"
+		"OnlyNominate" "0"
+	}
+	"kz_sirocco"
+	{
+		"workshop_id" "3820688023"
+		"enabled" "1"
+		"filename" "kz_sirocco"
+		"updatedname" "kz_sirocco"
+		"OnlyNominate" "0"
+	}
 }
