@@ -1702,5 +1702,9 @@
   {
     "MapName": "kz_shell",
     "WorkshopId": "3810619949"
+  },
+  {
+    "MapName": "kz_retribution",
+    "WorkshopId": "3779008333"
   }
 ]
