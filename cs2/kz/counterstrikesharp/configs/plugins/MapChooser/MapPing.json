@@ -1706,5 +1706,9 @@
   {
     "MapName": "kz_retribution",
     "WorkshopId": "3779008333"
+  },
+  {
+    "MapName": "kz_slide_god",
+    "WorkshopId": "3822428978"
   }
 ]
