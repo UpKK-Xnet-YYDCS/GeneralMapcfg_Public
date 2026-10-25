@@ -4063,4 +4063,12 @@
 		"updatedname" "kz_sirocco"
 		"OnlyNominate" "0"
 	}
+	"kz_surf_abaddon"
+	{
+		"workshop_id" "3826098108"
+		"enabled" "1"
+		"filename" "kz_surf_abaddon"
+		"updatedname" "kz_surf_abaddon"
+		"OnlyNominate" "0"
+	}
 }
