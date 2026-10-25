@@ -1710,5 +1710,9 @@
   {
     "MapName": "kz_slide_god",
     "WorkshopId": "3822428978"
+  },
+  {
+    "MapName": "kz_sakhalin",
+    "WorkshopId": "3818832735"
   }
 ]
