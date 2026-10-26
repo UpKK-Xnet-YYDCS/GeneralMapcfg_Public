@@ -4079,4 +4079,12 @@
 		"updatedname" "kz_slide_spm_simple"
 		"OnlyNominate" "0"
 	}
+	"kz_gy_agitation"
+	{
+		"workshop_id" "3827297515"
+		"enabled" "1"
+		"filename" "kz_gy_agitation"
+		"updatedname" "kz_gy_agitation"
+		"OnlyNominate" "0"
+	}
 }
