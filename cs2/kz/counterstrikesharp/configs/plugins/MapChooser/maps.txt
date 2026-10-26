@@ -4071,4 +4071,12 @@
 		"updatedname" "kz_surf_abaddon"
 		"OnlyNominate" "0"
 	}
+	"kz_slide_spm_simple"
+	{
+		"workshop_id" "3826856629"
+		"enabled" "1"
+		"filename" "kz_slide_spm_simple"
+		"updatedname" "kz_slide_spm_simple"
+		"OnlyNominate" "0"
+	}
 }
