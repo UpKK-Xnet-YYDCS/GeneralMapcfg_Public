@@ -1718,5 +1718,9 @@
   {
     "MapName": "kz_slide_spm_simple",
     "WorkshopId": "3826856629"
+  },
+  {
+    "MapName": "kz_tense",
+    "WorkshopId": "3821737136"
   }
 ]
