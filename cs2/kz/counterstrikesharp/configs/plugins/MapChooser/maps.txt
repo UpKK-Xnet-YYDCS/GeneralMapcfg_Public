@@ -4087,4 +4087,28 @@
 		"updatedname" "kz_gy_agitation"
 		"OnlyNominate" "0"
 	}
+	"kz_wafflehouse_x"
+	{
+		"workshop_id" "3829147286"
+		"enabled" "1"
+		"filename" "kz_wafflehouse_x"
+		"updatedname" "kz_wafflehouse_x"
+		"OnlyNominate" "0"
+	}
+	"kz_wafflehouse_hard"
+	{
+		"workshop_id" "3829144614"
+		"enabled" "1"
+		"filename" "kz_wafflehouse_hard"
+		"updatedname" "kz_wafflehouse_hard"
+		"OnlyNominate" "0"
+	}
+	"kz_wafflehouse_easy"
+	{
+		"workshop_id" "3829142835"
+		"enabled" "1"
+		"filename" "kz_wafflehouse_easy"
+		"updatedname" "kz_wafflehouse_easy"
+		"OnlyNominate" "0"
+	}
 }
