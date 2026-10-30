@@ -4111,4 +4111,12 @@
 		"updatedname" "kz_wafflehouse_easy"
 		"OnlyNominate" "0"
 	}
+	"kz_easydark"
+	{
+		"workshop_id" "3820127513"
+		"enabled" "1"
+		"filename" "kz_easydark"
+		"updatedname" "kz_easydark"
+		"OnlyNominate" "0"
+	}
 }
