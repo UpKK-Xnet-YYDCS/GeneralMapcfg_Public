@@ -1722,5 +1722,13 @@
   {
     "MapName": "kz_tense",
     "WorkshopId": "3821737136"
+  },
+  {
+    "MapName": "kz_sirocco",
+    "WorkshopId": "3820688023"
+  },
+  {
+    "MapName": "kz_wafflehouse_easy",
+    "WorkshopId": "3829142835"
   }
 ]
