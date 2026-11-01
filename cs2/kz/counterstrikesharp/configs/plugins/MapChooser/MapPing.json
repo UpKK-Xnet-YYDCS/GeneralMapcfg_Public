@@ -1730,5 +1730,9 @@
   {
     "MapName": "kz_wafflehouse_easy",
     "WorkshopId": "3829142835"
+  },
+  {
+    "MapName": "kz_imaginary",
+    "WorkshopId": "3812048009"
   }
 ]
