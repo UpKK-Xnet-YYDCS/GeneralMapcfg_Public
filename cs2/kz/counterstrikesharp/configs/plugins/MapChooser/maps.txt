@@ -4119,4 +4119,28 @@
 		"updatedname" "kz_easydark"
 		"OnlyNominate" "0"
 	}
+	"kz_sunshine"
+	{
+		"workshop_id" "3830064858"
+		"enabled" "1"
+		"filename" "kz_sunshine"
+		"updatedname" "kz_sunshine"
+		"OnlyNominate" "0"
+	}
+	"kz_gasworkspark"
+	{
+		"workshop_id" "3830039059"
+		"enabled" "1"
+		"filename" "kz_gasworkspark"
+		"updatedname" "kz_gasworkspark"
+		"OnlyNominate" "0"
+	}
+	"kz_blackforest"
+	{
+		"workshop_id" "3812792491"
+		"enabled" "1"
+		"filename" "kz_blackforest"
+		"updatedname" "kz_blackforest"
+		"OnlyNominate" "0"
+	}
 }
