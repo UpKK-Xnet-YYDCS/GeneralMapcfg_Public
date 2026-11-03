@@ -4143,4 +4143,12 @@
 		"updatedname" "kz_blackforest"
 		"OnlyNominate" "0"
 	}
+	"kz_aurajoki"
+	{
+		"workshop_id" "3829464841"
+		"enabled" "1"
+		"filename" "kz_aurajoki"
+		"updatedname" "kz_aurajoki"
+		"OnlyNominate" "0"
+	}
 }
