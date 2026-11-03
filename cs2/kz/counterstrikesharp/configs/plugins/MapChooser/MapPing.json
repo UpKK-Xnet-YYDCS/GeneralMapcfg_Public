@@ -1734,5 +1734,9 @@
   {
     "MapName": "kz_imaginary",
     "WorkshopId": "3812048009"
+  },
+  {
+    "MapName": "kz_claustroscend",
+    "WorkshopId": "3782229260"
   }
 ]
