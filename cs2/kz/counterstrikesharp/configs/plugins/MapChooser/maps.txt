@@ -4151,4 +4151,20 @@
 		"updatedname" "kz_aurajoki"
 		"OnlyNominate" "0"
 	}
+	"kz_steppe (TESTING)"
+	{
+		"workshop_id" "3832916492"
+		"enabled" "1"
+		"filename" "kz_steppe (TESTING)"
+		"updatedname" "kz_steppe (TESTING)"
+		"OnlyNominate" "0"
+	}
+	"kz_how2slide"
+	{
+		"workshop_id" "3832249551"
+		"enabled" "1"
+		"filename" "kz_how2slide"
+		"updatedname" "kz_how2slide"
+		"OnlyNominate" "0"
+	}
 }
