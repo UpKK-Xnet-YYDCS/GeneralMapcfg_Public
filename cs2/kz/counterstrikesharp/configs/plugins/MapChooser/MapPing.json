@@ -1742,5 +1742,13 @@
   {
     "MapName": "kz_sunshine",
     "WorkshopId": "3830064858"
+  },
+  {
+    "MapName": "kz_gasworkspark",
+    "WorkshopId": "3830039059"
+  },
+  {
+    "MapName": "kz_gy_agitation",
+    "WorkshopId": "3827297515"
   }
 ]
