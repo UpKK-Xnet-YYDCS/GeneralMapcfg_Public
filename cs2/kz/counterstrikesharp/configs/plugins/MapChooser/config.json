@@ -13,6 +13,7 @@
     "RTVPercent": 0.62,
     "RTVDelay": 1.0,
     "UseGameTimeLimit":false,
+    "RecoverMapOnRestart": false,
     "SteamWorkShopCollectionId": "3218424661",
     "AutoDownload": false,
     "UseSteamWorkShopCollectionId": true,
