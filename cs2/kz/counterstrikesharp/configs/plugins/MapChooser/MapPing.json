@@ -1754,5 +1754,9 @@
   {
     "MapName": "kz_old_depression (WiP)",
     "WorkshopId": "3595493972"
+  },
+  {
+    "MapName": "kz_sky_to_acc1",
+    "WorkshopId": "3834878951"
   }
 ]
