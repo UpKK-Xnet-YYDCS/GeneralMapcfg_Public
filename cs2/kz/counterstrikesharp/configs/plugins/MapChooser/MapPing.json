@@ -1750,5 +1750,9 @@
   {
     "MapName": "kz_gy_agitation",
     "WorkshopId": "3827297515"
+  },
+  {
+    "MapName": "kz_old_depression (WiP)",
+    "WorkshopId": "3595493972"
   }
 ]
