@@ -4191,4 +4191,20 @@
 		"updatedname" "kz_sky_to_acc1"
 		"OnlyNominate" "0"
 	}
+	"kz_azure"
+	{
+		"workshop_id" "3835360980"
+		"enabled" "1"
+		"filename" "kz_azure"
+		"updatedname" "kz_azure"
+		"OnlyNominate" "0"
+	}
+	"kz_ascend_hv"
+	{
+		"workshop_id" "3835152316"
+		"enabled" "1"
+		"filename" "kz_ascend_hv"
+		"updatedname" "kz_ascend_hv"
+		"OnlyNominate" "0"
+	}
 }
