@@ -1758,5 +1758,9 @@
   {
     "MapName": "kz_sky_to_acc1",
     "WorkshopId": "3834878951"
+  },
+  {
+    "MapName": "kz_easydark",
+    "WorkshopId": "3820127513"
   }
 ]
