@@ -4223,4 +4223,12 @@
 		"updatedname" "kz_anoare"
 		"OnlyNominate" "0"
 	}
+	"kz_w1_holiday"
+	{
+		"workshop_id" "3840906487"
+		"enabled" "1"
+		"filename" "kz_w1_holiday"
+		"updatedname" "kz_w1_holiday"
+		"OnlyNominate" "0"
+	}
 }
