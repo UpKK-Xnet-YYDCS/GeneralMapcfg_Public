@@ -4215,4 +4215,12 @@
 		"updatedname" "kz_apiisnotresponding"
 		"OnlyNominate" "0"
 	}
+	"kz_anoare"
+	{
+		"workshop_id" "3840477251"
+		"enabled" "1"
+		"filename" "kz_anoare"
+		"updatedname" "kz_anoare"
+		"OnlyNominate" "0"
+	}
 }
