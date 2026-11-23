@@ -1762,5 +1762,9 @@
   {
     "MapName": "kz_easydark",
     "WorkshopId": "3820127513"
+  },
+  {
+    "MapName": "kz_hunter_training",
+    "WorkshopId": "3821700159"
   }
 ]
