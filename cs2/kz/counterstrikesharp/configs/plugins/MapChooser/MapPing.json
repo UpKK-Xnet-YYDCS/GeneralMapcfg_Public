@@ -1766,5 +1766,9 @@
   {
     "MapName": "kz_hunter_training",
     "WorkshopId": "3821700159"
+  },
+  {
+    "MapName": "kz_hb_wangdefa",
+    "WorkshopId": "3776801864"
   }
 ]
